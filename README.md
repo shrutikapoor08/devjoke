@@ -1,5 +1,5 @@
 # Dev Joke
-Submit a PR if you know a good Dev Joke. 
+Send me a PR if you know a good Dev Joke. 
 
 #### Question - How do you comfort a JavaScript bug? 
 
