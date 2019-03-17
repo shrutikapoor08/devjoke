@@ -15,3 +15,12 @@ You console it.
 It didn't get the context. 
 
 ***
+
+
+#### Question - Why did the JavaScript developer leave? 
+
+
+Because she didn't get arrays
+
+***
+
