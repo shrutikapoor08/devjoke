@@ -38,6 +38,78 @@ Because they have constant arguments.
 Because OCT 31 = DEC 25 
 ***
 
-![Broken Build](./images/build-is-broken.png "Logo Title Text 1")
+![Broken Build](./images/build-is-broken.png)
+
+***
+
+![Cloud](./images/clouds.png)
+
+***
+
+![Cookies](./images/cookies.png)
+
+***
+
+![Distracted Dev](./images/distracted-dev.png)
+
+***
+
+![Eminem](./images/eminem.png)
+
+***
+
+![Functions](./images/functions.png)
+
+***
+
+![Git commit](./images/git-commit.png)
+
+***
+
+![GraphQL](./images/graphql.png)
+
+***
+
+![Love](./images/love.png)
+
+***
+
+![Machine Learning](./images/machinelearning.png)
+
+***
+
+![Marie Kondo](./images/marie-kondo.png)
+
+***
+
+![New Framework](./images/new-framework.png)
+
+***
+
+![Pointer](./images/pointer.png)
+
+***
+
+![Redux and GraphQL](./images/reduxandgraphql.png)
+
+***
+
+![Santa](./images/santa.png)
+
+***
+
+![Tests](./images/tests.png)
+
+***
+
+![Undefined](./images/undefined.png)
+
+***
+
+![While Do Loop](./images/while-do.png)
+
+***
+
+![z-index](./images/z-index.png)
 
 ***
