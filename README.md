@@ -24,3 +24,20 @@ Because she didn't get arrays
 
 ***
 
+#### Question - Why do functions always break up? 
+
+
+Because they have constant arguments.
+
+***
+
+
+#### Question - Why do programmers get confused between Halloween and Christmas?
+
+
+Because OCT 31 = DEC 25 
+***
+
+![Broken Build](./images/build-is-broken.png "Logo Title Text 1")
+
+***
