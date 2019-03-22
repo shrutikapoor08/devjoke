@@ -36,6 +36,13 @@ Because they have constant arguments.
 
 
 Because OCT 31 = DEC 25 
+
+***
+
+#### Question - What is programmer's favourite hangout place?
+
+Foo Bar
+
 ***
 
 ![Broken Build](./images/build-is-broken.png)
