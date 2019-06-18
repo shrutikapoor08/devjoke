@@ -1,6 +1,10 @@
 # Dev Joke
 Send me a PR if you know a good Dev Joke. 
 
+#### Question - How did the developer announce their engagement?
+
+`this.engaged = true`
+***
 
 #### Question - Why is the Javascript developer sad?
 
