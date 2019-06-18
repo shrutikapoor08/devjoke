@@ -1,6 +1,15 @@
 # Dev Joke
 Send me a PR if you know a good Dev Joke. 
 
+
+#### Question - Why is the Javascript developer sad?
+
+
+Because they do not Node how to Express themselves.
+
+***
+
+
 #### Question - How do you comfort a JavaScript bug? 
 
 
