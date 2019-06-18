@@ -42,7 +42,18 @@ Because OCT 31 = DEC 25
 #### Question - What is programmer's favourite hangout place?
 
 Foo Bar
+***
 
+![async](./images/async.png)
+***
+
+![Python Space](./images/space-python.png)
+***
+
+![gitignore](./images/gitignore.jpg)
+***
+
+![Machine Learning](./images/machine-learning2.png)
 ***
 
 ![OOP](./images/poop.png)
