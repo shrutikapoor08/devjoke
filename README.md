@@ -1,7 +1,7 @@
 # Dev Joke
 Send me a PR if you know a good Dev Joke. 
 
-#### Question - How did the developer announce their engagement?
+#### Question - How did the developer announce her engagement?
 
 `this.engaged = true`
 ***
