@@ -153,3 +153,7 @@ Foo Bar
 
 ***
 ![docker](./images/docker.jpg)
+
+***
+
+![java](./images/garbage-collector.png)
