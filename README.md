@@ -186,3 +186,11 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+
+![debugger](./images/console-log-debugger.jpg)
+
+***
+
+![documentation](./images/documentation.jpg)
