@@ -186,3 +186,11 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+
+#### Question - Why did the developer die in the shower?
+
+He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+
+***
