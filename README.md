@@ -84,6 +84,12 @@ Foo Bar
 
 A URLogist
 
+###
+-Knock knock
+-Unsynchronized block
+-Who's there?
+
+
 ***
 
 ![async](./images/async.png)
