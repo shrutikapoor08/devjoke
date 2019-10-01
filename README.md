@@ -1,6 +1,12 @@
 # Dev Joke
 Send me a PR if you know a good Dev Joke. 
 
+***
+
+A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
+
+***
+
 #### Question - How did the developer announce her engagement?
 
 `this.engaged = true`
