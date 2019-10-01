@@ -85,7 +85,11 @@ Foo Bar
 A URLogist
 
 ***
+#### Question - Why does no one likes SQLrillex?
 
+He keeps dropping the database
+
+***
 ![async](./images/async.png)
 ***
 
