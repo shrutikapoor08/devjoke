@@ -22,6 +22,9 @@ A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
 
 ***
 
+There are two types of software developers. But I mix it up, which is which because I write JavaScript.
+
+***
 #### Question - How did the developer announce her engagement?
 
 `this.engaged = true`
