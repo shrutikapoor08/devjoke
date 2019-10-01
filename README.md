@@ -12,6 +12,10 @@ Either way, I don't care.
 
 ***
 
+LIFE OF A PROGRAMMER: no hugs and kisses, only bugs and fixes.
+
+***
+
 #### Question - What will be the name of the movie on a sad developer?
 
 `DEV`das
