@@ -186,3 +186,7 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+
+![JavaScript Arrays](./images/javascript-arrays.jpg)
