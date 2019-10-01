@@ -2,6 +2,13 @@
 Send me a PR if you know a good Dev Joke. 
 
 
+***
+I would tell you a joke about UDP, but I don't know if you will get it. 
+
+Either way, I don't care.
+
+***
+
 #### Question - What will be the name of the movie on a sad developer?
 
 `DEV`das
