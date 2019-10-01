@@ -176,3 +176,7 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+
+![Using VS to open JSON](./images/open_json_in_vs.jpg)
