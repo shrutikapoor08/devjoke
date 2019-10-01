@@ -86,6 +86,12 @@ A URLogist
 
 ***
 
+#### Question - How did the programmer die in the shower?
+
+He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+
+***
+
 ![async](./images/async.png)
 ***
 
