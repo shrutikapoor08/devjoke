@@ -86,6 +86,12 @@ A URLogist
 
 ***
 
+#### Question - How are computers and air conditioners similar?
+
+They are both useless when you open windows
+
+***
+
 ![async](./images/async.png)
 ***
 
