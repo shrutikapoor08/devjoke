@@ -186,3 +186,6 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+![backend vs frontend](./images/backendVSfrontend.png)
