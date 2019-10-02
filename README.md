@@ -190,3 +190,7 @@ A URLogist
 ***
 
 ![money](./images/need_money.png)
+
+***
+
+![Fronted_Dev](./images/js_dev.png)
