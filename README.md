@@ -186,3 +186,6 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+![glass](./images/Please_do_not_tap_on_glass.jpeg)
