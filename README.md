@@ -186,3 +186,8 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+
+***
+
+![Meet-our-team](./images/wathyqu6m8h01.jpg)
