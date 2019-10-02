@@ -86,6 +86,13 @@ A URLogist
 
 ***
 
+There are 10 types of people in this World,
+1. One who understand ternary
+2. One who doesn't understand ternary
+3. One who were expecting the age-old binary joke
+
+***
+
 ![async](./images/async.png)
 ***
 
