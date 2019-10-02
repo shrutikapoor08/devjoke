@@ -186,3 +186,7 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+
+![Why did the c# developer fall asleep](./images/joke-why-did-the-c-developer-fall-asleep.png)
