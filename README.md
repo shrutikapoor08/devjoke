@@ -186,3 +186,6 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+***
+
+An algorithm is like a joke: If you have to explain it, it isn't that good.
