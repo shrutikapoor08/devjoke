@@ -186,3 +186,12 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+A programmer walks into a bar, sits down next to a pretty girl and says "I'm making a pull request."
+
+***
+There are 11 kinds of people, those who can count binary, and those who can't.
+
+***
+Perl. 
