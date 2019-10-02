@@ -186,3 +186,7 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+
+![Father-Son-Web-Developer](./images/Father-son-web-dev-joke.jpg)
