@@ -189,4 +189,8 @@ A URLogist
 
 ***
 
-![android studio](./images/android-studio.png)
+![android studio](./images/android-studio.jpg)
+
+***
+
+![developer job](./images/developer-job.jpg)
