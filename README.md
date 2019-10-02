@@ -86,6 +86,12 @@ A URLogist
 
 ***
 
+#### Question - How do two programmers make money?
+
+One writes viruses, the other anti-viruses.
+
+***
+
 ![async](./images/async.png)
 ***
 
