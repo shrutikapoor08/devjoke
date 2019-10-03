@@ -186,3 +186,7 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+
+![gitcommit](./images/uselessgit.jpeg)
