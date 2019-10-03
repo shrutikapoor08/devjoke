@@ -86,6 +86,12 @@ A URLogist
 
 ***
 
+#### Question - What does the duck sitting on the router do?
+
+NAT NAT NAT
+
+***
+
 ![async](./images/async.png)
 ***
 
