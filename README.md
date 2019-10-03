@@ -189,6 +189,10 @@ A URLogist
 
 ***
 
+![qa engineer walks into a bar](./images/qaengineerwalksintoabar.png)
+
+***
+
 ![java](./images/android-kot-java.jpg)
 
 ***
