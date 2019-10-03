@@ -86,6 +86,15 @@ A URLogist
 
 ***
 
+
+#### Question - Where Did you both meet?
+
+Windows User: At the office
+Mac User: At the Starbucks
+Linux Users: At the Github
+
+***
+
 ![async](./images/async.png)
 ***
 
