@@ -86,6 +86,12 @@ A URLogist
 
 ***
 
+#### Question - How did the html get drunk?
+
+It had too many <br/>
+
+***
+
 ![async](./images/async.png)
 ***
 
