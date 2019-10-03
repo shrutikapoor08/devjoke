@@ -84,6 +84,14 @@ Foo Bar
 
 A URLogist
 
+
+***
+
+
+#### Question - Why do Java developer wear glasses?
+
+Because they can't C Sharp
+
 ***
 
 ![async](./images/async.png)
