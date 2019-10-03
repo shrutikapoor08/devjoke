@@ -186,3 +186,7 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+
+![qa engineer walks into a bar](./images/qaengineerwalksintoabar.png)
