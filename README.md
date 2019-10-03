@@ -207,4 +207,4 @@ It had too many <br/>
 
 ***
 
-![java](./images/tattoo.jpg)
+![java](./images/tattoo.jpeg)
