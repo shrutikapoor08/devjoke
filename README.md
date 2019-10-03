@@ -186,3 +186,12 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+
+![java](./images/android-kot-java.jpg)
+
+***
+
+![java](./images/skeleton.jpg)
+
