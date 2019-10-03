@@ -93,6 +93,12 @@ There are 10 types of people in this World,
 
 ***
 
+#### Question - How did the html get drunk?
+
+It had too many <br/>
+
+***
+
 ![async](./images/async.png)
 ***
 
@@ -193,3 +199,16 @@ There are 10 types of people in this World,
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+
+![qa engineer walks into a bar](./images/qaengineerwalksintoabar.png)
+
+***
+
+![java](./images/android-kot-java.jpg)
+
+***
+
+![java](./images/skeleton.jpg)
+
