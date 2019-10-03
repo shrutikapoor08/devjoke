@@ -12,6 +12,10 @@ Either way, I don't care.
 
 ***
 
+If you wanna know what the "true friend" is... it's simple. look at the developer with QA
+
+***
+
 #### Question - What will be the name of the movie on a sad developer?
 
 `DEV`das
