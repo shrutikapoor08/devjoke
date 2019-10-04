@@ -243,3 +243,10 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ![debugging](./images/Debugging.jpg)
 
 ***
+
+#### Question: How long do you use Vine?
+
+
+I've been using Vim for about 2 years now, mostly because I can't figure out how to exit it.
+
+***
