@@ -92,6 +92,16 @@ It had too many <br/>
 
 ***
 
+### Question - You know the joke of the guy who forgot to increase the variable in his while loop?
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+
+***
+
 ![async](./images/async.png)
 ***
 
@@ -204,4 +214,9 @@ It had too many <br/>
 ***
 
 ![java](./images/skeleton.jpg)
+
+***
+![debugging](./images/Debugging.jpg)
+
+***
 
