@@ -94,7 +94,7 @@ He keeps dropping the database
 
 #### Question - How did the html get drunk?
 
-It had too many <br/>
+It had too many `<br/>`
 
 ***
 
@@ -105,6 +105,19 @@ You know the joke of the guy who forgot to increase the variable in his while lo
 You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
 You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
 You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+
+***
+
+#### Question: Why do C# and Java developers keep breaking their keyboards ?
+
+
+Because they use a strongly typed language.
+
+***
+
+#### Question - Why did the developer die in the shower?
+
+He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
@@ -212,16 +225,7 @@ You know the joke of the guy who forgot to increase the variable in his while lo
 
 ***
 
-#### Question: Why do C# and Java developers keep breaking their keyboards ?
-
-
-Because they use a strongly typed language.
-
-***
-
-#### Question - Why did the developer die in the shower?
-
-He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+![Using VS to open JSON](./images/open_json_in_vs.jpg)
 
 ***
 
