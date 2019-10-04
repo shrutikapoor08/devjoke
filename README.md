@@ -84,10 +84,6 @@ It had too many <br/>
 
 ---
 
-![Cloud Storage](./images/cloud_storage.jpg)
-
----
-
 ![async](./images/async.png)
 
 ---
@@ -205,3 +201,7 @@ It had too many <br/>
 ---
 
 ![java](./images/skeleton.jpg)
+
+---
+
+![Cloud Storage](./images/cloud_storage.jpg)
