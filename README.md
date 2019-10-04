@@ -86,6 +86,12 @@ A URLogist
 
 ***
 
+#### Question - How did the html get drunk?
+
+It had too many <br/>
+
+***
+
 ![async](./images/async.png)
 ***
 
@@ -190,3 +196,15 @@ A URLogist
 ***
 
 ![Father-Son-Web-Developer](./images/Father-son-web-dev-joke.jpg)
+
+***
+
+![qa engineer walks into a bar](./images/qaengineerwalksintoabar.png)
+
+***
+
+![java](./images/android-kot-java.jpg)
+
+***
+
+![java](./images/skeleton.jpg)
