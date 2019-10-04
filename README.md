@@ -86,6 +86,12 @@ A URLogist
 
 ***
 
+#### Question - Why does no one likes SQLrillex?
+
+He keeps dropping the database
+
+***
+
 #### Question - How did the html get drunk?
 
 It had too many <br/>
@@ -103,6 +109,7 @@ You know the joke of the guy who forgot to increase the variable in his while lo
 ***
 
 ![async](./images/async.png)
+
 ***
 
 ![Python Space](./images/space-python.png)
