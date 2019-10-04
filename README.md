@@ -86,6 +86,12 @@ A URLogist
 
 ***
 
+#### Question - Why does Java Programmers wear glasses?
+
+Because they can't C#
+
+***
+
 ![async](./images/async.png)
 ***
 
