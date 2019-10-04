@@ -205,3 +205,12 @@ It had too many <br/>
 
 ![java](./images/skeleton.jpg)
 
+***
+
+```
+#pisa-tower {
+  font-style: italic;
+}
+```
+
+***
