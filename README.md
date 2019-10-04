@@ -212,6 +212,13 @@ You know the joke of the guy who forgot to increase the variable in his while lo
 
 ***
 
+#### Question: Why do C# and Java developers keep breaking their keyboards ?
+
+
+Because they use a strongly typed language.
+
+***
+
 #### Question - Why did the developer die in the shower?
 
 He read the shampoo bottle instructions: Lather. Rinse. Repeat.
@@ -232,4 +239,3 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ![debugging](./images/Debugging.jpg)
 
 ***
-
