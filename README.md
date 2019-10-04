@@ -212,6 +212,12 @@ You know the joke of the guy who forgot to increase the variable in his while lo
 
 ***
 
+#### Question - Why did the developer die in the shower?
+
+He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+
+***
+
 ![qa engineer walks into a bar](./images/qaengineerwalksintoabar.png)
 
 ***
