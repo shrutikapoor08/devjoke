@@ -85,12 +85,31 @@ Foo Bar
 A URLogist
 
 ***
+
 #### Question - Why does no one likes SQLrillex?
 
 He keeps dropping the database
 
 ***
+
+#### Question - How did the html get drunk?
+
+It had too many <br/>
+
+***
+
+### Question - You know the joke of the guy who forgot to increase the variable in his while loop?
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+
+***
+
 ![async](./images/async.png)
+
 ***
 
 ![Python Space](./images/space-python.png)
@@ -190,3 +209,21 @@ He keeps dropping the database
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+
+![qa engineer walks into a bar](./images/qaengineerwalksintoabar.png)
+
+***
+
+![java](./images/android-kot-java.jpg)
+
+***
+
+![java](./images/skeleton.jpg)
+
+***
+![debugging](./images/Debugging.jpg)
+
+***
+
