@@ -3,6 +3,12 @@ Send me a PR if you know a good Dev Joke.
 
 ***
 
+#### Question - What did the Git pro said to the newbie?
+
+Git good
+
+***
+
 walks UDP package into bar A. 
 
 ***
