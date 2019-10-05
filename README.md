@@ -253,3 +253,7 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
+![error](./images/string.jpg)
+
+***
