@@ -121,6 +121,14 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+***
+
+#### Question - Why fish don't like to React?
+
+Because it has Hooks 😂.
+
+***
+
 ![async](./images/async.png)
 
 ***
