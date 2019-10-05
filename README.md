@@ -243,3 +243,8 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ![debugging](./images/Debugging.jpg)
 
 ***
+What do the new MacBook and a black hole have in common?
+
+There's no Escape!
+
+***
