@@ -115,6 +115,14 @@ Because they use a strongly typed language.
 
 ***
 
+#### Question: How many programmers does it take to change a light bulb?
+
+
+
+None, that’s a hardware problem.
+
+***
+
 #### Question - Why did the developer die in the shower?
 
 He read the shampoo bottle instructions: Lather. Rinse. Repeat.
