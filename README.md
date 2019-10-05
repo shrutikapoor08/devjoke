@@ -248,3 +248,6 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 Do you know how to walk ?
 
 ***
+***
+#### Hashtags in Python and Instagram are same. Of no use
+***
