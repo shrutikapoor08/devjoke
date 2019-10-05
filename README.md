@@ -176,3 +176,7 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+
+![500 Respon](./images/frontend_backend.png)
