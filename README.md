@@ -108,6 +108,7 @@ You know the joke of the guy who forgot to increase the variable in his while lo
 
 ***
 
+
 #### Question: Why do C# and Java developers keep breaking their keyboards ?
 
 
@@ -241,5 +242,9 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 ![debugging](./images/Debugging.jpg)
+
+***
+
+"Algorithem" is word used by us when we don't want to explain what we did. 
 
 ***
