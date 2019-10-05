@@ -123,7 +123,7 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
-#### Question - Why fish don't like to React?
+#### Question - Why fish don't like React?
 
 Because it has Hooks 😂.
 
