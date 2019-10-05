@@ -243,3 +243,7 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ![debugging](./images/Debugging.jpg)
 
 ***
+
+![Server Error](./images/internal-server-error.png)
+
+***
