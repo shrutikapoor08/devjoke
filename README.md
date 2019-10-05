@@ -121,6 +121,12 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+#### Question - Do you know the definition of an engineer?
+
+Yeah, somebody who makes precise guesswork based on unreliable data provided by people with questionable knowledge. Never wrong. Likes tables.
+
+***
+
 ![async](./images/async.png)
 
 ***
