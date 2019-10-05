@@ -121,6 +121,12 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+#### Question - How long does a loop last?
+
+For a while.
+
+***
+
 ![async](./images/async.png)
 
 ***
