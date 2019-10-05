@@ -243,3 +243,11 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ![debugging](./images/Debugging.jpg)
 
 ***
+
+- Knock, knock 
+
+- An async function 
+
+- Who's there?
+
+***
