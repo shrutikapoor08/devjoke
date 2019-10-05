@@ -243,3 +243,8 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ![debugging](./images/Debugging.jpg)
 
 ***
+
+A journalist asked a programmer:What makes code bad?
+Programmer:No comments
+
+***
