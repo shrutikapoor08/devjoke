@@ -121,6 +121,10 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+#### Question - How do I solve these errors my friend?
+
+Just close the console windows, you wont see any errors.
+
 ![async](./images/async.png)
 
 ***
@@ -241,5 +245,8 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 ![debugging](./images/Debugging.jpg)
+
+***
+
 
 ***
