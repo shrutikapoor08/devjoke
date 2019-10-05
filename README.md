@@ -121,6 +121,12 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+#### Question: What do you call the security outside of a samsung store?
+
+Guardians of the Galaxy
+  
+***
+
 ![async](./images/async.png)
 
 ***
@@ -243,8 +249,7 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ![debugging](./images/Debugging.jpg)
 
 ***
-#### Question: What do you call the security outside of a samsung store?
-Guardians of the Galaxy
-  
-***
 
+![error](./images/error.jpg)
+
+***
