@@ -243,3 +243,8 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ![debugging](./images/Debugging.jpg)
 
 ***
+#### Pointers in C be like 
+
+"I know a guy who knows a guy... who knows another guy"
+
+***
