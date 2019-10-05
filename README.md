@@ -121,6 +121,12 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+#### Dude 1 : We should create a game. 
+
+Dude 2 : But I only know 1 data structure. 
+
+***
+
 ![async](./images/async.png)
 
 ***
