@@ -253,3 +253,9 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
+***
+
+The computer is mightier than the pen, the sword, and usually, the programmer.
+
+***
