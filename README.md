@@ -253,3 +253,9 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
+<joke>
+  People who don't give meaningful name to their variables
+</joke>  
+
+***
