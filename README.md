@@ -30,7 +30,7 @@ A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
 #### Question - Why is the Javascript developer sad?
 
 
-Because they do not Node how to Express themselves.
+#### Because they do not Node how to Express themselves.
 
 ***
 
@@ -125,6 +125,10 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 Guardians of the Galaxy
   
+***
+
+I can still remember a time when I knew more than my phone.
+
 ***
 
 ![async](./images/async.png)
