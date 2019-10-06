@@ -253,3 +253,11 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
+***
+
+1/3 of US bandwidth is used by Netflix.
+
+the rest is used by `rm -rf node_modules && npm install`
+
+***
