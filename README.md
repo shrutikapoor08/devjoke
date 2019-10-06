@@ -253,3 +253,7 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+There are two types of software developers.
+
+But I mix up which is which because I write JavaScript.
+***
