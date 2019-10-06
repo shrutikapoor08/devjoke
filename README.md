@@ -253,3 +253,7 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
+Debugging: Like the detective in a crime movie where you are also the murderer.
+
+***
