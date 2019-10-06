@@ -253,3 +253,17 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
+Sharon: I'm facing error
+
+Daniel: close the console window
+
+Sharon: and now
+        ?
+        
+Daniel: that's it       
+        the error is gone
+        
+Sharon: 😐
+
+***
