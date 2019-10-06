@@ -253,3 +253,6 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
+He: You're semicolon to my code ;) 
+She: I code in Python!
