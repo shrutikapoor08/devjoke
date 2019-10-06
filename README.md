@@ -253,3 +253,11 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
+Algorithm :
+
+Words used by a programmer when....
+
+they don't want to explain what they did.
+
+***
