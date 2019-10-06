@@ -127,6 +127,12 @@ Guardians of the Galaxy
   
 ***
 
+Qestion : What do computers and air conditioners have in common?
+Answer : They both become useless when you open windows.
+
+***
+
+
 ![async](./images/async.png)
 
 ***
