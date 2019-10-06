@@ -127,6 +127,12 @@ Guardians of the Galaxy
   
 ***
 
+#### Question: Why does Python live on land?
+
+Because it's above C-level
+  
+***
+
 ![async](./images/async.png)
 
 ***
