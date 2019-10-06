@@ -127,6 +127,12 @@ Guardians of the Galaxy
   
 ***
 
+#### Question: What is the best way to stop SQL errors?
+
+Write less sql...or better yet. NoSQL.
+  
+***
+
 ![async](./images/async.png)
 
 ***
