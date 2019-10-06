@@ -127,6 +127,12 @@ Guardians of the Galaxy
   
 ***
 
+#### Question: How many software developers does it take to change a lightbulb?
+
+None. That's a hardware issue.
+
+***
+
 ![async](./images/async.png)
 
 ***
