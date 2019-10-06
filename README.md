@@ -253,3 +253,7 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
+Hashtags in Instagram are like comments in Python, everyone ignores that.
+
+***
