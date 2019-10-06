@@ -58,6 +58,15 @@ Because she didn't get arrays
 
 ***
 
+#### Question - What is the object-oriented way to become wealthy?
+
+
+Inheritance.
+
+***
+
+
+
 #### Question - Why do functions always break up? 
 
 
