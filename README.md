@@ -237,6 +237,10 @@ Guardians of the Galaxy
 
 ***
 
+![Why did the c# developer fall asleep](./images/joke-why-did-the-c-developer-fall-asleep.png)
+
+***
+
 ![Regular Expression](./images/regularExpression.jpg)
 
 ***
