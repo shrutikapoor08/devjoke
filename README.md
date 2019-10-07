@@ -231,6 +231,14 @@ Guardians of the Galaxy
 
 ***
 
+![debugger](./images/console-log-debugger.jpg)
+
+***
+
+![documentation](./images/documentation.jpg)
+
+***
+
 ![JavaScript Arrays](./images/javascript-arrays.jpg)
 
 *** 
