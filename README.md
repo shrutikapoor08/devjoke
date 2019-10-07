@@ -231,6 +231,10 @@ Guardians of the Galaxy
 
 ***
 
+![JavaScript Arrays](./images/javascript-arrays.jpg)
+
+*** 
+
 ![Using VS to open JSON](./images/open_json_in_vs.jpg)
 
 ***
