@@ -284,4 +284,7 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+How many programmers does it take to change a light bulb?
+None – It’s a hardware problem
 
+***
