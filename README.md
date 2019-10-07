@@ -84,6 +84,12 @@ Foo Bar
 
 A URLogist
 
+###
+-Knock knock
+-Unsynchronized block
+-Who's there?
+
+
 ***
 
 #### Question - Why does no one likes SQLrillex?
@@ -235,6 +241,30 @@ One man's constant is another man's variable
 
 ***
 
+![Father-Son-Web-Developer](./images/Father-son-web-dev-joke.jpg)
+
+***
+
+![Why did the c# developer fall asleep](./images/joke-why-did-the-c-developer-fall-asleep.png)
+
+***
+
+![Regular Expression](./images/regularExpression.jpg)
+
+***
+
+![debugger](./images/console-log-debugger.jpg)
+
+***
+
+![documentation](./images/documentation.jpg)
+
+***
+
+![JavaScript Arrays](./images/javascript-arrays.jpg)
+
+*** 
+
 ![Using VS to open JSON](./images/open_json_in_vs.jpg)
 
 ***
@@ -248,6 +278,7 @@ One man's constant is another man's variable
 ***
 
 ![java](./images/skeleton.jpg)
+
 
 ***
 ![debugging](./images/Debugging.jpg)
