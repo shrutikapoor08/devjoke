@@ -237,6 +237,10 @@ Guardians of the Galaxy
 
 ***
 
+![Regular Expression](./images/regularExpression.jpg)
+
+***
+
 ![debugger](./images/console-log-debugger.jpg)
 
 ***
