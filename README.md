@@ -285,3 +285,8 @@ Guardians of the Galaxy
 
 ***
 
+Programmer 1: We have a problem!
+Programmer 2: Let’s use RegEx!
+Programmer 1: Now we have two problems.
+
+***
