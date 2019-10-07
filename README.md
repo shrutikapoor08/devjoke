@@ -285,3 +285,6 @@ Guardians of the Galaxy
 
 ***
 
+Android: where ProgressBars go around in circles and Spinners don’t spin
+
+***
