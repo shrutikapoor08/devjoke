@@ -84,9 +84,57 @@ Foo Bar
 
 A URLogist
 
+###
+-Knock knock
+-Unsynchronized block
+-Who's there?
+
+
+***
+
+#### Question - Why does no one likes SQLrillex?
+
+He keeps dropping the database
+
+***
+
+#### Question - How did the html get drunk?
+
+It had too many `<br/>`
+
+***
+
+### Question - You know the joke of the guy who forgot to increase the variable in his while loop?
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+You know the joke of the guy who forgot to increase the variable in his while loop? <br/>
+
+***
+
+#### Question: Why do C# and Java developers keep breaking their keyboards ?
+
+
+Because they use a strongly typed language.
+
+***
+
+#### Question - Why did the developer die in the shower?
+
+He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+
+***
+
+#### Question: What do you call the security outside of a samsung store?
+
+Guardians of the Galaxy
+  
 ***
 
 ![async](./images/async.png)
+
 ***
 
 ![Python Space](./images/space-python.png)
@@ -190,3 +238,44 @@ A URLogist
 ***
 
 ![Why did the c# developer fall asleep](./images/joke-why-did-the-c-developer-fall-asleep.png)
+
+***
+
+![Regular Expression](./images/regularExpression.jpg)
+
+***
+
+![debugger](./images/console-log-debugger.jpg)
+
+***
+
+![documentation](./images/documentation.jpg)
+
+***
+
+![JavaScript Arrays](./images/javascript-arrays.jpg)
+
+*** 
+
+![Using VS to open JSON](./images/open_json_in_vs.jpg)
+
+***
+
+![qa engineer walks into a bar](./images/qaengineerwalksintoabar.png)
+
+***
+
+![java](./images/android-kot-java.jpg)
+
+***
+
+![java](./images/skeleton.jpg)
+
+***
+![debugging](./images/Debugging.jpg)
+
+***
+
+![error](./images/error.jpg)
+
+***
