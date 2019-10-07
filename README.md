@@ -284,4 +284,9 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
-
+Girl:Do you drink??
+Boy:No
+Girl:Have girlfriend?
+Boy:No
+Girl:Then how do you enjoy life?
+Boy:I am programmer...!!
