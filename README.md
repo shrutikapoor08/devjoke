@@ -285,3 +285,9 @@ Guardians of the Galaxy
 
 ***
 
+What did the Python say when he came out of his shell?
+Print("Hello World!")
+
+***
+
+
