@@ -237,6 +237,10 @@ Guardians of the Galaxy
 
 ***
 
+![Father-Son-Web-Developer](./images/Father-son-web-dev-joke.jpg)
+
+***
+
 ![Why did the c# developer fall asleep](./images/joke-why-did-the-c-developer-fall-asleep.png)
 
 ***
@@ -271,6 +275,7 @@ Guardians of the Galaxy
 
 ![java](./images/skeleton.jpg)
 
+
 ***
 ![debugging](./images/Debugging.jpg)
 
@@ -279,3 +284,4 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
