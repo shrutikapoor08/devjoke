@@ -285,3 +285,7 @@ Guardians of the Galaxy
 
 ***
 
+A journalist asks a programmer 
+what makes the code bad ?
+NO COMMENT
+
