@@ -127,6 +127,10 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+#### Question - What did the developer said to the repository?
+
+FORK YOU!
+
 #### Question: What do you call the security outside of a samsung store?
 
 Guardians of the Galaxy
@@ -136,8 +140,6 @@ Guardians of the Galaxy
 #### Question - How are computers and air conditioners similar?
 
 They are both useless when you open windows
-
-***
 
 ***
 
