@@ -205,3 +205,6 @@ It had too many <br/>
 
 ![java](./images/skeleton.jpg)
 
+***
+![Frustrated programmer](./images/frustratedprogrammer.jpg)
+
