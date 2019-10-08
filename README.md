@@ -133,6 +133,12 @@ Guardians of the Galaxy
   
 ***
 
+#### Question - How are computers and air conditioners similar?
+
+They are both useless when you open windows
+
+***
+
 ![async](./images/async.png)
 
 ***
@@ -238,6 +244,11 @@ Guardians of the Galaxy
 ***
 
 ![backend vs frontend](./images/backendVSfrontend.png)
+
+***
+
+![Father-Son-Web-Developer](./images/Father-son-web-dev-joke.jpg)
+
 ***
 
 ![Why did the c# developer fall asleep](./images/joke-why-did-the-c-developer-fall-asleep.png)
@@ -274,6 +285,7 @@ Guardians of the Galaxy
 
 ![java](./images/skeleton.jpg)
 
+
 ***
 ![debugging](./images/Debugging.jpg)
 
@@ -282,3 +294,4 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
