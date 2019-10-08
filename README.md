@@ -156,6 +156,16 @@ Two bytes meet.  The first byte asks, “Are you ill?”
 The second byte replies, “No, just feeling a bit off.”
 
 ***
+### Question - Who is a programmer?
+
+Answer: A person who fixed a problem that you don't know you have , in a way you don't understand.
+
+***
+### Question - Why do Java developers wear glasses?
+
+Answer: Because they can't C# !
+
+***
 
 ![async](./images/async.png)
 
