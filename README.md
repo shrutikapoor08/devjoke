@@ -139,6 +139,13 @@ They are both useless when you open windows
 
 ***
 
+***
+
+Two bytes meet.  The first byte asks, “Are you ill?”
+The second byte replies, “No, just feeling a bit off.”
+
+***
+
 ![async](./images/async.png)
 
 ***
