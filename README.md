@@ -84,6 +84,12 @@ Foo Bar
 
 A URLogist
 
+###
+-Knock knock
+-Unsynchronized block
+-Who's there?
+
+
 ***
 
 #### Question - Why does no one likes SQLrillex?
@@ -121,13 +127,25 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+#### Question - What if your boyfriend is a programmer?
+
+She: I told him to call me.
+He: He asked me about my parameters and return type.
+
+***
+
+#### Question - What did the developer said to the repository?
+
+FORK YOU!
+
+***
+
 #### Question: What do you call the security outside of a samsung store?
 
 Guardians of the Galaxy
   
 ***
 
-I can still remember a time when I knew more than my phone.
 
 ***
 
@@ -235,6 +253,38 @@ I can still remember a time when I knew more than my phone.
 
 ***
 
+![gitcommit](./images/uselessgit.jpeg)
+
+***
+
+![backend vs frontend](./images/backendVSfrontend.png)
+
+***
+
+![Father-Son-Web-Developer](./images/Father-son-web-dev-joke.jpg)
+
+***
+
+![Why did the c# developer fall asleep](./images/joke-why-did-the-c-developer-fall-asleep.png)
+
+***
+
+![Regular Expression](./images/regularExpression.jpg)
+
+***
+
+![debugger](./images/console-log-debugger.jpg)
+
+***
+
+![documentation](./images/documentation.jpg)
+
+***
+
+![JavaScript Arrays](./images/javascript-arrays.jpg)
+
+*** 
+
 ![Using VS to open JSON](./images/open_json_in_vs.jpg)
 
 ***
@@ -250,6 +300,13 @@ I can still remember a time when I knew more than my phone.
 ![java](./images/skeleton.jpg)
 
 ***
+
+![security](./images/security.png)
+
+
+![java](./images/tattoo.jpeg)
+
+***
 ![debugging](./images/Debugging.jpg)
 
 ***
@@ -257,3 +314,5 @@ I can still remember a time when I knew more than my phone.
 ![error](./images/error.jpg)
 
 ***
+
+
