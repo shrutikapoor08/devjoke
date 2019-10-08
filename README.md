@@ -285,3 +285,7 @@ Guardians of the Galaxy
 
 ***
 
+Question: What are the similarities between java and javascript?
+It,s just like -----> CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
+
+***
