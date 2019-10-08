@@ -84,6 +84,12 @@ Foo Bar
 
 A URLogist
 
+###
+-Knock knock
+-Unsynchronized block
+-Who's there?
+
+
 ***
 
 #### Question - Why does no one likes SQLrillex?
@@ -124,6 +130,21 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 #### Question - What did the developer said to the repository?
 
 FORK YOU!
+
+#### Question: What do you call the security outside of a samsung store?
+
+Guardians of the Galaxy
+  
+***
+
+#### Question - How are computers and air conditioners similar?
+
+They are both useless when you open windows
+
+***
+
+Two bytes meet.  The first byte asks, “Are you ill?”
+The second byte replies, “No, just feeling a bit off.”
 
 ***
 
@@ -231,6 +252,38 @@ FORK YOU!
 
 ***
 
+![gitcommit](./images/uselessgit.jpeg)
+
+***
+
+![backend vs frontend](./images/backendVSfrontend.png)
+
+***
+
+![Father-Son-Web-Developer](./images/Father-son-web-dev-joke.jpg)
+
+***
+
+![Why did the c# developer fall asleep](./images/joke-why-did-the-c-developer-fall-asleep.png)
+
+***
+
+![Regular Expression](./images/regularExpression.jpg)
+
+***
+
+![debugger](./images/console-log-debugger.jpg)
+
+***
+
+![documentation](./images/documentation.jpg)
+
+***
+
+![JavaScript Arrays](./images/javascript-arrays.jpg)
+
+*** 
+
 ![Using VS to open JSON](./images/open_json_in_vs.jpg)
 
 ***
@@ -246,6 +299,18 @@ FORK YOU!
 ![java](./images/skeleton.jpg)
 
 ***
+
+![security](./images/security.png)
+
+
+![java](./images/tattoo.jpeg)
+
+***
 ![debugging](./images/Debugging.jpg)
 
 ***
+
+![error](./images/error.jpg)
+
+***
+
