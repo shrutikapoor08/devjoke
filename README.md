@@ -132,6 +132,9 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 Guardians of the Galaxy
   
 ***
+ Semicolon(Python):Why don't people take me serious!
+ semicolom(c/c++):I'm the King Of The World....Huuuuhuuu!!!!
+***
 
 ![async](./images/async.png)
 
