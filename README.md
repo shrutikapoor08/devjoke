@@ -284,4 +284,10 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+if(coding) {
+headphones = true;
+focus=100;
+conversation = null;
+}
 
+***
