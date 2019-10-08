@@ -132,6 +132,11 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 Guardians of the Galaxy
   
 ***
+#### Question: Why don't fish like React?
+
+Hooks!
+
+***
 
 ![async](./images/async.png)
 
