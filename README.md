@@ -157,6 +157,12 @@ The second byte replies, “No, just feeling a bit off.”
 
 ***
 
+### Question - How do functions break up?
+
+Answer: They stop calling each other.
+
+***
+
 ![async](./images/async.png)
 
 ***
