@@ -251,3 +251,7 @@ Do you know how to walk
 ***
 #### Hashtags in Python and Instagram are same. Of no use
 ***
+***
+#### Computer: Press any button to continue
+#### Me: Presses Power Button
+***
