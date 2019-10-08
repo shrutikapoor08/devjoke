@@ -245,7 +245,7 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ***
 #### Interviewer - Do you know HTML ?
 
-Do you know how to walk ?
+Do you know how to walk
 
 ***
 ***
