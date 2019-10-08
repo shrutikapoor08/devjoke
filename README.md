@@ -285,3 +285,8 @@ Guardians of the Galaxy
 
 ***
 
+Why did computer programmer quit his job...
+
+Because he didnt get arrays...
+
+***
