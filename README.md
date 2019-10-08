@@ -156,6 +156,11 @@ Two bytes meet.  The first byte asks, “Are you ill?”
 The second byte replies, “No, just feeling a bit off.”
 
 ***
+### Question - Learned programming for future work ?
+
+Answer: Nope man , I did it to understand my utmost level of patience.
+
+***
 
 ![async](./images/async.png)
 
