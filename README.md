@@ -243,6 +243,10 @@ They are both useless when you open windows
 
 ***
 
+![backend vs frontend](./images/backendVSfrontend.png)
+
+***
+
 ![Father-Son-Web-Developer](./images/Father-son-web-dev-joke.jpg)
 
 ***
