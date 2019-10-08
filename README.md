@@ -157,6 +157,12 @@ The second byte replies, “No, just feeling a bit off.”
 
 ***
 
+### Question - 0 is false and 1 is true, right?
+
+Answer: 1
+
+***
+
 ![async](./images/async.png)
 
 ***
