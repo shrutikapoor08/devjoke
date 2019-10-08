@@ -127,9 +127,18 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+#### Question - What if your boyfriend is a programmer?
+
+She: I told him to call me.
+He: He asked me about my parameters and return type.
+
+***
+
 #### Question - What did the developer said to the repository?
 
 FORK YOU!
+
+***
 
 #### Question: What do you call the security outside of a samsung store?
 
