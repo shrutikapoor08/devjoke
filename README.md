@@ -243,6 +243,10 @@ They are both useless when you open windows
 
 ***
 
+![gitcommit](./images/uselessgit.jpeg)
+
+***
+
 ![backend vs frontend](./images/backendVSfrontend.png)
 
 ***
