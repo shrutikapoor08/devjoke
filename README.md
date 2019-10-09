@@ -127,6 +127,12 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+#### Question - How do I solve these errors my friend?
+
+Just close the console windows, you wont see any errors.
+
+***
+
 #### Question - What if your boyfriend is a programmer?
 
 She: I told him to call me.
@@ -144,6 +150,12 @@ FORK YOU!
 
 Guardians of the Galaxy
   
+***
+
+#### Question: Why does Python live on land?
+
+Because it's above C-level
+
 ***
 
 #### Question - How are computers and air conditioners similar?
@@ -182,6 +194,46 @@ Answer: 1
 #### Question: How many programmers does it take to change a light bulb?
 
 Answer: None – It’s a hardware problem
+
+***
+
+He: You're semicolon to my code ;)
+
+She: I code in Python!
+
+***
+
+#### Question: What is an algorithm?
+
+ALGORITHM(noun) - Word used by programmers when they do not want to explain what they did.
+
+***
+
+1/3 of US bandwidth is used by Netflix.
+
+the rest is used by `rm -rf node_modules && npm install`
+
+***
+
+Debugging: Like the detective in a crime movie where you are also the murderer.
+
+***
+
+Sharon: I'm facing error
+
+Daniel: close the console window
+
+Sharon: and now
+        ?
+        
+Daniel: that's it       
+        the error is gone
+        
+Sharon: 😐
+
+***
+
+Being a Programmer and watching someone HACK a computer on a TV show is like a nurse and watching someone in the movie take blood with a carrot.
 
 ***
 
@@ -339,14 +391,20 @@ Answer: None – It’s a hardware problem
 
 ![security](./images/security.png)
 
+***
 
 ![java](./images/tattoo.jpeg)
 
 ***
+
 ![debugging](./images/Debugging.jpg)
 
 ***
 
 ![error](./images/error.jpg)
+
+***
+
+![GoTo Hell](./images/new_hell.jpg)
 
 ***
