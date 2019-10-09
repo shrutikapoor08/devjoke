@@ -179,6 +179,12 @@ Answer: 1
 
 ***
 
+### Question - What's the object-oriented way to become wealthy?
+
+Answer: Inheritance
+
+***
+
 ![async](./images/async.png)
 
 ***
