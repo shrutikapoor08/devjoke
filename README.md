@@ -173,6 +173,12 @@ Answer: They stop calling each other.
 
 ***
 
+### Question - 0 is false and 1 is true, right?
+
+Answer: 1
+
+***
+
 ![async](./images/async.png)
 
 ***
