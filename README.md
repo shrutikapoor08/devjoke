@@ -127,6 +127,12 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+#### Question - How do I solve these errors my friend?
+
+Just close the console windows, you wont see any errors.
+
+***
+
 #### Question - What if your boyfriend is a programmer?
 
 She: I told him to call me.
@@ -333,10 +339,12 @@ Answer: 1
 
 ![security](./images/security.png)
 
+***
 
 ![java](./images/tattoo.jpeg)
 
 ***
+
 ![debugging](./images/Debugging.jpg)
 
 ***
