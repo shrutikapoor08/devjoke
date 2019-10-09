@@ -227,6 +227,10 @@ Sharon: 😐
 
 ***
 
+Being a Programmer and watching someone HACK a computer on a TV show is like a nurse and watching someone in the movie take blood with a carrot.
+
+***
+
 ![async](./images/async.png)
 
 ***
@@ -398,4 +402,3 @@ Sharon: 😐
 ![GoTo Hell](./images/new_hell.jpg)
 
 ***
-
