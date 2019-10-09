@@ -415,6 +415,12 @@ Programmer 1: Now we have two problems.
 ![error](./images/error.jpg)
 
 ***
+#### Yesterday I changed the name of my Wifi to "*hack if you can*"...
+
+
+Today I found it named "*challenge accepted*"
+
+***
 
 ![titanic](./images/titanic-float-none.png)
 
