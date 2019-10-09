@@ -264,6 +264,10 @@ My girlfriend dumped me after I named a class after her. She felt I treated her 
 
 ***
 
+Have you heard about the new Cray super computer?  It’s so fast, it executes an infinite loop in 6 seconds.
+
+***
+
 ![async](./images/async.png)
 
 ***
