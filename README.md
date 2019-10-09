@@ -248,6 +248,18 @@ Programmer 1: Now we have two problems.
 
 ***
 
+She: I told him to call me
+
+He Asked about my parameters and return type
+
+***
+
+Yesterday I changed the name of my Wifi to "*hack if you can*"...
+
+Today I found it named "*challenge accepted*"
+
+***
+
 ![async](./images/async.png)
 
 ***
@@ -413,12 +425,6 @@ Programmer 1: Now we have two problems.
 ***
 
 ![error](./images/error.jpg)
-
-***
-#### Yesterday I changed the name of my Wifi to "*hack if you can*"...
-
-
-Today I found it named "*challenge accepted*"
 
 ***
 
