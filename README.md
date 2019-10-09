@@ -298,6 +298,18 @@ NO COMMENT
 
 ***
 
+```
+
+if (coding) {
+  headphones = true;
+  focus=100;
+  conversation = null;
+}
+
+```
+
+***
+
 ![async](./images/async.png)
 
 ***
@@ -468,6 +480,7 @@ NO COMMENT
 
 ![error](./images/error.jpg)
 
+
 ***
 
 ![titanic](./images/titanic-float-none.png)
@@ -481,4 +494,3 @@ NO COMMENT
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
-
