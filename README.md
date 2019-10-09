@@ -451,6 +451,11 @@ The programmer returns home with 12 loaves of bread.
 ![error](./images/error.jpg)
 
 ***
+“Knock, knock.”
+“Who’s there?”
+very long pause….
+“Java.”
+***
 
 ![titanic](./images/titanic-float-none.png)
 
