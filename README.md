@@ -280,36 +280,6 @@ The programmer returns home with 12 loaves of bread.
 
 ***
 
-“Knock, knock.”
-
-“Who’s there?”
-
-very... long... pause...
-
-“Java.”
-
-***
-
-A journalist asks a programmer 
-
-what makes the code bad ?
-
-NO COMMENT
-
-***
-
-```
-
-if (coding) {
-  headphones = true;
-  focus=100;
-  conversation = null;
-}
-
-```
-
-***
-
 ![async](./images/async.png)
 
 ***
@@ -480,7 +450,6 @@ if (coding) {
 
 ![error](./images/error.jpg)
 
-
 ***
 
 ![titanic](./images/titanic-float-none.png)
@@ -492,5 +461,10 @@ if (coding) {
 ***
 
 ![runtimeError](./images/runtimeError.jpg)
+
+***
+
+Me: No one gives attention to me. I feel so lonely.
+Terms and conditions: Bitch please.
 
 ***
