@@ -242,6 +242,12 @@ Being a Programmer and watching someone HACK a computer on a TV show is like a n
 
 ***
 
+Programmer 1: We have a problem!
+Programmer 2: Let’s use RegEx!
+Programmer 1: Now we have two problems.
+
+***
+
 ![async](./images/async.png)
 
 ***
