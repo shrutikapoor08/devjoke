@@ -432,6 +432,10 @@ The programmer returns home with 12 loaves of bread.
 
 ***
 
+![Frustrated programmer](./images/frustratedprogrammer.jpg)
+
+***
+
 ![security](./images/security.png)
 
 ***
