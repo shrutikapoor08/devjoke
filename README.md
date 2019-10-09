@@ -345,3 +345,7 @@ Answer: 1
 
 ***
 
+A journalist asked a programmer:-what makes code bad? 
+Programmer:- No comment 
+
+***
