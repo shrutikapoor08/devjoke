@@ -272,6 +272,14 @@ Trying to fix the problem I created when I tried to fix the problems I created w
 
 ***
 
+A programmer’s wife asks: “Would you go to the shop and pick up a loaf of bread? And if they have eggs, get a dozen.”
+
+The programmer returns home with 12 loaves of bread.
+
+“They had eggs.”
+
+***
+
 ![async](./images/async.png)
 
 ***
