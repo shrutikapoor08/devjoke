@@ -185,6 +185,11 @@ Answer: 1
 
 ***
 
+He: You're semicolon to my code ;) 
+She: I code in Python!
+
+***
+
 ![async](./images/async.png)
 
 ***
