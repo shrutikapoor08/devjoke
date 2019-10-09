@@ -345,3 +345,6 @@ Answer: 1
 
 ***
 
+A programmer accused of unreadable code refuses to comment...
+
+***
