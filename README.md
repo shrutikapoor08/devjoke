@@ -191,6 +191,12 @@ Answer: 1
 
 ***
 
+#### Question: How many programmers does it take to change a light bulb?
+
+Answer: None – It’s a hardware problem
+
+***
+
 He: You're semicolon to my code ;)
 
 She: I code in Python!
