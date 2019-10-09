@@ -89,6 +89,13 @@ A URLogist
 #### Question - How did the html get drunk?
 
 It had too many <br/>
+***
+
+```
+#pisa-tower {
+  font-style: italic;
+}
+```
 
 ***
 
@@ -204,13 +211,5 @@ It had too many <br/>
 ***
 
 ![java](./images/skeleton.jpg)
-
-***
-
-```
-#pisa-tower {
-  font-style: italic;
-}
-```
 
 ***
