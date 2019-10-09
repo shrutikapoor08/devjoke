@@ -344,4 +344,10 @@ Answer: 1
 ![error](./images/error.jpg)
 
 ***
+### Question - Why integration testing is required after unit testing?
+
+Answer: ![umbrella](./images/umbrella.gif)
+
+***
+
 
