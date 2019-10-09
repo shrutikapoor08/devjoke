@@ -84,6 +84,12 @@ Foo Bar
 
 A URLogist
 
+###
+-Knock knock
+-Unsynchronized block
+-Who's there?
+
+
 ***
 
 #### Question - Why does no one likes SQLrillex?
@@ -124,6 +130,60 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 #### Question - How do I solve these errors my friend?
 
 Just close the console windows, you wont see any errors.
+
+***
+
+#### Question - What if your boyfriend is a programmer?
+
+She: I told him to call me.
+He: He asked me about my parameters and return type.
+
+***
+
+#### Question - What did the developer said to the repository?
+
+FORK YOU!
+
+***
+
+#### Question: What do you call the security outside of a samsung store?
+
+Guardians of the Galaxy
+  
+***
+
+#### Question - How are computers and air conditioners similar?
+
+They are both useless when you open windows
+
+***
+
+Two bytes meet.  The first byte asks, “Are you ill?”
+The second byte replies, “No, just feeling a bit off.”
+
+***
+### Question - Who is a programmer?
+
+Answer: A person who fixed a problem that you don't know you have , in a way you don't understand.
+
+***
+### Question - Why do Java developers wear glasses?
+
+Answer: Because they can't C# !
+
+***
+
+### Question - How do functions break up?
+
+Answer: They stop calling each other.
+
+***
+
+### Question - 0 is false and 1 is true, right?
+
+Answer: 1
+
+***
 
 ![async](./images/async.png)
 
@@ -229,6 +289,38 @@ Just close the console windows, you wont see any errors.
 
 ***
 
+![gitcommit](./images/uselessgit.jpeg)
+
+***
+
+![backend vs frontend](./images/backendVSfrontend.png)
+
+***
+
+![Father-Son-Web-Developer](./images/Father-son-web-dev-joke.jpg)
+
+***
+
+![Why did the c# developer fall asleep](./images/joke-why-did-the-c-developer-fall-asleep.png)
+
+***
+
+![Regular Expression](./images/regularExpression.jpg)
+
+***
+
+![debugger](./images/console-log-debugger.jpg)
+
+***
+
+![documentation](./images/documentation.jpg)
+
+***
+
+![JavaScript Arrays](./images/javascript-arrays.jpg)
+
+*** 
+
 ![Using VS to open JSON](./images/open_json_in_vs.jpg)
 
 ***
@@ -244,9 +336,20 @@ Just close the console windows, you wont see any errors.
 ![java](./images/skeleton.jpg)
 
 ***
+
+![security](./images/security.png)
+
+***
+
+![java](./images/tattoo.jpeg)
+
+***
+
 ![debugging](./images/Debugging.jpg)
 
 ***
 
+![error](./images/error.jpg)
 
 ***
+
