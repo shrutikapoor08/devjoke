@@ -213,6 +213,20 @@ Debugging: Like the detective in a crime movie where you are also the murderer.
 
 ***
 
+Sharon: I'm facing error
+
+Daniel: close the console window
+
+Sharon: and now
+        ?
+        
+Daniel: that's it       
+        the error is gone
+        
+Sharon: 😐
+
+***
+
 ![async](./images/async.png)
 
 ***
@@ -380,4 +394,3 @@ Debugging: Like the detective in a crime movie where you are also the murderer.
 ![error](./images/error.jpg)
 
 ***
-
