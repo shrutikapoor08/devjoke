@@ -190,6 +190,12 @@ She: I code in Python!
 
 ***
 
+#### Question: What is an algorithm?
+
+ALGORITHM(noun) - Word used by programmers when they do not want to explain what they did.
+
+***
+
 ![async](./images/async.png)
 
 ***
