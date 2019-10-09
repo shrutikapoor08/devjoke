@@ -209,6 +209,10 @@ the rest is used by `rm -rf node_modules && npm install`
 
 ***
 
+Debugging: Like the detective in a crime movie where you are also the murderer.
+
+***
+
 ![async](./images/async.png)
 
 ***
