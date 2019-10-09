@@ -167,6 +167,12 @@ Answer: Because they can't C# !
 
 ***
 
+### Question - How do functions break up?
+
+Answer: They stop calling each other.
+
+***
+
 ![async](./images/async.png)
 
 ***
