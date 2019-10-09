@@ -260,6 +260,10 @@ Today I found it named "*challenge accepted*"
 
 ***
 
+My girlfriend dumped me after I named a class after her. She felt I treated her like an object.
+
+***
+
 ![async](./images/async.png)
 
 ***
