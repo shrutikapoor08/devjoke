@@ -494,3 +494,9 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+How a programmer says "Go to hell"
+
+redirect to /dev/null
+
+***
