@@ -345,3 +345,12 @@ Answer: 1
 
 ***
 
+talk between girl and developer
+she: Hey! What's your address
+he: 173.168.15.10
+she: No man. Your local address
+he: 127.0.0.1
+she: I mean your physical address
+he: 29.01.38.62.31.58
+
+***
