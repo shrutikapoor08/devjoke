@@ -152,6 +152,12 @@ Guardians of the Galaxy
   
 ***
 
+#### Question: Why does Python live on land?
+
+Because it's above C-level
+
+***
+
 #### Question - How are computers and air conditioners similar?
 
 They are both useless when you open windows
