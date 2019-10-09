@@ -280,6 +280,24 @@ The programmer returns home with 12 loaves of bread.
 
 ***
 
+“Knock, knock.”
+
+“Who’s there?”
+
+very... long... pause...
+
+“Java.”
+
+***
+
+A journalist asks a programmer 
+
+what makes the code bad ?
+
+NO COMMENT
+
+***
+
 ![async](./images/async.png)
 
 ***
@@ -451,11 +469,6 @@ The programmer returns home with 12 loaves of bread.
 ![error](./images/error.jpg)
 
 ***
-“Knock, knock.”
-“Who’s there?”
-very long pause….
-“Java.”
-***
 
 ![titanic](./images/titanic-float-none.png)
 
@@ -468,3 +481,4 @@ very long pause….
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
