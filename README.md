@@ -33,6 +33,11 @@ A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
 Because they do not Node how to Express themselves.
 
 ***
+#### 
+
+Do you leave jokes in you code ? If so, please share .
+
+***
 
 
 #### Question - How do you comfort a JavaScript bug? 
