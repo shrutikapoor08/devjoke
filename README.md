@@ -310,6 +310,12 @@ if (coding) {
 
 ***
 
+Programmer: Son, can you count to 10?
+3 yr old son: 1...2...
+Programmer: Stop. You are not my son,
+
+***
+
 ![async](./images/async.png)
 
 ***
@@ -492,11 +498,5 @@ if (coding) {
 ***
 
 ![runtimeError](./images/runtimeError.jpg)
-
-***
-
-Programmer: Son, can you count to 10?
-3 yr old son: 1...2...
-Programmer: Stop. You are not my son,
 
 ***
