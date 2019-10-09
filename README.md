@@ -344,4 +344,7 @@ Answer: 1
 ![error](./images/error.jpg)
 
 ***
+#### Question: Define Algorithm?
+
+Word used by programmers when they do not want to explain what they did
 
