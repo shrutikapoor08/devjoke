@@ -344,4 +344,12 @@ Answer: 1
 ![error](./images/error.jpg)
 
 ***
+***
+
+#### Question - A man is smoking a cigarette and blowing smoke rings into the air. His better half winds up disturbed with the smoke and says, "Wouldn't you be able to see the warning on the cigarette pack? Smoking is perilous to your well being!"?
+
+
+Answer to Lady:- “I am a programmer.  We don’t worry about warnings; we only worry about errors..
+
+***
 
