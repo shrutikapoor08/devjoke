@@ -344,4 +344,10 @@ Answer: 1
 ![error](./images/error.jpg)
 
 ***
+***
 
+#### How did the software engineer pass on in the shower?
+
+`DEV`He read the cleanser bottle directions: Lather. Wash. Rehash.
+
+***
