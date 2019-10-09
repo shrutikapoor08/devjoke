@@ -345,3 +345,9 @@ Answer: 1
 
 ***
 
+***
+### Question - For what reason do software engineers consistently stir up Halloween and Christmas?
+
+Answer: Because  Oct 31 equals Dec 25. !
+
+***
