@@ -185,7 +185,8 @@ Answer: 1
 
 ***
 
-He: You're semicolon to my code ;) 
+He: You're semicolon to my code ;)
+
 She: I code in Python!
 
 ***
@@ -193,6 +194,12 @@ She: I code in Python!
 #### Question: What is an algorithm?
 
 ALGORITHM(noun) - Word used by programmers when they do not want to explain what they did.
+
+***
+
+1/3 of US bandwidth is used by Netflix.
+
+the rest is used by `rm -rf node_modules && npm install`
 
 ***
 
