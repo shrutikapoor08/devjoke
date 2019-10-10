@@ -127,6 +127,12 @@ Guardians of the Galaxy
   
 ***
 
+Question- Me: My screens turns Blue,
+          Mom : Fool,u deleted System32!
+          
+***
+
+
 ![async](./images/async.png)
 
 ***
@@ -252,9 +258,3 @@ Guardians of the Galaxy
 
 ![error](./images/error.jpg)
 
-***
-
-Question- Me: My screens turns Blue,
-          Mom : Fool,u deleted System32!
-          
-***
