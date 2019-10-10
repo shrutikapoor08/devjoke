@@ -1,12 +1,12 @@
 # Dev Joke
-Send me a PR if you know a good Dev Joke. 
+Send me a PR if you know a good Dev Joke.
 
 ***
 
-walks UDP package into bar A. 
+walks UDP package into bar A.
 
 ***
-I would tell you a joke about UDP, but I don't know if you will get it. 
+I would tell you a joke about UDP, but I don't know if you will get it.
 
 Either way, I don't care.
 
@@ -35,7 +35,7 @@ Because they do not Node how to Express themselves.
 ***
 
 
-#### Question - How do you comfort a JavaScript bug? 
+#### Question - How do you comfort a JavaScript bug?
 
 
 You console it.
@@ -43,22 +43,22 @@ You console it.
 ***
 
 
-#### Question - Why couldn't the React component understand the joke? 
+#### Question - Why couldn't the React component understand the joke?
 
 
-It didn't get the context. 
+It didn't get the context.
 
 ***
 
 
-#### Question - Why did the JavaScript developer leave? 
+#### Question - Why did the JavaScript developer leave?
 
 
 Because she didn't get arrays
 
 ***
 
-#### Question - Why do functions always break up? 
+#### Question - Why do functions always break up?
 
 
 Because they have constant arguments.
@@ -69,7 +69,7 @@ Because they have constant arguments.
 #### Question - Why do programmers get confused between Halloween and Christmas?
 
 
-Because OCT 31 = DEC 25 
+Because OCT 31 = DEC 25
 
 ***
 
@@ -149,7 +149,7 @@ FORK YOU!
 #### Question: What do you call the security outside of a samsung store?
 
 Guardians of the Galaxy
-  
+
 ***
 #### Question: Why don't fish like React?
 
@@ -230,10 +230,10 @@ Daniel: close the console window
 
 Sharon: and now
         ?
-        
+
 Daniel: that's it       
         the error is gone
-        
+
 Sharon: 😐
 
 ***
@@ -290,7 +290,7 @@ very... long... pause...
 
 ***
 
-A journalist asks a programmer 
+A journalist asks a programmer
 
 what makes the code bad ?
 
@@ -444,7 +444,7 @@ if (coding) {
 
 ![JavaScript Arrays](./images/javascript-arrays.jpg)
 
-*** 
+***
 
 ![Using VS to open JSON](./images/open_json_in_vs.jpg)
 
@@ -492,5 +492,10 @@ if (coding) {
 ***
 
 ![runtimeError](./images/runtimeError.jpg)
+
+***
+
+Me: No one gives attention to me. I feel so lonely.
+Terms and conditions: Bitch please.
 
 ***
