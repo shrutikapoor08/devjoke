@@ -213,6 +213,11 @@ She: I code in Python!
 ALGORITHM(noun) - Word used by programmers when they do not want to explain what they did.
 
 ***
+### Question - Why don't programmers like nature?
+
+Answer: Because there are too many :beetle: bugs!
+
+***
 
 1/3 of US bandwidth is used by Netflix.
 
