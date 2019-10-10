@@ -298,6 +298,9 @@ NO COMMENT
 
 ***
 
+A programmer is told to "go to hell", he finds the worst part of that statement is the "go to".
+
+***
 ```
 
 if (coding) {
