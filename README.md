@@ -213,7 +213,12 @@ She: I code in Python!
 ALGORITHM(noun) - Word used by programmers when they do not want to explain what they did.
 
 ***
+#### Question - What screams "I'm insecure"?
 
+
+Http
+
+***
 1/3 of US bandwidth is used by Netflix.
 
 the rest is used by `rm -rf node_modules && npm install`
