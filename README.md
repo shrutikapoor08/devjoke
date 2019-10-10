@@ -494,3 +494,10 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+#### Question: What Is The Difference Between Java And JavaScript?
+
+Answer: None – They are like Car and Carpet.
+
+***
+
