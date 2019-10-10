@@ -494,3 +494,9 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+#### Question: Why was the javascript developer sad?
+
+Answer: Because he didn't Node how to Express himself.
+
+***
