@@ -73,6 +73,14 @@ Because OCT 31 = DEC 25
 
 ***
 
+#### Question - How do I learn coding in a single night?
+
+
+Pack a laptop and travel to the noth pole in the beginning of the winter. You'll have 6 months of a night to learn coding.
+Once there - really just Google it. There are tons of excellent tutorials on the web
+
+***
+
 #### Question - What is programmer's favourite hangout place?
 
 Foo Bar
