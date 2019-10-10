@@ -285,3 +285,6 @@ Guardians of the Galaxy
 
 ***
 
+ ![Function and Return](./images/functionreturn.png)
+
+***
