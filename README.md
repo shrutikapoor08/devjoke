@@ -494,3 +494,6 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+Types- Remove  child from parent with fork
+google replies
+"how to kill a child with fork- StackOverflow."
