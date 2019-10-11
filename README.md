@@ -1,5 +1,8 @@
 # Dev Joke
 Send me a PR if you know a good Dev Joke. 
+***
+
+Two bytes meet. The first byte asks, “Are you ill?” The second byte replies, “No, just feeling a bit off.”
 
 ***
 
