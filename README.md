@@ -268,6 +268,11 @@ Have you heard about the new Cray super computer?  It’s so fast, it executes a
 
 ***
 
+A user interface is like a joke.
+if you have to explain it, it's not that good.
+
+***
+
 Trying to fix the problem I created when I tried to fix the problems I created when I tried to fix the problems I created when there was a problem
 
 ***
