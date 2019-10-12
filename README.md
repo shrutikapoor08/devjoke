@@ -251,3 +251,6 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ![debugging](./images/ueyu341j8oq31.jpg)
 
 ***
+
+Q. How did the programmer die in the shower?
+A. He read the shampoo bottle instructions: Lather. Rinse. Repeat.
