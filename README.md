@@ -494,3 +494,12 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+***
+WHEN YOU HAVEN'T DONE ANY SHOPPING FOR PUJA AND 
+          YOU GET TO KNOW YOUR 
+      FRIEND WEARS THE SAME SIZE CLOTHES
+      
+   **GOD'S PLAN PLAYING IN THE BACKGROUND"**
+
+***
