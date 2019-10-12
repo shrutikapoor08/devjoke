@@ -494,3 +494,12 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+HOW TO WRITE A CV
+
+Person 1: Do you have any expertise in SQL?
+Person 2: No
+Person 1: ....
+Person 2: ....
+Person 1: Doesn't matter.. Just write "Expert in No Sql"
+
+***
