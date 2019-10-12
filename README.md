@@ -494,3 +494,10 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+***
+
+Son: Dad, why do the sun rise in east and set in west ?
+Programmer dad: hey, it works!! Don't touch it ;
+
+***
