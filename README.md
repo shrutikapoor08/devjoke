@@ -494,3 +494,8 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+***
+     YO MAMA IS SO STUPID
+ SHE INSULTS YOU WITH YO MAMA JOKE
+
+***
