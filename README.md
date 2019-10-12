@@ -494,3 +494,6 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+During running 1000000 iteraions, 900000 iterations ran and at same time your network got disturbed!!!!! 
+ 
