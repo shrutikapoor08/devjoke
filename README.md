@@ -127,6 +127,12 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+#### Question - How do I solve these errors my friend?
+
+Just close the console windows, you wont see any errors.
+
+***
+
 #### Question - What if your boyfriend is a programmer?
 
 She: I told him to call me.
@@ -144,6 +150,17 @@ FORK YOU!
 
 Guardians of the Galaxy
   
+***
+#### Question: Why don't fish like React?
+
+Hooks!
+
+***
+
+#### Question: Why does Python live on land?
+
+Because it's above C-level
+
 ***
 
 #### Question - How are computers and air conditioners similar?
@@ -176,6 +193,120 @@ Answer: They stop calling each other.
 ### Question - 0 is false and 1 is true, right?
 
 Answer: 1
+
+***
+
+#### Question: How many programmers does it take to change a light bulb?
+
+Answer: None – It’s a hardware problem
+
+***
+
+He: You're semicolon to my code ;)
+
+She: I code in Python!
+
+***
+
+#### Question: What is an algorithm?
+
+ALGORITHM(noun) - Word used by programmers when they do not want to explain what they did.
+
+***
+
+1/3 of US bandwidth is used by Netflix.
+
+the rest is used by `rm -rf node_modules && npm install`
+
+***
+
+Debugging: Like the detective in a crime movie where you are also the murderer.
+
+***
+
+Sharon: I'm facing error
+
+Daniel: close the console window
+
+Sharon: and now
+        ?
+        
+Daniel: that's it       
+        the error is gone
+        
+Sharon: 😐
+
+***
+
+Being a Programmer and watching someone HACK a computer on a TV show is like a nurse and watching someone in the movie take blood with a carrot.
+
+***
+
+Programmer 1: We have a problem!
+Programmer 2: Let’s use RegEx!
+Programmer 1: Now we have two problems.
+
+***
+
+She: I told him to call me
+
+He Asked about my parameters and return type
+
+***
+
+Yesterday I changed the name of my Wifi to "*hack if you can*"...
+
+Today I found it named "*challenge accepted*"
+
+***
+
+My girlfriend dumped me after I named a class after her. She felt I treated her like an object.
+
+***
+
+Have you heard about the new Cray super computer?  It’s so fast, it executes an infinite loop in 6 seconds.
+
+***
+
+Trying to fix the problem I created when I tried to fix the problems I created when I tried to fix the problems I created when there was a problem
+
+***
+
+A programmer’s wife asks: “Would you go to the shop and pick up a loaf of bread? And if they have eggs, get a dozen.”
+
+The programmer returns home with 12 loaves of bread.
+
+“They had eggs.”
+
+***
+
+“Knock, knock.”
+
+“Who’s there?”
+
+very... long... pause...
+
+“Java.”
+
+***
+
+A journalist asks a programmer 
+
+what makes the code bad ?
+
+NO COMMENT
+
+***
+
+```
+
+if (coding) {
+  headphones = true;
+  focus=100;
+  conversation = null;
+}
+
+```
 
 ***
 
@@ -331,17 +462,36 @@ Answer: 1
 
 ***
 
+![Frustrated programmer](./images/frustratedprogrammer.jpg)
+
+***
+
 ![security](./images/security.png)
 
+***
 
 ![java](./images/tattoo.jpeg)
 
 ***
+
 ![debugging](./images/Debugging.jpg)
 
 ***
 
 ![error](./images/error.jpg)
+
+
+***
+
+![titanic](./images/titanic-float-none.png)
+
+***
+
+![GoTo Hell](./images/new_hell.jpg)
+
+***
+
+![runtimeError](./images/runtimeError.jpg)
 
 ***
 
