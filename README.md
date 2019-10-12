@@ -298,6 +298,15 @@ NO COMMENT
 
 ***
 
+A: Hey, What's your address ?
+B: 173.15.65.1
+A: No man. Your local address
+B: 127.0.0.1
+A: Oh you geeky nerd !! I mean your physical address
+B: 29:10:3a:54:4f:c4
+
+***
+
 ```
 
 if (coding) {
