@@ -345,3 +345,6 @@ Answer: 1
 
 ***
 
+![intkaam](./images/intkaam.jpeg)
+
+***
