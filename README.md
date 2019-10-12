@@ -494,3 +494,9 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+***
+DON'T BE MEAN
+  BE MEDIAN,
+    MODE OR 
+      RANGE
+***
