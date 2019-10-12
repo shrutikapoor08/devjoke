@@ -224,6 +224,11 @@ Debugging: Like the detective in a crime movie where you are also the murderer.
 
 ***
 
+Behind every good program is a frustrated programmer.
+
+***
+
+
 Sharon: I'm facing error
 
 Daniel: close the console window
