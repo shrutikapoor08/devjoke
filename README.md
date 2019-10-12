@@ -494,3 +494,7 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+***
+Question: Why won’t the government embrace bitcoin?
+They hate the idea of a ‘Proof Of Work’.
+***
