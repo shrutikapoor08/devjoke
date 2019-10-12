@@ -298,6 +298,17 @@ NO COMMENT
 
 ***
 
+***
+Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?”
+“Yeah,” reply the bytes.  “Make us a double.”
+
+***
+
+***
+Why do programmers always mix up Halloween and Christmas?
+Because Oct 31 equals Dec 25.
+***
+
 ```
 
 if (coding) {
