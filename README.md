@@ -494,3 +494,16 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+***
+
+hen
+
+Dad : oh no! I have done the same thing.
+
+Son : so you were able to decide what you want to do in those 4 years ?
+
+Dad : no. Only thing I was able to conclude after those 4 years was "engineering nahi karna chahiye thi " 😂. 
+
+Then I had the education loan to repay and there was no way out lol
+
+***
