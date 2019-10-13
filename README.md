@@ -494,3 +494,9 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+***
+
+![semicolon](./images/joke-semi-colon.jpg)
+
+***
