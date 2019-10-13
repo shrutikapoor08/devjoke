@@ -494,3 +494,6 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+Harry: Who is your boyfriend?
+DBA: I like to leave the relations to the databases!
