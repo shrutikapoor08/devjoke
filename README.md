@@ -494,3 +494,6 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+An SQL query goes into a bar, walks up to two tables and asks: “Can I join you?”
+
+***
