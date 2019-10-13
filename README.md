@@ -494,3 +494,14 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+***
+
+Dad: So what do you want to do when you grow up?
+
+Kid: Engineering
+
+Dad: Oh great, so you want to become an engineer?
+
+Kid: No, I want 4 more years to decide what I want to do
+
+***
