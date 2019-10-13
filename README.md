@@ -494,3 +494,7 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+Why do java devlopers wear glasses? beacuse they can't C#
+
+***
