@@ -494,3 +494,8 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+Friend: Who is your boyfriend?
+Me: I'll leave the relation to the databases
+
+***
