@@ -127,6 +127,10 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+#### Question - How long does a loop last?
+
+For a while
+
 #### Question - How do I solve these errors my friend?
 
 Just close the console windows, you wont see any errors.
