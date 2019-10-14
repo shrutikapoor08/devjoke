@@ -353,6 +353,12 @@ The first string says, “I think I’ll have a beer quag fulk boorg jdk^CjfdLk 
 
 ***
 
+What do the new MacBook and a black hole have in common?
+
+There's no Escape!
+
+***
+
 ![async](./images/async.png)
 
 ***
