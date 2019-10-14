@@ -494,3 +494,11 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+
+"your dog ate your coding assignment?"
+
+
+It took him a couple bytes
+
+***
