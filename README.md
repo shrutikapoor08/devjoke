@@ -127,6 +127,13 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+
+#### Question - Do you know the definition of an engineer?
+
+Yeah, somebody who makes precise guesswork based on unreliable data provided by people with questionable knowledge. Never wrong. Likes tables.
+
+***
+
 #### Question - Why fish don't like React?
 
 Because it has Hooks 😂.
@@ -186,6 +193,7 @@ Two bytes meet.  The first byte asks, “Are you ill?”
 The second byte replies, “No, just feeling a bit off.”
 
 ***
+
 ### Question - Who is a programmer?
 
 Answer: A person who fixed a problem that you don't know you have , in a way you don't understand.
