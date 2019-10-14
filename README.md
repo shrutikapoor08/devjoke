@@ -345,6 +345,14 @@ The first string says, “I think I’ll have a beer quag fulk boorg jdk^CjfdLk 
 
 ***
 
+- Knock, knock 
+
+- An async function 
+
+- Who's there?
+
+***
+
 ![async](./images/async.png)
 
 ***
