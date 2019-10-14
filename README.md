@@ -494,3 +494,8 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+when you didnt code in a langauage for too long and sucessfully write a hello world program !!
+I'm still worthy.
+
+***
