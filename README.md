@@ -546,3 +546,8 @@ There's no Escape!
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+***
+encapsulation is a protective shield that prevents the data from being accessed by the code outside this shield.
+Well, protecting someone from the outside cruel world by encapsulating them is a pretty darn idea.
+***
