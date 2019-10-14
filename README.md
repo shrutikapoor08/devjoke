@@ -314,6 +314,12 @@ if (coding) {
 
 ***
 
+#### Pointers in C be like 
+
+"I know a guy who knows a guy... who knows another guy"
+
+***
+
 ![async](./images/async.png)
 
 ***
@@ -487,7 +493,6 @@ if (coding) {
 ***
 
 ![error](./images/error.jpg)
-
 
 ***
 
