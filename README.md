@@ -546,3 +546,8 @@ There's no Escape!
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+***
+If you throw a stone in the sky in Bangalore, it would either hit a dog or an Engineer. 
+PS: No offence 
+***
