@@ -494,3 +494,8 @@ if (coding) {
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+#### Who is a programmer?
+Answer: A machine that turns coffee into code
+
+***
