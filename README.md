@@ -461,6 +461,8 @@ There's no Escape!
 
 ![java](./images/garbage-collector.png)
 
+(.images/webjava.jpg)
+
 ***
 
 ![gitcommit](./images/uselessgit.jpeg)
