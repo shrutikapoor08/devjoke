@@ -359,6 +359,12 @@ There's no Escape!
 
 ***
 
+#### Question: Why was the JavaScript reality show cancelled after only one episode?
+
+Answer: People thought it seemed scripted.
+
+***
+
 ![async](./images/async.png)
 
 ***
