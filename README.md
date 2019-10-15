@@ -539,10 +539,13 @@ There's no Escape!
 
 ***
 
+
 ![GoTo Hell](./images/new_hell.jpg)
 
 ***
 
 ![runtimeError](./images/runtimeError.jpg)
 
+***
+Programmer is a machine that forms coffee into code.
 ***
