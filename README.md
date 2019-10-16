@@ -20,6 +20,10 @@ var war; Declaring a war :)
 
 ***
 
+I used to know a joke about Java, but I run out of memory.
+
+***
+
 #### Question - What will be the name of the movie on a sad developer?
 
 `DEV`das
