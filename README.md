@@ -579,6 +579,10 @@ One man's constant is another man's variable
 
 ***
 
+All programmers are playwrights, and all computers are lousy actors
+  
+***
+
 Algorithm :
 
 Words used by a programmer when....
