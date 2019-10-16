@@ -72,6 +72,15 @@ Because she didn't get arrays
 
 ***
 
+#### Question - What is the object-oriented way to become wealthy?
+
+
+Inheritance.
+
+***
+
+
+
 #### Question - Why do functions always break up? 
 
 
@@ -584,6 +593,7 @@ One man's constant is another man's variable
 ![error](./images/error.jpg)
 
 ***
+
 I showed my 12 year son aa floppy disk....
 He said "ohh nice!! You have 3-D printed the save icon."
 
