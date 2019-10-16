@@ -579,6 +579,14 @@ One man's constant is another man's variable
 
 ***
 
+Algorithm :
+
+Words used by a programmer when....
+
+they don't want to explain what they did.
+
+***
+
 I had a problem earlier, then i started using Java.
 Now I've a ProblemFactory.
 
