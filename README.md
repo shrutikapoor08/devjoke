@@ -461,6 +461,8 @@ There's no Escape!
 
 ![java](./images/garbage-collector.png)
 
+(.images/webjava.jpg)
+
 ***
 
 ![gitcommit](./images/uselessgit.jpeg)
@@ -539,7 +541,6 @@ There's no Escape!
 
 ***
 
-
 ![GoTo Hell](./images/new_hell.jpg)
 
 ***
@@ -548,4 +549,10 @@ There's no Escape!
 
 ***
 Programmer is a machine that forms coffee into code.
+
+***
+
+Q: How many programmers does it take to change a light bulb?
+A: None. It's a hardware problem.
+
 ***
