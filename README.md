@@ -571,3 +571,9 @@ A: None. It's a hardware problem.
 ![doctors](./images/doctors.jpg)
 
 ***
+
+Python and PHP.
+
+One of these two is one of the most popular choices of backend programming. The other one is PHP.
+
+***
