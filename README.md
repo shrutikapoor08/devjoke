@@ -114,7 +114,16 @@ He keeps dropping the database
 
 #### Question - How did the html get drunk?
 
-It had too many `<br/>`
+
+It had too many <br/>
+
+***
+
+```
+#pisa-tower {
+  font-style: italic;
+}
+```
 
 ***
 
