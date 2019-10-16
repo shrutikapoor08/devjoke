@@ -575,6 +575,11 @@ Answer: A fork.
 
 ***
 
+I had a problem earlier, then i started using Java.
+Now I've a ProblemFactory.
+
+***
+
 ![titanic](./images/titanic-float-none.png)
 
 ***
