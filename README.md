@@ -555,6 +555,11 @@ Answer: People thought it seemed scripted.
 
 ***
 
+Friend: you both look like a cute couple!! where did you find her? tinder or insta?
+Me: GITHUB
+
+***
+
 "your dog ate your coding assignment?"
 
 
