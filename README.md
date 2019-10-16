@@ -548,6 +548,10 @@ There's no Escape!
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+Programmer is a machine that forms coffee into code.
+
+***
+
 Q: How many programmers does it take to change a light bulb?
 A: None. It's a hardware problem.
 
