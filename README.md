@@ -600,6 +600,11 @@ Question- Me: My screens turns Blue,
 
 ***
 
+What did the Python say when he came out of his shell?
+Print("Hello World!")
+
+***
+
 I showed my 12 year son aa floppy disk....
 He said "ohh nice!! You have 3-D printed the save icon."
 
