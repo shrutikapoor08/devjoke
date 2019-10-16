@@ -555,6 +555,13 @@ Answer: People thought it seemed scripted.
 
 ***
 
+"your dog ate your coding assignment?"
+
+
+It took him a couple bytes
+
+***
+
 ![betterThanSex](images/better-than-sex.jpg)
 
 ***
