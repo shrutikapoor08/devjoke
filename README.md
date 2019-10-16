@@ -583,6 +583,8 @@ One man's constant is another man's variable
 ![error](./images/error.jpg)
 
 ***
+I showed my 12 year son aa floppy disk....
+He said "ohh nice!! You have 3-D printed the save icon."
 
 All programmers are playwrights, and all computers are lousy actors
   
@@ -617,6 +619,7 @@ Now I've a ProblemFactory.
 ![semicolon](./images/joke-semi-colon.jpg)
 
 ***
+
 "Don't call me, I'll callback you. I promise!"
 
 ***
@@ -631,8 +634,6 @@ Me: GITHUB
 ***
 
 "your dog ate your coding assignment?"
-
-
 It took him a couple bytes
 
 ***
@@ -663,7 +664,6 @@ Python and PHP.
 
 One of these two is one of the most popular choices of backend programming. The other one is PHP.
 
-***
 ***
 
 Dad: So what do you want to do when you grow up?
