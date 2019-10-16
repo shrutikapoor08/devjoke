@@ -612,6 +612,10 @@ Now I've a ProblemFactory.
 ![semicolon](./images/joke-semi-colon.jpg)
 
 ***
+"Don't call me, I'll callback you. I promise!"
+
+***
+
 An SQL query goes into a bar, walks up to two tables and asks: “Can I join you?”
 
 ***
