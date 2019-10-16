@@ -548,3 +548,7 @@ There's no Escape!
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+Q: How many programmers does it take to change a light bulb?
+A: None. It's a hardware problem.
+
+***
