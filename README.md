@@ -608,6 +608,10 @@ Now I've a ProblemFactory.
 
 ***
 
+"Don't call me, I'll callback you. I promise!"
+
+***
+
 An SQL query goes into a bar, walks up to two tables and asks: “Can I join you?”
 
 ***
