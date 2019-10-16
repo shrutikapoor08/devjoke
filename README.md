@@ -20,6 +20,10 @@ var war; Declaring a war :)
 
 ***
 
+$array = array(); //array
+
+***
+
 #### Question - What will be the name of the movie on a sad developer?
 
 `DEV`das
