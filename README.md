@@ -606,8 +606,12 @@ Now I've a ProblemFactory.
 
 ![runtimeError](./images/runtimeError.jpg)
 
+
 ***
 
+![semicolon](./images/joke-semi-colon.jpg)
+
+***
 "Don't call me, I'll callback you. I promise!"
 
 ***
