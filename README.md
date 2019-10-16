@@ -397,6 +397,10 @@ Answer: A fork.
 
 ***
 
+One man's constant is another man's variable
+
+***
+
 ![async](./images/async.png)
 
 ***
