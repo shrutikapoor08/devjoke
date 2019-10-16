@@ -563,7 +563,8 @@ I would love to change the world, but they won’t give me the source code.
 
 ***
 
-Programmer is a machine that forms coffee into code.
+#### Who is a programmer?
+Answer: A machine that turns coffee into code
 
 ***
 
