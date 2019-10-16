@@ -37,6 +37,12 @@ Because they do not Node how to Express themselves.
 
 #### Question - How do you comfort a JavaScript bug? 
 
+***
+
+My code never have bugs, it just just develops a random unexpected feature
+
+***
+
 
 You console it.
 
