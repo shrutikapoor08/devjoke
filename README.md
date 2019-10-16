@@ -359,6 +359,12 @@ There's no Escape!
 
 ***
 
+#### Question: Why was the JavaScript reality show cancelled after only one episode?
+
+Answer: People thought it seemed scripted.
+
+***
+
 ![async](./images/async.png)
 
 ***
@@ -461,6 +467,8 @@ There's no Escape!
 
 ![java](./images/garbage-collector.png)
 
+(.images/webjava.jpg)
+
 ***
 
 ![gitcommit](./images/uselessgit.jpeg)
@@ -546,5 +554,16 @@ There's no Escape!
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
 I would love to change the world, but they won’t give me the source code.
+
+***
+
+Programmer is a machine that forms coffee into code.
+
+***
+
+Q: How many programmers does it take to change a light bulb?
+A: None. It's a hardware problem.
+
 ***
