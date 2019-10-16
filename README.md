@@ -555,6 +555,10 @@ Answer: People thought it seemed scripted.
 
 ***
 
+![betterThanSex](images/better-than-sex.jpg)
+
+***
+
 I would love to change the world, but they won’t give me the source code.
 
 ***
