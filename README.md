@@ -554,6 +554,11 @@ Answer: People thought it seemed scripted.
 ![runtimeError](./images/runtimeError.jpg)
 
 ***
+
+I would love to change the world, but they won’t give me the source code.
+
+***
+
 Programmer is a machine that forms coffee into code.
 
 ***
