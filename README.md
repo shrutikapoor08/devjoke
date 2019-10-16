@@ -573,6 +573,10 @@ Answer: People thought it seemed scripted.
 
 ***
 
+An SQL query goes into a bar, walks up to two tables and asks: “Can I join you?”
+
+***
+
 Friend: you both look like a cute couple!! where did you find her? tinder or insta?
 Me: GITHUB
 
