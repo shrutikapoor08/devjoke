@@ -415,6 +415,12 @@ One man's constant is another man's variable
 
 ***
 
+Question- Me: My screens turns Blue,
+          Mom : Fool,u deleted System32!
+          
+***
+
+
 ![async](./images/async.png)
 
 ***
