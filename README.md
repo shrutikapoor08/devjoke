@@ -127,6 +127,26 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ***
 
+
+#### Question - Do you know the definition of an engineer?
+
+Yeah, somebody who makes precise guesswork based on unreliable data provided by people with questionable knowledge. Never wrong. Likes tables.
+
+***
+
+#### Question - Why fish don't like React?
+
+Because it has Hooks 😂.
+
+***
+
+#### Question - How long does a loop last?
+
+For a while
+
+***
+
+
 #### Question - How do I solve these errors my friend?
 
 Just close the console windows, you wont see any errors.
@@ -173,6 +193,7 @@ Two bytes meet.  The first byte asks, “Are you ill?”
 The second byte replies, “No, just feeling a bit off.”
 
 ***
+
 ### Question - Who is a programmer?
 
 Answer: A person who fixed a problem that you don't know you have , in a way you don't understand.
@@ -310,6 +331,40 @@ if (coding) {
 
 ***
 
+#### Pointers in C be like 
+
+"I know a guy who knows a guy... who knows another guy"
+
+***
+
+Two strings walk into a bar and sit down. The bartender says, “So what’ll it be?”
+
+The first string says, “I think I’ll have a beer quag fulk boorg jdk^CjfdLk jk3s d#f67howe%^U r89nvy~~owmc63^Dz x.xvcu”
+
+“Please excuse my friend,” the second string says, “He isn’t null-terminated.”
+
+***
+
+- Knock, knock 
+
+- An async function 
+
+- Who's there?
+
+***
+
+What do the new MacBook and a black hole have in common?
+
+There's no Escape!
+
+***
+
+#### Question: Why was the JavaScript reality show cancelled after only one episode?
+
+Answer: People thought it seemed scripted.
+
+***
+
 ![async](./images/async.png)
 
 ***
@@ -412,6 +467,8 @@ if (coding) {
 
 ![java](./images/garbage-collector.png)
 
+(.images/webjava.jpg)
+
 ***
 
 ![gitcommit](./images/uselessgit.jpeg)
@@ -478,8 +535,11 @@ if (coding) {
 
 ***
 
-![error](./images/error.jpg)
+![relation](./images/relation.jpg)
 
+***
+
+![error](./images/error.jpg)
 
 ***
 
@@ -495,7 +555,30 @@ if (coding) {
 
 ***
 
+![betterThanSex](images/better-than-sex.jpg)
+
+***
+
+I would love to change the world, but they won’t give me the source code.
+
+***
+
 #### Who is a programmer?
 Answer: A machine that turns coffee into code
+
+***
+
+Q: How many programmers does it take to change a light bulb?
+A: None. It's a hardware problem.
+
+***
+
+![doctors](./images/doctors.jpg)
+
+***
+
+Python and PHP.
+
+One of these two is one of the most popular choices of backend programming. The other one is PHP.
 
 ***
