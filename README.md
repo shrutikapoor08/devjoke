@@ -1,4 +1,4 @@
-# Dev Joke
+﻿# Dev Joke
 Send me a PR if you know a good Dev Joke. 
 
 ***
@@ -389,6 +389,11 @@ There's no Escape!
 #### Question: Why was the JavaScript reality show cancelled after only one episode?
 
 Answer: People thought it seemed scripted.
+
+***
+#### Question: What's did the Git engineer ask the waitress for?
+
+Answer: A fork.
 
 ***
 
