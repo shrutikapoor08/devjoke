@@ -697,3 +697,11 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+***
+
+#### Question- why does the developer use credit card to  buy all the chirtmas gift?
+
+Answer:-wallet.cacheClean()
+
+***
+
