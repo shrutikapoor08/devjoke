@@ -707,3 +707,9 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+Programmer 1: We have a problem!
+Programmer 2: Let’s use RegEx!
+Programmer 1: Now we have two problems.
+
+***
