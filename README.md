@@ -707,3 +707,9 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+#### Question: What's did the Git engineer ask the waitress for?
+
+Answer: A fork.
+
+***
