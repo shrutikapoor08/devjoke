@@ -635,6 +635,10 @@ Now I've a ProblemFactory.
 
 ***
 
+Debugging: Removing the needles from the haystack.
+
+***
+
 ![titanic](./images/titanic-float-none.png)
 
 ***
