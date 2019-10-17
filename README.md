@@ -707,3 +707,11 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+There are only 10 kinds of people in this world: 
+
+those who know binary 
+
+and those who don’t.
+
+***
