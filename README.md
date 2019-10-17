@@ -697,3 +697,24 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+#### Q. In a world where computer programs were TV shows, why would a JS program never be a reality TV show?
+Ans. - because it's scripted.
+
+***
+
+There are 10 types of people in the world: Those who understand Binary and those who don't 😏
+
+***
+
+### Why did the developer go broke?
+Cause he used up all of his Cache
+
+***
+
+#mother {
+  right: 100%;
+  margin: 0;
+}
+
+***
