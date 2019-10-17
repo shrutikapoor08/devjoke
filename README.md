@@ -707,3 +707,8 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+Electronics engineers :- "We have the potential to ground your attitude"
+Computer engineers :- "hold my beer"
+
+***
