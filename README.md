@@ -348,6 +348,16 @@ very... long... pause...
 
 ***
 
+Conversation between layman and developer
+- layman: Hey! What's your address
+- developer: 173.168.15.10
+- layman: No man. Your local address
+- developer: 127.0.0.1
+- layman: I mean your physical address
+- developer: 29.01.38.62.31.58
+
+***
+
 A journalist asks a programmer 
 
 what makes the code bad ?
