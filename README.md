@@ -707,3 +707,10 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+#### Question - Why did a programmer dad disown his son?
+
+
+Because he was counting from 1 rather than 0.
+
+***
