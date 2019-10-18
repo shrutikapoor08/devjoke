@@ -1,5 +1,8 @@
 # Dev Joke
 Send me a PR if you know a good Dev Joke. 
+***
+
+I wanna dress up as a UDP packet for Halloween, but I'm not sure anyone would get it.
 
 ***
 
