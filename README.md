@@ -707,3 +707,11 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+### what are the happy and sad times for a developer?
+
+Happy times : When the code is free from bugs.
+
+Sad times : When the code is free from bugs but more projects are pending.
+
+***
