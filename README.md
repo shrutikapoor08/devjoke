@@ -32,7 +32,14 @@ A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
 
 #### Question - How did the developer announce her engagement?
 
-`this.engaged = true`
+`function startEngagement() {
+  this.engaged = true
+}`
+
+##### Follow up - How did the lover steal the bride?
+
+`startEngagement.call(lover)`
+
 ***
 
 #### Question - Why is the Javascript developer sad?
