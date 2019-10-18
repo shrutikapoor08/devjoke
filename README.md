@@ -707,3 +707,9 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+### What could be a common question that python developers get asked by non-tech folks?
+
+Answer : Hey friend ! Don't you get scared of python? 
+
+***
