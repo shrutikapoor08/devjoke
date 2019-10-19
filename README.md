@@ -707,3 +707,6 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+She: You told me you were fullstack!
+
+He: Yeah.. Full StackOverFlow
