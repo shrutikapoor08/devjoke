@@ -558,6 +558,10 @@ Question- Me: My screens turns Blue,
 
 ***
 
+![string](./images/string.jpg)
+
+***
+
 ![debugger](./images/console-log-debugger.jpg)
 
 ***
