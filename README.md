@@ -707,3 +707,9 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+Q: How many programmers does it take to screw in a light bulb?
+
+A: None. It's a hardware problem.
+
+***
