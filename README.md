@@ -3,6 +3,12 @@ Send me a PR if you know a good Dev Joke.
 
 ***
 
+DAD: "What are you coding?"
+ME (rolls eyes): "I'm making a date picker..."
+DAD: "Son are you sure you don't work for Tinder"
+
+***
+
 walks UDP package into bar A. 
 
 ***
