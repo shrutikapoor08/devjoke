@@ -707,3 +707,9 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+### Question - How do functions break up?
+
+Answer: They stop calling each other.
+
+***
