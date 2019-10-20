@@ -711,17 +711,27 @@ Kid: No, I want 4 more years to decide what I want to do
  ### A simple life lesson
  
  >>> import this
+ 
 ...
 >>> love = this
+
 >>> this is love
+
 True
 >>> love is True
+
 False
+
 >>> love is False
+
 False
+
 >>> love is not True or False
+
 True
+
 >>> love is not True or False; love is love  # FML
+
 True
 
 *****
