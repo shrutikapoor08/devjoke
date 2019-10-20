@@ -707,3 +707,10 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+#### Question - What is the object-oriented way to become wealthy?
+
+
+Inheritance.
+
+***
