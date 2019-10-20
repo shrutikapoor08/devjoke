@@ -707,3 +707,9 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+Q: Why did the Programmer quit his job?
+A: Because he didn't get arrays.
+                        (a raise)
+                        
+***
