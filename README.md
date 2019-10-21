@@ -610,6 +610,10 @@ Question- Me: My screens turns Blue,
 
 ***
 
+Android: where ProgressBars go around in circles and Spinners don’t spin
+
+***
+
 What did the Python say when he came out of his shell?
 Print("Hello World!")
 
