@@ -711,3 +711,8 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+A journalist asked a programmer - "What makes code bad?"
+Programmer - "No comment."
+
+***
