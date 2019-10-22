@@ -711,3 +711,7 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+A SQL query goes to a restaurant and walks up to 2 tables and says “Can I join you”?
+
+***
