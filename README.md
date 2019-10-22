@@ -711,3 +711,8 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+Guy 1: Its so cold, the heater has stopped working !!
+Android Dev: (Turns on Android Studio) There you go !
+
+***
