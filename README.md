@@ -1,5 +1,18 @@
 ﻿# Dev Joke
-Send me a PR if you know a good Dev Joke. 
+Send me a PR if you know a good Dev Joke.
+
+***
+
+A QA Engineer walks into a bar.
+Orders a beer.
+Orders 0 beers.
+Orders 999999999999999 beers.
+Orders a lizard.
+Orders -1 beers.
+Orders ahopisnedgionsouhwsetge.
+
+First real customers walks into the bar and asks where the bathroom is. The bar bursts into flames, killing everyone.
+(Credit: @BrenanKeller)
 
 ***
 
