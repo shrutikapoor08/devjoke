@@ -711,3 +711,14 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+#### Question: How programming works?
+
+Interviwer: what's Your biggest strength?
+Me: I m a quick Learner.
+Interviwer: What is 11*11.
+me: 69
+Interviwer: It’s not even close, its 121.
+Me: It's 121.
+
+***
