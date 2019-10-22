@@ -1,4 +1,4 @@
-﻿# Dev Joke
+# Dev Joke
 Send me a PR if you know a good Dev Joke. 
 
 ***
@@ -610,6 +610,11 @@ Question- Me: My screens turns Blue,
 
 ***
 
+Question: What are the similarities between java and javascript?
+It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
+
+***
+=======
 Android: where ProgressBars go around in circles and Spinners don’t spin
 
 ***
