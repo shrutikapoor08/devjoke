@@ -26,6 +26,12 @@ var war; Declaring a war :)
 
 ***
 
+### Question - What kind of doctor fixes broken websites?
+
+A URLologist.
+
+***
+
 A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
 
 ***
