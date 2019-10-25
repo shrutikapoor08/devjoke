@@ -614,7 +614,7 @@ Question: What are the similarities between java and javascript?
 It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
 
 ***
-=======
+
 Android: where ProgressBars go around in circles and Spinners don’t spin
 
 ***
@@ -714,5 +714,9 @@ Kid: Engineering
 Dad: Oh great, so you want to become an engineer?
 
 Kid: No, I want 4 more years to decide what I want to do
+
+***
+
+A successful programmer is a PRO in GRAMMAR!
 
 ***
