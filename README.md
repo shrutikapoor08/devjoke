@@ -732,3 +732,8 @@ A successful programmer is a PRO in GRAMMAR!
 Answer: Because  Oct 31 equals Dec 25. !
 
 ***
+
+A journalist asked a programmer:-what makes code bad? 
+Programmer:- No comment 
+
+***
