@@ -737,3 +737,10 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+### Question - How to actually learn any new programming concept?
+
+Answer: Changing stuff and seening what happens!
+
+***
+
