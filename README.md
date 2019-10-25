@@ -3,6 +3,10 @@ Send me a PR if you know a good Dev Joke.
 
 ***
 
+Why do Java programmers wear glasses? Cuz they can't C#!
+
+***
+
 walks UDP package into bar A. 
 
 ***
