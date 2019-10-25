@@ -737,3 +737,17 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+#### Machine Learning in nutshell ! :D
+
+Interviewer : What's your biggest strength ? 
+Me : I'm a fast learner.
+Interviewer : What's 11*11 ? 
+Me : 65.
+Interviewer : Not even close. It's 121.
+Me : It's 121.
+***
+#### Bytesize joke : 
+Two bytes meet. The first byte asks, "Are you ill ? "
+The second byte replies, "No, just feeling a bit off. "
+#### Python Class : 
+![Python class](.images/A-Python-Class)
