@@ -609,6 +609,12 @@ Question- Me: My screens turns Blue,
 ![error](./images/error.jpg)
 
 ***
+### Question - Why integration testing is required after unit testing?
+
+Answer: ![umbrella](./images/umbrella.gif)
+
+***
+
 
 Question: What are the similarities between java and javascript?
 It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
