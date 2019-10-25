@@ -720,3 +720,9 @@ Kid: No, I want 4 more years to decide what I want to do
 A successful programmer is a PRO in GRAMMAR!
 
 ***
+
+### Question - For what reason do software engineers consistently stir up Halloween and Christmas?
+
+Answer: Because  Oct 31 equals Dec 25. !
+
+***
