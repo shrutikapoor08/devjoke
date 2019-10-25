@@ -737,3 +737,7 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+If it weren’t for C, we’d all be programming in BASI and OBOL.
+
+***
