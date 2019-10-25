@@ -737,3 +737,9 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+What is an awesome 404 message?
+Congrats, you broke the internet.
+
+***
+
