@@ -16,6 +16,11 @@ If you wanna know what the "true friend" is... it's simple. look at the develope
 
 ***
 
+Q. What is the biggest lie in the programmer's verse?
+A. “I have read and agree to the Terms and Conditions.”
+
+***
+
 var war; Declaring a war :)
 
 ***
