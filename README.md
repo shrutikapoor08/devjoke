@@ -737,3 +737,9 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+### Bad pickup lines for programmers
+
+Your name must be google, because you are all I am searching for.
+
+***
