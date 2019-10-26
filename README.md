@@ -737,3 +737,8 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+HE: You are the ; to my code!
+SHE: I code in python.
+
+***
+
