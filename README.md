@@ -737,3 +737,9 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+Son:Daddy, what are clouds made of?
+Dad:Linux servers, mostly.
+
+***
+
