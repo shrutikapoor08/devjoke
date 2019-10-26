@@ -737,3 +737,8 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+My code doesn't work---"I have no idea why."
+My code works---"I have no idea why."
+
+***
