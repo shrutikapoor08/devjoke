@@ -430,6 +430,14 @@ Question- Me: My screens turns Blue,
           
 ***
 
+#### Question: How many programmers does it take to change a light bulb?
+
+Answer: None – It’s a hardware problem.
+
+***
+
+
+
 
 ![async](./images/async.png)
 
