@@ -430,6 +430,10 @@ Question- Me: My screens turns Blue,
           
 ***
 
+There are three kinds of lies: Lies, damned lies, and benchmarks.
+
+***
+
 
 ![async](./images/async.png)
 
