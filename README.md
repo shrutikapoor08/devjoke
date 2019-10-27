@@ -430,6 +430,11 @@ Question- Me: My screens turns Blue,
           
 ***
 
+#### Question: How do you know if your code is delicious?
+
+Answer: Try a byte.
+
+***
 
 ![async](./images/async.png)
 
