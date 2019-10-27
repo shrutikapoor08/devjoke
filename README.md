@@ -434,6 +434,9 @@ Question- Me: My screens turns Blue,
 ![async](./images/async.png)
 
 ***
+![Assembly](./images/assembly_pointers.png)
+
+***
 
 ![Python Space](./images/space-python.png)
 ***
