@@ -427,7 +427,15 @@ One man's constant is another man's variable
 
 Question- Me: My screens turns Blue,
           Mom : Fool,u deleted System32!
-          
+
+***
+
+- How do you tell HTML from HTML5?
+- Try it out in Internet Exlorer.
+- Did it work?
+- No?
+- It's HTML5.
+
 ***
 
 
