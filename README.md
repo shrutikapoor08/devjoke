@@ -737,3 +737,7 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+![expanding_vim](./images/expanding_vim.jpg)
+
+***
