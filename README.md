@@ -1,4 +1,4 @@
-﻿# Dev Joke
+# Dev Joke
 Send me a PR if you know a good Dev Joke. 
 
 ***
@@ -348,6 +348,16 @@ very... long... pause...
 
 ***
 
+Conversation between layman and developer
+- layman: Hey! What's your address
+- developer: 173.168.15.10
+- layman: No man. Your local address
+- developer: 127.0.0.1
+- layman: I mean your physical address
+- developer: 29.01.38.62.31.58
+
+***
+
 A journalist asks a programmer 
 
 what makes the code bad ?
@@ -599,6 +609,21 @@ Question- Me: My screens turns Blue,
 ![error](./images/error.jpg)
 
 ***
+### Question - Why integration testing is required after unit testing?
+
+Answer: ![umbrella](./images/umbrella.gif)
+
+***
+
+
+Question: What are the similarities between java and javascript?
+It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
+
+***
+
+Android: where ProgressBars go around in circles and Spinners don’t spin
+
+***
 
 What did the Python say when he came out of his shell?
 Print("Hello World!")
@@ -699,8 +724,26 @@ Kid: No, I want 4 more years to decide what I want to do
 ***
 
 
-She: Why don't you wear glasses ?
+***
+
+### She: Why don't you wear glasses ?
 Me : Because, I can C#.
+
+***
+
+=======
+A successful programmer is a PRO in GRAMMAR!
+
+***
+
+### Question - For what reason do software engineers consistently stir up Halloween and Christmas?
+
+Answer: Because  Oct 31 equals Dec 25. !
+
+***
+
+A journalist asked a programmer:-what makes code bad? 
+Programmer:- No comment 
 
 ***
 
