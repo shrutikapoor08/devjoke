@@ -737,3 +737,10 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+***
+
+A user interface is like a joke.
+If you have to explain it,It's not that good 😃 😀 😄 
+
+***
