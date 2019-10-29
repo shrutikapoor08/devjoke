@@ -737,3 +737,9 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+#### Question - How many programmers does it take to change a light bulb?
+
+Answer: None – It’s a hardware problem.
+
+***
