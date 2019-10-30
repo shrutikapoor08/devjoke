@@ -737,3 +737,7 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+Algorithm : A word uses by programmers when they don't want to explain what they did
+
+***
