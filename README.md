@@ -737,3 +737,12 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+
+***
+
+### why did developer break up with his girlfriend just before christmas?
+
+git commit -m "Girlfr
+
+***
