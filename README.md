@@ -55,7 +55,16 @@ My code never have bugs, it just just develops a random unexpected feature
 You console it.
 
 ***
+***
 
+# HAVE A GREAT WEEKEND
+
+I hope your code behaves on monday
+the same way it did  on friday
+
+
+
+***
 
 #### Question - Why couldn't the React component understand the joke? 
 
@@ -152,6 +161,16 @@ You know the joke of the guy who forgot to increase the variable in his while lo
 Because they use a strongly typed language.
 
 ***
+
+***
+
+#### INTERVIEWER TO DEVS lol.. 
+
+
+ “Please don’t apply if you don’t have the core concepts of programming, and you depend upon copying and pasting the code from StackOverflow/saved file.”
+
+***
+
 
 #### Question - Why did the developer die in the shower?
 
@@ -429,7 +448,13 @@ Question- Me: My screens turns Blue,
           Mom : Fool,u deleted System32!
           
 ***
+***
 
+3 Database SQL walked into NOSQL bar 
+A little while later...
+they walked out
+ Because they couldnt find a table.          
+***
 
 ![async](./images/async.png)
 
@@ -735,5 +760,21 @@ Answer: Because  Oct 31 equals Dec 25. !
 
 A journalist asked a programmer:-what makes code bad? 
 Programmer:- No comment 
+
+***
+
+
+***
+
+### why did developer break up with his girlfriend just before christmas?
+
+git commit -m "Girlfr
+
+***
+
+***
+
+IF you Controle the code
+You controle the World...
 
 ***
