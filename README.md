@@ -737,3 +737,7 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+Life is short. Smile While you still have teeth.
+
+***
