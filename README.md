@@ -737,3 +737,10 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+***
+
+One of my CS teachers dropped this the other day
+
+#Documentation is like sex. When it's good, it's very good but when it's bad it's better than nothing.
+***
