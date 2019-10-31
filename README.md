@@ -737,3 +737,8 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+Vehicle got breakdown in middle of road , driver calls owner.
+Owner a developer himself replies "clone ,apply Hotfix and merge"
+
+***
