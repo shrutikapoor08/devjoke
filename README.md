@@ -430,6 +430,11 @@ Question- Me: My screens turns Blue,
           
 ***
 
+- Can you make me a coffee?
+- Nope, I'm busy
+- Sudo, make me a coffee!
+
+***
 
 ![async](./images/async.png)
 
@@ -735,11 +740,5 @@ Answer: Because  Oct 31 equals Dec 25. !
 
 A journalist asked a programmer:-what makes code bad? 
 Programmer:- No comment 
-
-***
-
-- Can you make me a coffee?
-- Nope, I'm busy
-- Sudo, make me a coffee!
 
 ***
