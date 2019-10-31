@@ -737,3 +737,9 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+Follower to Developer - can i retweet your tweet
+Developer "No Just Fork it"
+
+***
+
