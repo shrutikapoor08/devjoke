@@ -737,3 +737,9 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+- Can you make me a coffee?
+- Nope, I'm busy
+- Sudo, make me a coffee!
+
+***
