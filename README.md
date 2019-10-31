@@ -737,3 +737,11 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+Chuck Norris doesn’t bug hunt as that signifies a probability of failure, he goes bug killing.
+
+***
+
+Chuck Norris don’t need passwords to access your system, he simply types * and system gives him access.
+
+***
