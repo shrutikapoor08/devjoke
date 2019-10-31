@@ -737,3 +737,7 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+I don't approve of political jokes...I've seen too many of them get elected
+
+***
