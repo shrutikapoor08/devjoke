@@ -737,3 +737,8 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+Once unknown developer created Pull Request and no one was able to create new PR until it was merged.
+Guess the developer "RAJNIKANTH"
+
+***
