@@ -737,3 +737,5 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+TrumpScript is one funny programming language that was formulated by four Rice University undergraduates. TrumpScript allows developers to operate with numbers that are bigger than one million. If programmers user numbers less than a million then it will generate a quote from Donald Trump as an error message: ”I’m really rich, Part of the beauty of me is I’m very rich.”
+***
