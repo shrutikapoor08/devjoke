@@ -430,6 +430,11 @@ Question- Me: My screens turns Blue,
           
 ***
 
+```
+#define public private
+```
+
+***
 
 ![async](./images/async.png)
 
@@ -735,11 +740,5 @@ Answer: Because  Oct 31 equals Dec 25. !
 
 A journalist asked a programmer:-what makes code bad? 
 Programmer:- No comment 
-
-***
-
-```
-#define public private
-```
 
 ***
