@@ -737,3 +737,9 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+A branch asks to master branch "can i get merged with you"
+Master branch replies "I will check with my owner and get back"
+Owner says "I will check with GIT and get back"
+Git says "conflict error cannot be merged"
+***
