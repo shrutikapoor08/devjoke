@@ -153,6 +153,16 @@ Because they use a strongly typed language.
 
 ***
 
+***
+
+#### INTERVIEWER TO DEVS lol.. 
+
+
+ “Please don’t apply if you don’t have the core concepts of programming, and you depend upon copying and pasting the code from StackOverflow/saved file.”
+
+***
+
+
 #### Question - Why did the developer die in the shower?
 
 He read the shampoo bottle instructions: Lather. Rinse. Repeat.
@@ -735,5 +745,14 @@ Answer: Because  Oct 31 equals Dec 25. !
 
 A journalist asked a programmer:-what makes code bad? 
 Programmer:- No comment 
+
+***
+
+
+***
+
+### why did developer break up with his girlfriend just before christmas?
+
+git commit -m "Girlfr
 
 ***
