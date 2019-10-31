@@ -430,6 +430,12 @@ Question- Me: My screens turns Blue,
           
 ***
 
+```
+#define true false
+// happy debugging, suckers!
+```
+
+***
 
 ![async](./images/async.png)
 
@@ -737,11 +743,3 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
-
-```
-#define true false
-// happy debugging, suckers!
-```
-
-***
-
