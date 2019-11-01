@@ -430,6 +430,9 @@ Question- Me: My screens turns Blue,
           
 ***
 
+A tee-totalling programmer attends the office Christmas party. He asks for null wine.
+
+***
 
 ![async](./images/async.png)
 
