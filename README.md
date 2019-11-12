@@ -753,3 +753,8 @@ Chuck Norris don’t need passwords to access your system, he simply types * and
 Answer: ![umbrella](./images/umbrella.gif)
 
 ***
+
+Vehicle got breakdown in middle of road , driver calls owner.
+Owner a developer himself replies "clone ,apply Hotfix and merge"
+
+***
