@@ -727,6 +727,8 @@ Chuck Norris don’t need passwords to access your system, he simply types * and
 
 ![security](./images/security.png)
 
+![cluedont](https://raw.githubusercontent.com/shrutikapoor08/devjoke/aa1789ca045c6106a61173fe794466646da47629/images/joke-usb.jpg)
+
 ***
 
 ![java](./images/tattoo.jpeg)
