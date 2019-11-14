@@ -430,6 +430,13 @@ Question- Me: My screens turns Blue,
           
 ***
 
+- Can you make me a coffee?
+- Nope, I'm busy
+- Sudo, make me a coffee!
+
+
+***
+
 A tee-totalling programmer attends the office Christmas party. He asks for null wine.
 
 ***
@@ -469,20 +476,9 @@ Now I've a ProblemFactory.
 
 ***
 
-![titanic](./images/titanic-float-none.png)
+Vehicle got breakdown in middle of road , driver calls owner.
+Owner a developer himself replies "clone ,apply Hotfix and merge"
 
-***
-
-![GoTo Hell](./images/new_hell.jpg)
-
-***
-
-![runtimeError](./images/runtimeError.jpg)
-
-
-***
-
-![semicolon](./images/joke-semi-colon.jpg)
 
 ***
 
@@ -502,6 +498,22 @@ Me: GITHUB
 "your dog ate your coding assignment?"
 It took him a couple bytes
 
+***
+
+![titanic](./images/titanic-float-none.png)
+
+***
+
+![GoTo Hell](./images/new_hell.jpg)
+
+***
+
+![runtimeError](./images/runtimeError.jpg)
+
+
+***
+
+![semicolon](./images/joke-semi-colon.jpg)
 ***
 
 ![betterThanSex](images/better-than-sex.jpg)
@@ -564,6 +576,12 @@ Chuck Norris doesn’t bug hunt as that signifies a probability of failure, he g
 Chuck Norris don’t need passwords to access your system, he simply types * and system gives him access.
 
 
+*** 
+
+### Question - Why integration testing is required after unit testing?
+
+Answer: ![umbrella](./images/umbrella.gif)
+
 ***
 
 ![async](./images/async.png)
@@ -571,8 +589,11 @@ Chuck Norris don’t need passwords to access your system, he simply types * and
 ***
 
 ![Python Space](./images/space-python.png)
+
 ***
+
 ![Python 4](./images/cat_invasion_python4.jpeg)
+
 ***
 ![gitignore](./images/gitignore.jpg)
 ***
@@ -750,13 +771,7 @@ Chuck Norris don’t need passwords to access your system, he simply types * and
 ![intkaam](./images/intkaam.jpeg)
 ***
 
-### Question - Why integration testing is required after unit testing?
 
-Answer: ![umbrella](./images/umbrella.gif)
+![async](./images/async.png)
 
-***
 
-Vehicle got breakdown in middle of road , driver calls owner.
-Owner a developer himself replies "clone ,apply Hotfix and merge"
-
-***
