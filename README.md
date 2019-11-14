@@ -434,6 +434,154 @@ Question- Me: My screens turns Blue,
 - Nope, I'm busy
 - Sudo, make me a coffee!
 
+
+***
+
+A tee-totalling programmer attends the office Christmas party. He asks for null wine.
+
+***
+
+
+Question: What are the similarities between java and javascript?
+It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
+
+***
+
+Android: where ProgressBars go around in circles and Spinners don’t spin
+
+***
+
+What did the Python say when he came out of his shell?
+Print("Hello World!")
+
+***
+
+I showed my 12 year son aa floppy disk....
+He said "ohh nice!! You have 3-D printed the save icon."
+
+All programmers are playwrights, and all computers are lousy actors
+  
+***
+
+Algorithm :
+
+Words used by a programmer when....
+
+they don't want to explain what they did.
+
+***
+
+I had a problem earlier, then i started using Java.
+Now I've a ProblemFactory.
+
+***
+
+Vehicle got breakdown in middle of road , driver calls owner.
+Owner a developer himself replies "clone ,apply Hotfix and merge"
+
+
+***
+
+"Don't call me, I'll callback you. I promise!"
+
+***
+
+An SQL query goes into a bar, walks up to two tables and asks: “Can I join you?”
+
+***
+
+Friend: you both look like a cute couple!! where did you find her? tinder or insta?
+Me: GITHUB
+
+***
+
+"your dog ate your coding assignment?"
+It took him a couple bytes
+
+***
+
+![titanic](./images/titanic-float-none.png)
+
+***
+
+![GoTo Hell](./images/new_hell.jpg)
+
+***
+
+![runtimeError](./images/runtimeError.jpg)
+
+
+***
+
+![semicolon](./images/joke-semi-colon.jpg)
+***
+
+![betterThanSex](images/better-than-sex.jpg)
+
+***
+
+I would love to change the world, but they won’t give me the source code.
+
+***
+
+#### Who is a programmer?
+Answer: A machine that turns coffee into code
+
+***
+
+Q: How many programmers does it take to change a light bulb?
+A: None. It's a hardware problem.
+
+***
+
+![doctors](./images/doctors.jpg)
+
+***
+
+Python and PHP.
+
+One of these two is one of the most popular choices of backend programming. The other one is PHP.
+
+***
+
+Dad: So what do you want to do when you grow up?
+
+Kid: Engineering
+
+Dad: Oh great, so you want to become an engineer?
+
+Kid: No, I want 4 more years to decide what I want to do
+
+***
+
+A successful programmer is a PRO in GRAMMAR!
+
+***
+
+### Question - For what reason do software engineers consistently stir up Halloween and Christmas?
+
+Answer: Because  Oct 31 equals Dec 25. !
+
+***
+
+A journalist asked a programmer:-what makes code bad? 
+Programmer:- No comment 
+
+***
+
+Chuck Norris doesn’t bug hunt as that signifies a probability of failure, he goes bug killing.
+
+***
+
+Chuck Norris don’t need passwords to access your system, he simply types * and system gives him access.
+
+
+*** 
+
+### Question - Why integration testing is required after unit testing?
+
+Answer: ![umbrella](./images/umbrella.gif)
+
 ***
 
 ![async](./images/async.png)
@@ -441,8 +589,11 @@ Question- Me: My screens turns Blue,
 ***
 
 ![Python Space](./images/space-python.png)
+
 ***
+
 ![Python 4](./images/cat_invasion_python4.jpeg)
+
 ***
 ![gitignore](./images/gitignore.jpg)
 ***
@@ -597,6 +748,8 @@ Question- Me: My screens turns Blue,
 
 ![security](./images/security.png)
 
+![cluedont](https://raw.githubusercontent.com/shrutikapoor08/devjoke/aa1789ca045c6106a61173fe794466646da47629/images/joke-usb.jpg)
+
 ***
 
 ![java](./images/tattoo.jpeg)
@@ -614,131 +767,11 @@ Question- Me: My screens turns Blue,
 ![error](./images/error.jpg)
 
 ***
-### Question - Why integration testing is required after unit testing?
 
-Answer: ![umbrella](./images/umbrella.gif)
-
+![intkaam](./images/intkaam.jpeg)
 ***
 
 
-Question: What are the similarities between java and javascript?
-It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
-
-***
-
-Android: where ProgressBars go around in circles and Spinners don’t spin
-
-***
-
-What did the Python say when he came out of his shell?
-Print("Hello World!")
-
-***
-
-I showed my 12 year son aa floppy disk....
-He said "ohh nice!! You have 3-D printed the save icon."
-
-All programmers are playwrights, and all computers are lousy actors
-  
-***
-
-Algorithm :
-
-Words used by a programmer when....
-
-they don't want to explain what they did.
-
-***
-
-I had a problem earlier, then i started using Java.
-Now I've a ProblemFactory.
-
-***
-
-![titanic](./images/titanic-float-none.png)
-
-***
-
-![GoTo Hell](./images/new_hell.jpg)
-
-***
-
-![runtimeError](./images/runtimeError.jpg)
+![async](./images/async.png)
 
 
-***
-
-![semicolon](./images/joke-semi-colon.jpg)
-
-***
-
-"Don't call me, I'll callback you. I promise!"
-
-***
-
-An SQL query goes into a bar, walks up to two tables and asks: “Can I join you?”
-
-***
-
-Friend: you both look like a cute couple!! where did you find her? tinder or insta?
-Me: GITHUB
-
-***
-
-"your dog ate your coding assignment?"
-It took him a couple bytes
-
-***
-
-![betterThanSex](images/better-than-sex.jpg)
-
-***
-
-I would love to change the world, but they won’t give me the source code.
-
-***
-
-#### Who is a programmer?
-Answer: A machine that turns coffee into code
-
-***
-
-Q: How many programmers does it take to change a light bulb?
-A: None. It's a hardware problem.
-
-***
-
-![doctors](./images/doctors.jpg)
-
-***
-
-Python and PHP.
-
-One of these two is one of the most popular choices of backend programming. The other one is PHP.
-
-***
-
-Dad: So what do you want to do when you grow up?
-
-Kid: Engineering
-
-Dad: Oh great, so you want to become an engineer?
-
-Kid: No, I want 4 more years to decide what I want to do
-
-***
-
-A successful programmer is a PRO in GRAMMAR!
-
-***
-
-### Question - For what reason do software engineers consistently stir up Halloween and Christmas?
-
-Answer: Because  Oct 31 equals Dec 25. !
-
-***
-
-A journalist asked a programmer:-what makes code bad? 
-Programmer:- No comment 
-
-***
