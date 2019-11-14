@@ -705,6 +705,8 @@ A: None. It's a hardware problem.
 
 ![doctors](./images/doctors.jpg)
 
+![cluedont](https://raw.githubusercontent.com/shrutikapoor08/devjoke/aa1789ca045c6106a61173fe794466646da47629/images/joke-usb.jpg)
+
 ***
 
 Python and PHP.
