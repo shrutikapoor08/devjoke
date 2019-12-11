@@ -20,6 +20,12 @@ var war; Declaring a war :)
 
 ***
 
+#### Question - What JavaScript devlopers does on a bad date? 
+
+When a JavaScript date has gone bad, “Don’t call me, I’ll callback you. I promise!”
+
+***
+
 #### Question - What will be the name of the movie on a sad developer?
 
 `DEV`das
