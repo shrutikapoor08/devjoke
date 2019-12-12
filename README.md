@@ -369,6 +369,13 @@ what makes the code bad ?
 NO COMMENT
 
 ***
+:boy: : I like you, do you want to be my GF?
+:girl: : ... (30 seconds)
+:boy: : Why are you quiet?
+:girl: : ... (30 seconds). "504 Gateway Timeout"
+:boy: : :(
+
+***
 
 There are three kinds of lies: Lies, damned lies, and benchmarks.
 
