@@ -589,6 +589,7 @@ Chuck Norris don’t need passwords to access your system, he simply types * and
 
 *** 
 
+
 ### Question - Why integration testing is required after unit testing?
 
 Answer: ![umbrella](./images/umbrella.gif)
@@ -785,4 +786,6 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 ![async](./images/async.png)
 
+
+![Codebase](./images/WaysToSaveUrCode.jpeg)
 
