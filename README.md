@@ -586,6 +586,11 @@ Chuck Norris doesn’t bug hunt as that signifies a probability of failure, he g
 
 Chuck Norris don’t need passwords to access your system, he simply types * and system gives him access.
 
+***
+
+
+Sending email  to someone else -> 0
+Sending email to myself to save important links related to programming -> 1
 
 *** 
 
