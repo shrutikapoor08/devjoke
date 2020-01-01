@@ -589,7 +589,7 @@ Chuck Norris don’t need passwords to access your system, he simply types * and
 
 *** 
 
-### Question - Have you heard of the band with 1023 begabytes?     
+### Question - Have you heard of the band with 1023 megabytes?     
 No, they just haven't had a gig yet.
 
 ### Question - Why integration testing is required after unit testing?
