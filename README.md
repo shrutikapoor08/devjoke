@@ -20,6 +20,10 @@ var war; Declaring a war :)
 
 ***
 
+! This year, I will not make jokes
+
+***
+
 #### Question - What will be the name of the movie on a sad developer?
 
 `DEV`das
