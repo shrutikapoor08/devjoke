@@ -20,7 +20,7 @@ var war; Declaring a war :)
 
 ***
 
-! This year, I will not make jokes
+! I will not make jokes
 
 ***
 
