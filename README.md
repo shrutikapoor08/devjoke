@@ -594,7 +594,7 @@ No, they just haven't had a gig yet.
 
 *** 
 
-### Question - Why do programmars work in basements?
+### Question - Why do programmers work in basements?
 They don't like windows.
 *** 
 Ford is creating a line of electric cars that use Tesla parts and software. They're calling it Edison.
