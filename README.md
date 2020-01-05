@@ -20,6 +20,14 @@ var war; Declaring a war :)
 
 ***
 
+When people ask help about programming but you're too busy.
+
+People : Please, can you help ?
+
+Developer : Sorry, my port 2020 is already used. Please, try port 2021.
+
+***
+
 #### Question - What will be the name of the movie on a sad developer?
 
 `DEV`das
