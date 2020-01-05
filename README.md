@@ -592,9 +592,18 @@ Chuck Norris don’t need passwords to access your system, he simply types * and
 ### Question - Have you heard of the band with 1023 megabytes?     
 No, they just haven't had a gig yet.
 
+*** 
 
 ### Question - Why do programmars work in basements?
 They don't like windows.
+*** 
+Ford is creating a line of electric cars that use Tesla parts and software. They're calling it Edison.
+***
+### Question - How does software eat food?
+It takes bytes.
+*** 
+### Question - Why dod the software developer go broke?
+He used up all of his cache.
 
 
 ### Question - Why integration testing is required after unit testing?
