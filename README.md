@@ -19,6 +19,14 @@ If you wanna know what the "true friend" is... it's simple. look at the develope
 var war; Declaring a war :)
 
 ***
+Programming Interview
+
+Interviewer : What type of code do you write ?
+Me : Programming Jokes
+Interviewer : Is it code ?
+Me : Yes Yes , this is the response we get from Joking API.
+
+***
 
 #### Question - What will be the name of the movie on a sad developer?
 
