@@ -799,6 +799,17 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 ***
 
+#### Question: How programming works?
+
+Interviwer: what's Your biggest strength?
+Me: I m a quick Learner.
+Interviwer: What is 11*11.
+me: 69
+Interviwer: It’s not even close, its 121.
+Me: It's 121.
+
+***
+
 ![intkaam](./images/intkaam.jpeg)
 ***
 
