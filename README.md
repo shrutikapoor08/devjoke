@@ -779,6 +779,8 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 ![security](./images/security.png)
 
+***
+
 ![cluedont](https://raw.githubusercontent.com/shrutikapoor08/devjoke/aa1789ca045c6106a61173fe794466646da47629/images/joke-usb.jpg)
 
 ***
@@ -809,11 +811,14 @@ Interviwer: It’s not even close, its 121.
 Me: It's 121.
 
 ***
+HE: You are the ; to my code!
+SHE: I code in python.
+
+***
 
 ![intkaam](./images/intkaam.jpeg)
 ***
 
 
 ![async](./images/async.png)
-
 
