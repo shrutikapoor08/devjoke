@@ -832,3 +832,10 @@ There are only 10 kinds of people in this world: those who know binary and those
 
 ![async](./images/async.png)
 
+***
+
+### Bad pickup lines for programmers
+
+Your name must be google, because you are all I am searching for.
+
+***
