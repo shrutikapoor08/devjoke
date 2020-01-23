@@ -509,6 +509,16 @@ Me: GITHUB
 
 ***
 
+#### Who is a programmer?
+Answer: A machine that turns coffee into code
+
+***
+
+Q: How many programmers does it take to change a light bulb?
+A: None. It's a hardware problem.
+
+***
+
 "your dog ate your coding assignment?"
 It took him a couple bytes
 
@@ -533,18 +543,11 @@ It took him a couple bytes
 ![betterThanSex](images/better-than-sex.jpg)
 
 ***
+![Warning](./images/warnings-error.jpg)
+
+***
 
 I would love to change the world, but they won’t give me the source code.
-
-***
-
-#### Who is a programmer?
-Answer: A machine that turns coffee into code
-
-***
-
-Q: How many programmers does it take to change a light bulb?
-A: None. It's a hardware problem.
 
 ***
 
