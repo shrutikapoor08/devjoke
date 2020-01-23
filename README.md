@@ -3,6 +3,10 @@ Send me a PR if you know a good Dev Joke.
 
 ***
 
+There are 10 types of people in the world: those who understand binary, and those who don’t.
+
+***
+
 walks UDP package into bar A. 
 
 ***
