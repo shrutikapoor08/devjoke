@@ -8,12 +8,23 @@ var war;
 
 ***
 
--Knock knock
--Unsynchronized block
--Who's there?
+Knock knock
+
+Unsynchronized block
+
+Who's there?
 
 ***
 
+“Knock, knock.”
+
+“Who’s there?”
+
+very... long... pause...
+
+“Java.”
+
+***
 
 There are 10 types of people in the world: those who understand binary, and those who don’t.
 
@@ -92,16 +103,6 @@ The programmer returns home with 12 loaves of bread.
 
 ***
 
-“Knock, knock.”
-
-“Who’s there?”
-
-very... long... pause...
-
-“Java.”
-
-***
-
 Conversation between layman and developer
 - layman: Hey! What's your address
 - developer: 173.168.15.10
@@ -120,10 +121,13 @@ NO COMMENT
 
 ***
 :boy: : I like you, do you want to be my GF?
+
 :girl: : ... (30 seconds)
+
 :boy: : Why are you quiet?
+
 :girl: : ... (30 seconds). "504 Gateway Timeout"
-:boy: : :(
+
 
 ***
 
@@ -199,6 +203,7 @@ A successful programmer is a PRO in GRAMMAR!
 ***
 
 A journalist asked a programmer:-what makes code bad? 
+
 Programmer:- No comment 
 
 ***
@@ -412,7 +417,6 @@ He used up all of his cache.
 ***
 
 ![doctors](./images/doctors.jpg)
-
 
 ***
 
