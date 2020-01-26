@@ -220,6 +220,14 @@ Ford is creating a line of electric cars that use Tesla parts and software. They
 
 ***
 
+In your project, no matter how big your growth is or how valuable you could be, yet you will "always" be ignored.
+
+I was talking about - node underscore modules
+
+Wrong middle name though!
+
+***
+
 #### Question - How did the developer announce her engagement?
 
 `this.engaged = true`
