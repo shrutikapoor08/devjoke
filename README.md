@@ -220,11 +220,12 @@ Ford is creating a line of electric cars that use Tesla parts and software. They
 
 ***
 
-In your project, no matter how big your growth is or how valuable you could be, yet you will "always" be ignored.
+I see this person every day who is huge by the way and yet everybody ignores that person. 
+Do you wanna know who?
 
-I was talking about - node underscore modules
+node underscore modules
 
-Wrong middle name though!
+Wrong middle name anyways!
 
 ***
 
