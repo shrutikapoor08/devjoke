@@ -2,7 +2,15 @@
 
 #### Send me a PR if you know a good Dev Joke. 
 
+
+*** 
+
+Why do Front-End Developers eat lunch alone?
+
+Because, they don't know how to join tables. 
+
 ***
+
 I am declaring a war.
 var war;
 
