@@ -237,6 +237,12 @@ Wrong middle name anyways!
 
 ***
 
+{
+ "devjoke":"people with name Jason might have felt invalid once JSON came into picture"
+}
+
+***
+
 #### Question - How did the developer announce her engagement?
 
 `this.engaged = true`
