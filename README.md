@@ -2,6 +2,11 @@
 
 #### Send me a PR if you know a good Dev Joke. 
 
+***
+
+Once C++ walks into a bar and sees C.
+C is drunk, falling on the floor, spitting and swearing.
+How classless! -says C++
 
 *** 
 
