@@ -450,6 +450,53 @@ He used up all of his cache.
 
 ***
 
+Python and PHP.
+
+One of these two is one of the most popular choices of backend programming. The other one is PHP.
+
+***
+
+Dad: So what do you want to do when you grow up?
+
+Kid: Engineering
+
+Dad: Oh great, so you want to become an engineer?
+
+Kid: No, I want 4 more years to decide what I want to do
+
+***
+
+A successful programmer is a PRO in GRAMMAR!
+
+***
+
+### Question - For what reason do software engineers consistently stir up Halloween and Christmas?
+
+Answer: Because  Oct 31 equals Dec 25. !
+
+***
+
+A journalist asked a programmer:-what makes code bad? 
+Programmer:- No comment 
+
+***
+
+Chuck Norris doesn’t bug hunt as that signifies a probability of failure, he goes bug killing.
+
+***
+
+Chuck Norris don’t need passwords to access your system, he simply types * and system gives him access.
+
+
+*** 
+
+
+### Question - Why integration testing is required after unit testing?
+
+Answer: ![umbrella](./images/umbrella.gif)
+
+***
+
 ![async](./images/async.png)
 
 ***
@@ -640,3 +687,5 @@ He used up all of his cache.
 There are 10 types of people in the world. The ones who understand binary; the ones who don’t.
 
 ***
+![Codebase](./images/WaysToSaveUrCode.jpeg)
+
