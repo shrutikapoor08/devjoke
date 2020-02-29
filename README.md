@@ -635,6 +635,6 @@ There are 10 types of people in the world. The ones who understand binary; the o
 
 ***
 
-![async](./images/frontend before backend.jpg)
+![webdev](./images/frontend-before-backend.jpg)
 
 ***
