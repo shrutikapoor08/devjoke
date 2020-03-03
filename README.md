@@ -640,3 +640,7 @@ He used up all of his cache.
 There are 10 types of people in the world. The ones who understand binary; the ones who don’t.
 
 ***
+
+![webdev](./images/frontend-before-backend.jpg)
+
+***
