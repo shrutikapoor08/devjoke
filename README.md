@@ -643,3 +643,7 @@ There are 10 types of people in the world. The ones who understand binary; the o
 ![Codebase](./images/WaysToSaveUrCode.jpeg)
 
 ***
+
+![webdev](./images/frontend-before-backend.jpg)
+
+***
