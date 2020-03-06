@@ -644,3 +644,7 @@ There are 10 types of people in the world. The ones who understand binary; the o
 ![webdev](./images/frontend-before-backend.jpg)
 
 ***
+
+![DND](./images/dnd.png)
+
+***
