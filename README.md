@@ -651,3 +651,7 @@ There are 10 types of people in the world. The ones who understand binary; the o
 ![DND](./images/dnd.png)
 
 ***
+
+I went on a date. The girl said " Pass the salt ". I replied " Pass by value or by reference!"
+
+***
