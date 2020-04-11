@@ -659,3 +659,17 @@ I went on a date. The girl said " Pass the salt ". I replied " Pass by value or 
 A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
 
 ***
+
+“You’re nothing to me until you’re everything.”  - DevOps Engineer to Jenkins Pipeline
+
+***
+
+Which song comes to your mind when your PR gets approved and is ready for merge to master?
+
+Obviously...
+
+O partigiano
+Portami via
+O bella ciao, bella ciao, bella ciao, ciao, ciao :D
+
+***
