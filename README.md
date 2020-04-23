@@ -12,7 +12,6 @@ How classless! -says C++
 
 *** 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I realise the real lies:<br>In order to understand Recursion, you first need to understand Recursion!<br>And if you realise the real lies and see Recursion from your very own real eyes: Congratulations you just understood Recursion and hence Recursion!<a href="https://twitter.com/hashtag/coding?src=hash&amp;ref_src=twsrc%5Etfw">#coding</a> <a href="https://twitter.com/hashtag/badjokes?src=hash&amp;ref_src=twsrc%5Etfw">#badjokes</a> <a href="https://twitter.com/hashtag/jokes?src=hash&amp;ref_src=twsrc%5Etfw">#jokes</a> <a href="https://twitter.com/hashtag/lol?src=hash&amp;ref_src=twsrc%5Etfw">#lol</a> <a href="https://t.co/qTYcAC63xn">pic.twitter.com/qTYcAC63xn</a></p>&mdash; Samarth Srivastava (@Samarth_Sri9) <a href="https://twitter.com/Samarth_Sri9/status/1253266938001842176?ref_src=twsrc%5Etfw">April 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Why do Front-End Developers eat lunch alone?
 
