@@ -664,3 +664,9 @@ c:
 python:oh i always foget! ;
 c: fine
 ***
+
+***
+
+If somebody refers me for a job 👨‍💻 will it be considered 'pass by reference' or 'pass by value'? 🤔😂
+
+***
