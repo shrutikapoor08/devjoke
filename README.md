@@ -8,8 +8,6 @@ If somebody refers me for a job 👨‍💻 will it be considered 'pass by refer
 
 ***
 
-***
-
 Once C++ walks into a bar and sees C.
 
 C is drunk, falling on the floor, spitting and swearing.
