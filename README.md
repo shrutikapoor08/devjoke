@@ -676,3 +676,8 @@ python:oh i always foget! ;
 c: fine
 
 * * *
+
+You can't just use one language for all platforms!
+That's where you're wrong kiddo!
+
+* * *
