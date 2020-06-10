@@ -670,6 +670,10 @@ A programmer puts two glasses on his bedside table before going to sleep. A full
 
 * * *
 
+![where is the Github source code?](./images/github_joke.jpg)
+
+* * *
+
 python:how are you c
 c:
 python:oh i always foget! ;
