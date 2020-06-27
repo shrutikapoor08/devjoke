@@ -4,6 +4,16 @@
 
 ***
 
+Competetive Coder (to Web Developer): "Dude! Lets take a Coffee ```break;```"
+
+Web Developer (replies sarcastically;)): "Sure Dude! We really need a ```< br/ >```"
+
+Moral: "We are not the same bro!😎😉🔥"
+
+*** 
+
+***
+
 Once C++ walks into a bar and sees C.
 
 C is drunk, falling on the floor, spitting and swearing.
