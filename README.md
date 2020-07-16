@@ -680,3 +680,7 @@ python:oh i always foget! ;
 c: fine
 
 * * *
+
+Debugging is like being e detective on a crime where you are also the criminal.
+
+* * *
