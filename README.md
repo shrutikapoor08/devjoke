@@ -16,6 +16,10 @@ How classless! -says C++
 
 * * *
 
+Are you a RESTful API? because you GET my attention, PUT some love, POST the cutest smile, and DELETE my bad day
+
+* * *
+
 Why do Front-End Developers eat lunch alone?
 
 Because, they don't know how to join tables.
