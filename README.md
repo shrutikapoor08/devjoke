@@ -655,6 +655,9 @@ Because its parent kept giving it props!
 * * *
 
 ![async](./images/async.png)
+***
+any one know any joke about sodium??
+NA
 
 * * *
 
@@ -690,9 +693,5 @@ python:how are you c
 c:
 python:oh i always foget! ;
 c: fine
-
-* * *
-
-you are looking for the "else" at the end of this joke.
 
 * * *
