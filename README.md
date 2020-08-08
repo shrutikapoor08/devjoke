@@ -428,6 +428,18 @@ He used up all of his cache.
 
 * * *
 
+### Question - Why did the react class component feel relieved? 
+
+Because it was now off the hook.
+
+* * *
+
+### Question - Why did the child component have such great self-esteem? 
+
+Because its parent kept giving it props!
+
+* * *
+
 ![titanic](./images/titanic-float-none.png)
 
 * * *
@@ -678,5 +690,9 @@ python:how are you c
 c:
 python:oh i always foget! ;
 c: fine
+
+* * *
+
+you are looking for the "else" at the end of this joke.
 
 * * *
