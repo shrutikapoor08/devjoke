@@ -231,6 +231,12 @@ Chuck Norris doesn’t bug hunt, he goes bug killing.
 
 * * *
 
+why do Elm developers type so loudly?
+
+cause it's a strongly typed language.
+
+* * *
+
 Chuck Norris don’t need passwords to access your system, he simply types \* and system gives him access.
 
 * * *
