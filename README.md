@@ -440,6 +440,14 @@ Because its parent kept giving it props!
 
 * * *
 
+* * *
+
+### Question - Which type of shooting always hurt the shooter?
+
+Trouble-shooting!
+
+* * *
+
 ![titanic](./images/titanic-float-none.png)
 
 * * *
