@@ -470,6 +470,10 @@ Question- Me: My screens turns Blue,
 
 ***
 
+There are three kinds of lies: Lies, damned lies, and benchmarks.
+
+***
+
 - How do you tell HTML from HTML5?
 - Try it out in Internet Exlorer.
 - Did it work?
