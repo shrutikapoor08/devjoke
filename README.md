@@ -458,6 +458,19 @@ Trouble-shooting!
 
 * * *
 
+
+python:how are you c
+c:
+python:oh I always forget! ;
+c: fine
+
+***
+
+A user interface is like a joke.
+If you have to explain it,It's not that good 😃 😀 😄 
+
+* * *
+
 ![titanic](./images/titanic-float-none.png)
 
 * * *
@@ -786,12 +799,5 @@ I went on a date. The girl said " Pass the salt ". I replied " Pass by value or 
 * * *
 
 ![where is the Github source code?](./images/github_joke.jpg)
-
-* * *
-
-python:how are you c
-c:
-python:oh i always foget! ;
-c: fine
 
 * * *
