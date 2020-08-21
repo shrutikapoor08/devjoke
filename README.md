@@ -478,6 +478,9 @@ Question- Me: My screens turns Blue,
 
 
 ***
+![Assembly](./images/assembly_pointers.png)
+
+***
 
 A user interface is like a joke.
 If you have to explain it,It's not that good 😃 😀 😄 
