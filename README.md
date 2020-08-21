@@ -836,6 +836,10 @@ The engineer said "I think I've got a few spanners in the back. I'll take a look
 The programmer said "Why don't we get going again and see if it's reproducible?"
 
 ***
+
+![CanI?](./images/ComunismOfClass.jpeg)
+
+***
 I now understand why english grammar was taught in school,because it takes me a while to think the difference between "sign up" and "sign in" before i click the wrong one.
 ***
 
