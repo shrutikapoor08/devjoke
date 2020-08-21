@@ -465,6 +465,19 @@ python:oh I always forget! ;
 c: fine
 
 ***
+Question- Me: My screens turns Blue,
+          Mom : Fool,u deleted System32!
+
+***
+
+- How do you tell HTML from HTML5?
+- Try it out in Internet Exlorer.
+- Did it work?
+- No?
+- It's HTML5.
+
+
+***
 
 A user interface is like a joke.
 If you have to explain it,It's not that good 😃 😀 😄 
