@@ -666,6 +666,88 @@ Trouble-shooting!
 
 ![error](./images/error.jpg)
 
+***
+### Question - Why integration testing is required after unit testing?
+
+Answer: ![umbrella](./images/umbrella.gif)
+
+***
+
+![objectOrientedJoke](./images/object-oriented-joke.jpg)
+
+***
+
+Question: What are the similarities between java and javascript?
+It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
+
+***
+
+Android: where ProgressBars go around in circles and Spinners don’t spin
+
+***
+
+What did the Python say when he came out of his shell?
+Print("Hello World!")
+
+***
+
+I showed my 12 year son aa floppy disk....
+He said "ohh nice!! You have 3-D printed the save icon."
+
+All programmers are playwrights, and all computers are lousy actors
+  
+***
+
+Algorithm :
+
+Words used by a programmer when....
+
+they don't want to explain what they did.
+
+***
+
+I had a problem earlier, then i started using Java.
+Now I've a ProblemFactory.
+
+***
+
+![titanic](./images/titanic-float-none.png)
+
+***
+
+![GoTo Hell](./images/new_hell.jpg)
+
+***
+
+![runtimeError](./images/runtimeError.jpg)
+
+
+***
+
+![semicolon](./images/joke-semi-colon.jpg)
+
+***
+
+"Don't call me, I'll callback you. I promise!"
+
+***
+
+An SQL query goes into a bar, walks up to two tables and asks: “Can I join you?”
+
+***
+
+Friend: you both look like a cute couple!! where did you find her? tinder or insta?
+Me: GITHUB
+
+***
+
+"your dog ate your coding assignment?"
+It took him a couple bytes
+
+***
+
+![betterThanSex](images/better-than-sex.jpg)
+
 * * *
 
 ![intkaam](./images/intkaam.jpeg)
