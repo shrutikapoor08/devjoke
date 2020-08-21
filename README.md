@@ -800,4 +800,20 @@ I went on a date. The girl said " Pass the salt ". I replied " Pass by value or 
 
 ![where is the Github source code?](./images/github_joke.jpg)
 
-* * *
+***
+
+A journalist asked a programmer:-what makes code bad? 
+Programmer:- No comment 
+
+***
+
+A physicist, an engineer and a programmer were in a car driving over a steep alpine pass when the brakes failed. The car was getting faster and faster, they were struggling to get round the corners and once or twice only the feeble crash barrier saved them from crashing down the side of the mountain. They were sure they were all going to die, when suddenly they spotted an escape lane. They pulled into the escape lane, and came safely to a halt.
+
+The physicist said "We need to model the friction in the brake pads and the resultant temperature rise, see if we can work out why they failed".
+
+The engineer said "I think I've got a few spanners in the back. I'll take a look and see if I can work out what's wrong".
+
+The programmer said "Why don't we get going again and see if it's reproducible?"
+
+***
+
