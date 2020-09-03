@@ -133,14 +133,6 @@ Conversation between layman and developer
 
 * * *
 
-A journalist asks a programmer
-
-what makes the code bad ?
-
-NO COMMENT
-
-* * *
-
 :boy: : I like you, do you want to be my GF?
 
 :girl: : ... (30 seconds)
@@ -438,13 +430,13 @@ He used up all of his cache.
 
 * * *
 
-### Question - Why did the react class component feel relieved? 
+### Question - Why did the react class component feel relieved?
 
 Because it was now off the hook.
 
 * * *
 
-### Question - Why did the child component have such great self-esteem? 
+### Question - Why did the child component have such great self-esteem?
 
 Because its parent kept giving it props!
 
@@ -487,7 +479,7 @@ There are three kinds of lies: Lies, damned lies, and benchmarks.
 ***
 
 A user interface is like a joke.
-If you have to explain it,It's not that good 😃 😀 😄 
+If you have to explain it,It's not that good 😃 😀 😄
 
 * * *
 
@@ -728,7 +720,7 @@ I showed my 12 year son aa floppy disk....
 He said "ohh nice!! You have 3-D printed the save icon."
 
 All programmers are playwrights, and all computers are lousy actors
-  
+
 ***
 
 Algorithm :
@@ -761,21 +753,8 @@ Now I've a ProblemFactory.
 
 ***
 
-"Don't call me, I'll callback you. I promise!"
-
-***
-
-An SQL query goes into a bar, walks up to two tables and asks: “Can I join you?”
-
-***
-
 Friend: you both look like a cute couple!! where did you find her? tinder or insta?
 Me: GITHUB
-
-***
-
-"your dog ate your coding assignment?"
-It took him a couple bytes
 
 ***
 
@@ -791,10 +770,6 @@ It took him a couple bytes
 ***
 any one know any joke about sodium??
 NA
-
-* * *
-
-There are 10 types of people in the world. The ones who understand binary; the ones who don’t.
 
 * * *
 
@@ -822,8 +797,8 @@ I went on a date. The girl said " Pass the salt ". I replied " Pass by value or 
 
 ***
 
-A journalist asked a programmer:-what makes code bad? 
-Programmer:- No comment 
+A journalist asked a programmer:-what makes code bad?
+Programmer:- No comment
 
 ***
 
@@ -842,4 +817,3 @@ The programmer said "Why don't we get going again and see if it's reproducible?"
 ***
 I now understand why english grammar was taught in school,because it takes me a while to think the difference between "sign up" and "sign in" before i click the wrong one.
 ***
-
