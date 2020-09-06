@@ -424,12 +424,6 @@ He used up all of his cache.
 
 * * *
 
-### Question - Why integration testing is required after unit testing?
-
-![umbrella](./images/umbrella.gif)
-
-* * *
-
 ### Question - Why did the react class component feel relieved?
 
 Because it was now off the hook.
@@ -439,8 +433,6 @@ Because it was now off the hook.
 ### Question - Why did the child component have such great self-esteem?
 
 Because its parent kept giving it props!
-
-* * *
 
 * * *
 
@@ -474,6 +466,7 @@ There are three kinds of lies: Lies, damned lies, and benchmarks.
 
 
 ***
+
 ![Assembly](./images/assembly_pointers.png)
 
 ***
