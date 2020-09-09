@@ -817,5 +817,9 @@ But its just so obtuse
 
 ***
 
+Guy 1: Its so cold, the heater has stopped working !!
+Android Dev: (Turns on Android Studio) There you go !
+
+***
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
