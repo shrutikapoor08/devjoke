@@ -816,3 +816,6 @@ I now understand why english grammar was taught in school,because it takes me a 
 But its just so obtuse
 
 ***
+
+#### What is a computer's favorite beat?
+Answer: An algo-rhythm
