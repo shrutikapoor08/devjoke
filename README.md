@@ -844,8 +844,21 @@ The best thing about a Boolean is even if you are wrong, you are only off by a b
 Answer: A fork.
 
 ***
-She: You told me you were fullstack!
 
+#### Q. In a world where computer programs were TV shows, why would a JS program never be a reality TV show?
+Ans. - because it's scripted.
+
+***
+
+#mother {
+  right: 100%;
+  margin: 0;
+}
+
+***
+
+She: You told me you were fullstack!
+Me: Full Stackoverflow
 ***
 
 #### What is a computer's favorite beat?
