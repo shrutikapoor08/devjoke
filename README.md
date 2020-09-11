@@ -838,6 +838,9 @@ A programmer walks to the butcher shop and buys a kilo of meat.  An hour later h
 The best thing about a Boolean is even if you are wrong, you are only off by a bit.
 
 ***
+She: You told me you were fullstack!
+
+***
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
