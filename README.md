@@ -830,5 +830,10 @@ Android Dev: (Turns on Android Studio) There you go !
 A programmer walks to the butcher shop and buys a kilo of meat.  An hour later he comes back upset that the butcher shortchanged him by 24 grams.
 
 ***
+
+The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+
+***
+
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
