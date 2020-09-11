@@ -638,6 +638,10 @@ If you have to explain it,It's not that good 😃 😀 😄
 
 * * *
 
+![string](./images/string.jpg)
+
+***
+
 ![debugger](./images/console-log-debugger.jpg)
 
 * * *
