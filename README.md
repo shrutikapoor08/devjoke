@@ -838,6 +838,12 @@ A programmer walks to the butcher shop and buys a kilo of meat.  An hour later h
 The best thing about a Boolean is even if you are wrong, you are only off by a bit.
 
 ***
+
+#### Question: What's did the Git engineer ask the waitress for?
+
+Answer: A fork.
+
+***
 She: You told me you were fullstack!
 
 ***
