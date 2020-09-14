@@ -517,6 +517,12 @@ If you have to explain it,It's not that good 😃 😀 😄
 
 * * *
 
+Programmer: Son, can you count to 10?
+3 yr old son: 1...2...
+Programmer: Stop. You are not my son,
+
+***
+
 ![async](./images/async.png)
 
 * * *
