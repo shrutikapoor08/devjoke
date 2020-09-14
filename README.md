@@ -511,7 +511,12 @@ If you have to explain it,It's not that good 😃 😀 😄
 
 ![Warning](./images/warnings-error.jpg)
 
+***
+Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?”
+“Yeah,” reply the bytes.  “Make us a double.”
+
 * * *
+
 
 ![doctors](./images/doctors.jpg)
 
