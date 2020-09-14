@@ -420,11 +420,20 @@ Answer: Because  Oct 31 = Dec 25
 
 No, they just haven't had a gig yet.
 
+***
+#### Question - What screams "I'm insecure"?
+
+
+Http
+
+***
+1/3 of US bandwidth is used by Netflix.
+
 * * *
 
 ### Question - Why dod the software developer go broke?
 
-He used up all of his cache.
+They used up all their cache.
 
 * * *
 
