@@ -834,6 +834,11 @@ Android Dev: (Turns on Android Studio) There you go !
 ***
 
 
+Son: Dad, why do the sun rise in east and set in west ?
+Programmer dad: hey, it works!! Don't touch it ;
+
+***
+
 
 A programmer walks to the butcher shop and buys a kilo of meat.  An hour later he comes back upset that the butcher shortchanged him by 24 grams.
 
