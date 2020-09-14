@@ -18,7 +18,11 @@ How classless! -says C++
 
 Are you a RESTful API? because you GET my attention, PUT some love, POST the cutest smile, and DELETE my bad day
 
-* * *
+***
+
+I used to know a joke about Java, but I run out of memory.
+
+***
 
 Why do Front-End Developers eat lunch alone?
 
