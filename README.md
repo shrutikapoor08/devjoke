@@ -3,6 +3,10 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, the guy shouted - It is not baked. 
+
+Delivery guy - You only get what you ask for.
+* * *
 
 If somebody refers me for a job 👨‍💻 will it be considered 'pass by reference' or 'pass by value'? 🤔😂
 
