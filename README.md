@@ -761,6 +761,13 @@ Now I've a ProblemFactory.
 
 ***
 
+***
+
+Me during my AI Presentation:
+I have some good markov jokes, but really if you've heard one you've heard them all.
+
+***
+
 ![titanic](./images/titanic-float-none.png)
 
 ***
