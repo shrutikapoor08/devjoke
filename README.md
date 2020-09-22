@@ -1,6 +1,10 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+* * *
+To replace programmers with robots, clients will have to accurately describe what they want.
+
+We are safe! 😏
 
 * * *
 A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, the guy shouted - It is not baked. 
