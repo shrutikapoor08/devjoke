@@ -4,7 +4,7 @@
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
-We are safe! 😏
+We are safe! :smirk:
 
 * * *
 A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, the guy shouted - It is not baked. 
@@ -12,7 +12,7 @@ A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, 
 Delivery guy - You only get what you ask for.
 * * *
 
-If somebody refers me for a job 👨‍💻 will it be considered 'pass by reference' or 'pass by value'? 🤔😂
+If somebody refers me for a job :man_technologist: will it be considered 'pass by reference' or 'pass by value'? :thinking: :joy:
 
 * * *
 
@@ -264,7 +264,7 @@ Wrong middle name anyways!
 
 * * *
 
-I have a dev joke, but I couldn't debug it 😭
+I have a dev joke, but I couldn't debug it :sob:
 
 * * *
 
@@ -354,7 +354,7 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 #### Question - Why do fish not like React?
 
-Because it has Hooks 😂.
+Because it has Hooks :joy:.
 
 * * *
 
@@ -493,7 +493,7 @@ There are three kinds of lies: Lies, damned lies, and benchmarks.
 ***
 
 A user interface is like a joke.
-If you have to explain it,It's not that good 😃 😀 😄
+If you have to explain it,It's not that good :smiley: :grinning: :smile:
 
 * * *
 
