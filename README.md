@@ -1,6 +1,11 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+* * *
+Hey, do you take your Leather Engineer friend with you while buying Shoes
+as you take your Software Engineer friend while buying Computers?🤔
+
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
