@@ -1,49 +1,64 @@
-import json
-import markdown
+import json     # JSON files tools
+import os     # Create folders in the computer
+from pathlib import Path     # Joins paths from parent to child
+import re     # Helps deleting unnecesary linespaces
 
 # Special Characters like “, ” & ’ 
 chars = {
     '\u201c':'\"',
     '\u201d':'\"',
-    '\u2019':'\'',
-    '\n':'<br />'
+    '\u2019':"\'"
 }
 
-class Files():
-    __slots__=['mdFile','jsonFile']
-    
-    def __init__(self,md,js):
-        '''
-        Calling the two files that will be manipulated
-        '''
-        jokesFile = open(md, encoding='utf8')
-        self.mdFile = markdown.markdown(jokesFile.read())
-        jokesFile.close()
-        
-        self.jsonFile = open(js,'w+')
+# Params of interest
+md = "README.md"
+folder = "parserOutput"
+js = folder+"/jokes.json"
 
-    def parsing(self):
-        '''
-        Conversion and closing of the file.
-        '''
-        jsonJokes = { 'jokes' : []}
+# Reading the md file
+def readingMD():
+    jokesFile = open(md, encoding='utf8')
+    mdFile=jokesFile.read()
+    jokesFile.close()
+    return mdFile
 
-        content = self.mdFile.split('<hr />')
-        content.pop(0) # Deletes the title section
-        mdown = markdown.Markdown()
-        for joke in content:
-            jokeMarkdown = mdown.convert(joke)
+# Setting up the folder
+def setUp():
+    try:
+        cwdFolder = os.path.abspath(folder)
+        os.mkdir(cwdFolder)
+    except OSError:
+        message="Creation of \"{}\" failed. It already exists".format(folder)
+    else:
+        message="Successfully created the directory {} ".format(folder)
+    print(message)
+
+# Parses md file into JSON
+def parsing():
+    md_content = readingMD()
+    jsonJokes = { 'jokes' : []}
+
+    content = re.split('(\*{3})|(\*\s\*\s\*)',md_content)
+    content.pop(0) # Deletes the title section
+    for joke in content:
+        if joke==None:
+            continue
+        if re.match('(\*{3})|(\*\s\*\s\*)',joke)==None:
+            if joke=='\n'*len(joke): continue
+            while joke[0]=='\n': joke=joke[1:]
+            while joke[-1]=='\n': joke=joke[:-1]
             for key in chars:
-                jokeMarkdown= jokeMarkdown.replace(key, chars[key])
-            jsonJokes['jokes'].append(jokeMarkdown)
-            mdown.reset()
-        
-        self.jsonFile.write(json.dumps(jsonJokes,ensure_ascii=True))
-        self.jsonFile.close()
+                joke= joke.replace(key, chars[key])
+            jsonJokes['jokes'].append(joke)
+    
+    jsonFile = open(js,'w+')
+    jsonFile.write(json.dumps( jsonJokes, ensure_ascii=True ))
+    jsonFile.close()
 
 def main():
-    files = Files("README.md","jokes.json")
-    files.parsing()
+    setUp()
+    parsing()
+
 
 if __name__=="__main__":
     main()
