@@ -6,6 +6,11 @@
 
 >>>>>>> parent of 93a08e9... Update README.md
 * * *
+
+"Only my friends get to touch my private parts."
+-C++
+
+* * *
 I have a joke on competitive programming. But 'Time Limit Exceeded'.
 
 * * *
