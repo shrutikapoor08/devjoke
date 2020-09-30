@@ -1,7 +1,6 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
-
 * * *
 I have a joke on competitive programming. But 'Time Limit Exceeded'.
 
