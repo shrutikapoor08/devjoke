@@ -1,6 +1,8 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+* * * 
+Prople say that changing random stuff in your code is 'hacky' and 'bad coding practice' but do it fast enough and they call it machine learning and pay you 4x your current salary.
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
