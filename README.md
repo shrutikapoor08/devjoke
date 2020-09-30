@@ -910,3 +910,8 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+***
+
+![inheritance joke](./images/inheritanceJoke.jpeg)
+***
