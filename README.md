@@ -910,3 +910,11 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+* * *
+
+#### Question - Why does dotnet developer don't wear glasses?
+
+Because they see sharp (c#).
+
+* * *
