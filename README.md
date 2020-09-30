@@ -1,6 +1,10 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 93a08e9... Update README.md
 * * *
 I have a joke on competitive programming. But 'Time Limit Exceeded'.
 
