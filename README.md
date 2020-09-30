@@ -1,6 +1,12 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+* * *
+99 year old man dying
+man: Oh! God, Save Me!!
+God: Ok, JPG or JPEG?
+
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
