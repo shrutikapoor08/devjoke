@@ -910,3 +910,9 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+***
+
+There are three kinds of lies: Lies, damned lies, and benchmarks.
+
+***
