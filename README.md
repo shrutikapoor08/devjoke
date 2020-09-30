@@ -1,6 +1,10 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+* * *
+
+"Only my friends get to touch my private parts."
+-C++
 
 * * *
 I have a joke on competitive programming. But 'Time Limit Exceeded'.
