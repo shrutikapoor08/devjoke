@@ -2,6 +2,12 @@
 
 #### Send me a PR if you know a good Dev Joke.
 
+* * *
+A girl rejected my proposal and later dared to ask for my JAVA code for an assignment. <br>
+I deleted most of the occurrences of "int" in my code, before sending it to her. <br>
+<br>
+Thukra k mera pyaar mera int kam dekhegi !!!
+
 * * * 
 Me: Will you be my Valentine? <br>
 Girl: No <br>
