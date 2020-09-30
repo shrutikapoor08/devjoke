@@ -285,3 +285,8 @@ Guardians of the Galaxy
 
 ***
 
+
+![Java joke](./images/javaJoke.png)
+
+***
+
