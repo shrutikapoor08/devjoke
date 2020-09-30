@@ -192,6 +192,10 @@ All programmers are playwrights, and all computers are lousy actors
 
 * * *
 
+Your mother is so fat, the recursive function computing her mass causes a stack overflow!
+
+* * *
+
 "Don't call me, I'll callback you. I promise!"
 
 * * *
