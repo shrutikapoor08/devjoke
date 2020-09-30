@@ -35,6 +35,13 @@ I used to know a joke about Java, but I run out of memory.
 Why do Front-End Developers eat lunch alone?
 
 Because, they don't know how to join tables.
+***
+
+(Old people creating variable in javascript)  
+Use __var__, it means variable.   
+
+(People nowaday creating variable in javascript)   
+Just __let__ it be, i dont wanna think another name for the variable.
 
 * * *
 
@@ -909,4 +916,4 @@ Me: Full Stackoverflow
 ***
 
 #### What is a computer's favorite beat?
-Answer: An algo-rhythm
+Answer: An algo-rhythm 
