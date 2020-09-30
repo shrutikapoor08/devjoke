@@ -3,9 +3,9 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * * 
-Me: Will you be my Valentine?
-Girl: No
-Me: sudo Will you be my Valentine?
+Me: Will you be my Valentine? <br>
+Girl: No <br>
+Me: sudo Will you be my Valentine? <br>
 Girl: yes ... yes ... yes ... Where should we head now?
 
 * * *
