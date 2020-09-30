@@ -5,17 +5,11 @@
 =======
 
 >>>>>>> parent of 93a08e9... Update README.md
-* * *
-
-Bjarne Stroustrup once said something like, "C makes it easy to shoot yourself in the foot. C++ makes it harder, but when you do, you blow your whole leg off."
 
 * * *
 
 "Only my friends get to touch my private parts."
 -C++
-
-* * *
-I have a joke on competitive programming. But 'Time Limit Exceeded'.
 
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
