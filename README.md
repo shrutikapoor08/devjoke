@@ -1,6 +1,13 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+* * * 
+Me: Will you be my Valentine?
+Girl: No
+Me: sudo Will you be my Valentine?
+Girl: yes ... yes ... yes ... Where should we head now?
+
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
