@@ -923,3 +923,9 @@ Answer: An algo-rhythm
 ![programmer-joke](./images/programmer-joke.jpg)
 
 ***
+
+
+![python](./images/python.jpeg)
+
+
+***
