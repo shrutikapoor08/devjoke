@@ -2,6 +2,13 @@
 
 #### Send me a PR if you know a good Dev Joke.
 * * *
+
+The programmer to his son: "Here, I brought you a new basketball."
+"Thank you, daddy, but where is the user's guide?"😜
+
+* * *
+
+* * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
 We are safe! 😏
@@ -910,11 +917,19 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
 ***
 
 Ubuntu users are apt to get this joke
+
 ***
 
 #### What do you call a programmer from Finland? 
 Answer: Nerdic
+
+***
+
+![programmer-joke](./images/programmer-joke.jpg)
+
+***
 
