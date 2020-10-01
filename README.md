@@ -1,6 +1,13 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+#### Note!
+
+If you're going to add emojis, please add them with the `:string:` format used 
+for it in [this cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
+This will help to ease mantaining this list!
+
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
