@@ -910,3 +910,10 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+***
+
+#### Q. What's an oxymoron ? 
+Answer: Development and DSA brought together 
+
+***
