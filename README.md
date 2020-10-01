@@ -2,6 +2,10 @@
 
 #### Send me a PR if you know a good Dev Joke.
 * * *
+Programmer Dad: Son can you count to 10?
+Son: 1,2,3...
+Programmer Dad: Stop you are not my son
+* * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
 We are safe! 😏
@@ -912,7 +916,4 @@ Me: Full Stackoverflow
 Answer: An algo-rhythm
 
 *** 
-Programmer Dad: Son can you count to 10?
-Son: 1,2,3...
-Programmer Dad: Stop you are not my son
-***
+
