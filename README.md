@@ -488,6 +488,10 @@ There are three kinds of lies: Lies, damned lies, and benchmarks.
 
 ***
 
+To understand what recursion is, you must first understand recursion. 
+
+***
+
 ![Assembly](./images/assembly_pointers.png)
 
 ***
