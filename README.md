@@ -910,3 +910,7 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+***
+#### Question. What's a full stack developer?
+Answer. When a company needs 4 devs but only wants to pay for 1.
