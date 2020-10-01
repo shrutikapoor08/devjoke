@@ -7,8 +7,6 @@ The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
 
 * * *
-
-* * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
 We are safe! 😏
@@ -495,14 +493,110 @@ There are three kinds of lies: Lies, damned lies, and benchmarks.
 
 ***
 
-![Assembly](./images/assembly_pointers.png)
+* * *
+
+I went on a date. The girl said " Pass the salt ". I replied " Pass by value or by reference!"
+
+* * *
+
+![where is the Github source code?](./images/github_joke.jpg)
 
 ***
+
+A journalist asked a programmer:-what makes code bad?
+Programmer:- No comment
+
+***
+
+A physicist, an engineer and a programmer were in a car driving over a steep alpine pass when the brakes failed. The car was getting faster and faster, they were struggling to get round the corners and once or twice only the feeble crash barrier saved them from crashing down the side of the mountain. They were sure they were all going to die, when suddenly they spotted an escape lane. They pulled into the escape lane, and came safely to a halt.
+
+The physicist said "We need to model the friction in the brake pads and the resultant temperature rise, see if we can work out why they failed".
+
+The engineer said "I think I've got a few spanners in the back. I'll take a look and see if I can work out what's wrong".
+
+The programmer said "Why don't we get going again and see if it's reproducible?"
+
+***
+
+![CanI?](./images/ComunismOfClass.jpeg)
+
+***
+I now understand why english grammar was taught in school,because it takes me a while to think the difference between "sign up" and "sign in" before i click the wrong one.
+***
+
+###  I keep trying to understand angular?
+
+But its just so obtuse
+
+***
+
+Guy 1: Its so cold, the heater has stopped working !!
+Android Dev: (Turns on Android Studio) There you go !
+
+***
+
+![sql-join](./images/sql-join.jpg)
+***
+
+
+Son: Dad, why do the sun rise in east and set in west ?
+Programmer dad: hey, it works!! Don't touch it ;
+
+***
+
+
+A programmer walks to the butcher shop and buys a kilo of meat.  An hour later he comes back upset that the butcher shortchanged him by 24 grams.
+
+***
+
+The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+
+***
+
+#### Question: What's did the Git engineer ask the waitress for?
+
+Answer: A fork.
+
+***
+
+#### Q. In a world where computer programs were TV shows, why would a JS program never be a reality TV show?
+Ans. - because it's scripted.
+
+***
+
+#mother {
+  right: 100%;
+  margin: 0;
+}
+
+***
+
+She: You told me you were fullstack!
+Me: Full Stackoverflow
+***
+
+#### What is a computer's favorite beat?
+Answer: An algo-rhythm
+
+
+***
+
+Friend: you both look like a cute couple!! where did you find her? tinder or insta?
+Me: GITHUB
+
+***
+
 
 A user interface is like a joke.
 If you have to explain it,It's not that good 😃 😀 😄
 
 * * *
+
+
+![Assembly](./images/assembly_pointers.png)
+
+***
+
 
 ![titanic](./images/titanic-float-none.png)
 
@@ -793,12 +887,6 @@ I have some good markov jokes, but really if you've heard one you've heard them 
 ***
 
 ![semicolon](./images/joke-semi-colon.jpg)
-
-***
-
-Friend: you both look like a cute couple!! where did you find her? tinder or insta?
-Me: GITHUB
-
 ***
 
 ![land-hover](./images/land-hover.jpg)
@@ -833,90 +921,6 @@ NA
 
 ![gitignore-Joke](./images/gitignore-joke.jpg)
 
-* * *
-
-I went on a date. The girl said " Pass the salt ". I replied " Pass by value or by reference!"
-
-* * *
-
-![where is the Github source code?](./images/github_joke.jpg)
-
-***
-
-A journalist asked a programmer:-what makes code bad?
-Programmer:- No comment
-
-***
-
-A physicist, an engineer and a programmer were in a car driving over a steep alpine pass when the brakes failed. The car was getting faster and faster, they were struggling to get round the corners and once or twice only the feeble crash barrier saved them from crashing down the side of the mountain. They were sure they were all going to die, when suddenly they spotted an escape lane. They pulled into the escape lane, and came safely to a halt.
-
-The physicist said "We need to model the friction in the brake pads and the resultant temperature rise, see if we can work out why they failed".
-
-The engineer said "I think I've got a few spanners in the back. I'll take a look and see if I can work out what's wrong".
-
-The programmer said "Why don't we get going again and see if it's reproducible?"
-
-***
-
-![CanI?](./images/ComunismOfClass.jpeg)
-
-***
-I now understand why english grammar was taught in school,because it takes me a while to think the difference between "sign up" and "sign in" before i click the wrong one.
-***
-
-###  I keep trying to understand angular?
-
-But its just so obtuse
-
-***
-
-Guy 1: Its so cold, the heater has stopped working !!
-Android Dev: (Turns on Android Studio) There you go !
-
-***
-
-![sql-join](./images/sql-join.jpg)
-***
-
-
-Son: Dad, why do the sun rise in east and set in west ?
-Programmer dad: hey, it works!! Don't touch it ;
-
-***
-
-
-A programmer walks to the butcher shop and buys a kilo of meat.  An hour later he comes back upset that the butcher shortchanged him by 24 grams.
-
-***
-
-The best thing about a Boolean is even if you are wrong, you are only off by a bit.
-
-***
-
-#### Question: What's did the Git engineer ask the waitress for?
-
-Answer: A fork.
-
-***
-
-#### Q. In a world where computer programs were TV shows, why would a JS program never be a reality TV show?
-Ans. - because it's scripted.
-
-***
-
-#mother {
-  right: 100%;
-  margin: 0;
-}
-
-***
-
-She: You told me you were fullstack!
-Me: Full Stackoverflow
-***
-
-#### What is a computer's favorite beat?
-Answer: An algo-rhythm
 
 ***
 
