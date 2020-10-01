@@ -914,3 +914,7 @@ Answer: An algo-rhythm
 
 newbie programmer- I can't believe the code worked FIRST TIME!
 experienced programmer- I CAN'T believe the code worked first time...
+***
+
+Programming is like a writing a book...
+Except when you miss a single comma on page 127 the whole thing makes no sense.
