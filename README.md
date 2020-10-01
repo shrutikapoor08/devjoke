@@ -910,3 +910,20 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+***
+Girl: Do you drink?
+Programmer: No.
+Girl: Have Girlfriend?
+Programmer: No.
+Girl: Then how do you enjoy life?
+Programmer: I am Programmer
+
+***
+If doctors were like software engineers, they would say things like “Have you tried killing yourself and being reborn?”
+***
+Debugging” is like being the detective in a crime drama where you are also the murderer.
+
+***
+!false
+(It’s funny because it’s true.
