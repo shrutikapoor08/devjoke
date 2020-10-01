@@ -913,6 +913,6 @@ Answer: An algo-rhythm
 
 * * *
 
-![this-in-JS](./images/thisJS.jpg)
+![this-in-JS](./images/thisJs.jpg)
 
 * * *
