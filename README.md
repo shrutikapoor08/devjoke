@@ -1,6 +1,11 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+* * *
+DO WHILE Loops be like  
+Shoot first,ask question later.
+
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
@@ -911,6 +916,4 @@ Me: Full Stackoverflow
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
 
-***
-DO WHILE LOOPS BE LIKE
-SHOOT FIRST ,ASK QUESTIONS LATER
+
