@@ -273,6 +273,12 @@ I have a dev joke, but I couldn't debug it 😭
 
 * * *
 
+***
+any one know any joke about sodium??
+NA
+
+***
+
 #### Question - How did the developer announce her engagement?
 
 `this.engaged = true`
@@ -393,25 +399,25 @@ They are both useless when you open windows
 
 * * *
 
-### Question - Who is a programmer?
+#### Question - Who is a programmer?
 
 Answer: A person who fixed a problem that you don't know you have, in a way you don't understand.
 
 * * *
 
-### Question - Why do Java developers wear glasses?
+#### Question - Why do Java developers wear glasses?
 
 Answer: Because they can't C# !
 
 * * *
 
-### Question - How do functions break up?
+#### Question - How do functions break up?
 
 Answer: They stop calling each other.
 
 * * *
 
-### Question - 0 is false and 1 is true, right?
+#### Question - 0 is false and 1 is true, right?
 
 Answer: 1
 
@@ -423,56 +429,44 @@ Answer: None – It’s a hardware problem
 
 * * *
 
-### Question - Why do software engineers consistently stir up Halloween and Christmas?
+#### Question - Why do software engineers consistently stir up Halloween and Christmas?
 
 Answer: Because  Oct 31 = Dec 25
 
 * * *
 
-### Question - Have you heard of the band with 1023 megabytes?
+#### Question - Have you heard of the band with 1023 megabytes?
 
 No, they just haven't had a gig yet.
 
 ***
 #### Question - What screams "I'm insecure"?
 
-
 Http
-
-***
-1/3 of US bandwidth is used by Netflix.
 
 * * *
 
-### Question - Why dod the software developer go broke?
+#### Question - Why dod the software developer go broke?
 
 They used up all their cache.
 
 * * *
 
-### Question - Why did the react class component feel relieved?
+#### Question - Why did the react class component feel relieved?
 
 Because it was now off the hook.
 
 * * *
 
-### Question - Why did the child component have such great self-esteem?
+#### Question - Why did the child component have such great self-esteem?
 
 Because its parent kept giving it props!
 
 * * *
 
-### Question - Which type of shooting always hurt the shooter?
+#### Question - Which type of shooting always hurt the shooter?
 
 Trouble-shooting!
-
-* * *
-
-
-python:how are you c
-c:
-python:oh I always forget! ;
-c: fine
 
 ***
 Question- Me: My screens turns Blue,
@@ -491,17 +485,12 @@ There are three kinds of lies: Lies, damned lies, and benchmarks.
 - It's HTML5.
 
 
-***
-
 * * *
 
 I went on a date. The girl said " Pass the salt ". I replied " Pass by value or by reference!"
 
 * * *
 
-![where is the Github source code?](./images/github_joke.jpg)
-
-***
 
 A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment
@@ -518,13 +507,10 @@ The programmer said "Why don't we get going again and see if it's reproducible?"
 
 ***
 
-![CanI?](./images/ComunismOfClass.jpeg)
-
-***
 I now understand why english grammar was taught in school,because it takes me a while to think the difference between "sign up" and "sign in" before i click the wrong one.
 ***
 
-###  I keep trying to understand angular?
+####  I keep trying to understand angular.
 
 But its just so obtuse
 
@@ -532,10 +518,6 @@ But its just so obtuse
 
 Guy 1: Its so cold, the heater has stopped working !!
 Android Dev: (Turns on Android Studio) There you go !
-
-***
-
-![sql-join](./images/sql-join.jpg)
 ***
 
 
@@ -593,6 +575,52 @@ If you have to explain it,It's not that good 😃 😀 😄
 * * *
 
 
+Android: where ProgressBars go around in circles and Spinners don’t spin
+
+***
+
+What did the Python say when he came out of his shell?
+Print("Hello World!")
+
+***
+
+I showed my 12 year son aa floppy disk....
+He said "ohh nice!! You have 3-D printed the save icon."
+
+*** 
+
+All programmers are playwrights, and all computers are lousy actors
+
+***
+
+Algorithm :
+
+Words used by a programmer when they don't want to explain what they did.
+
+***
+
+I had a problem earlier, then I started using Java.
+Now I've a ProblemFactory.
+
+***
+
+Me during my AI Presentation:
+I have some good markov jokes, but really if you've heard one you've heard them all.
+
+***
+
+Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?”
+“Yeah,” reply the bytes.  “Make us a double.”
+
+***
+
+
+Programmer: Son, can you count to 10?
+3 yr old son: 1...2...
+Programmer: Stop. You are not my son,
+
+***
+
 ![Assembly](./images/assembly_pointers.png)
 
 ***
@@ -620,10 +648,6 @@ If you have to explain it,It's not that good 😃 😀 😄
 
 ![Warning](./images/warnings-error.jpg)
 
-***
-Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?”
-“Yeah,” reply the bytes.  “Make us a double.”
-
 * * *
 
 
@@ -631,11 +655,6 @@ Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?”
 
 * * *
 
-Programmer: Son, can you count to 10?
-3 yr old son: 1...2...
-Programmer: Stop. You are not my son,
-
-***
 
 ![async](./images/async.png)
 
@@ -832,47 +851,6 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 ***
 
-Question: What are the similarities between java and javascript?
-It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
-
-***
-
-Android: where ProgressBars go around in circles and Spinners don’t spin
-
-***
-
-What did the Python say when he came out of his shell?
-Print("Hello World!")
-
-***
-
-I showed my 12 year son aa floppy disk....
-He said "ohh nice!! You have 3-D printed the save icon."
-
-All programmers are playwrights, and all computers are lousy actors
-
-***
-
-Algorithm :
-
-Words used by a programmer when....
-
-they don't want to explain what they did.
-
-***
-
-I had a problem earlier, then i started using Java.
-Now I've a ProblemFactory.
-
-***
-
-***
-
-Me during my AI Presentation:
-I have some good markov jokes, but really if you've heard one you've heard them all.
-
-***
-
 ![titanic](./images/titanic-float-none.png)
 
 ***
@@ -901,9 +879,6 @@ I have some good markov jokes, but really if you've heard one you've heard them 
 * * *
 
 ![async](./images/async.png)
-***
-any one know any joke about sodium??
-NA
 
 * * *
 
@@ -926,4 +901,15 @@ NA
 
 ![programmer-joke](./images/programmer-joke.jpg)
 
+***
+
+
+![where is the Github source code?](./images/github_joke.jpg)
+
+
+![CanI?](./images/ComunismOfClass.jpeg)
+
+***
+
+![sql-join](./images/sql-join.jpg)
 ***
