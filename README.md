@@ -83,6 +83,19 @@ A programmer puts two glasses on his bedside table before going to sleep. A full
 
 * * *
 
+Knock knock.
+
+Whos there?
+
+Broken state machine.
+
+Broken state machine who?
+
+Knock knock.
+
+
+* * *
+
     #pisa-tower {
       font-style: italic;
     }
