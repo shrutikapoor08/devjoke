@@ -2,6 +2,10 @@
 
 #### Send me a PR if you know a good Dev Joke.
 * * *
+World: How do you validate you have become good at coding?
+Programmers: By being able to understand memes around that.
+
+* * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
 We are safe! 😏
