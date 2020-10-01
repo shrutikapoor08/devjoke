@@ -910,3 +910,7 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+***
+DO WHILE LOOPS BE LIKE
+SHOOT FIRST ,ASK QUESTIONS LATER
