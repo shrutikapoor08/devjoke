@@ -1,4 +1,10 @@
 # Dev Joke
+### Algorithm(noun.)
+
+A word that programmers use when... 
+they do not want to explain what they did !
+
+
 
 #### Send me a PR if you know a good Dev Joke.
 * * *
