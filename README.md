@@ -8,6 +8,10 @@ The programmer to his son: "Here, I brought you a new basketball."
 
 * * *
 
+If an EXE file says:
+"This program requires Windows XP or better..."
+Does that mean that it'll run linux..? :)
+
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
