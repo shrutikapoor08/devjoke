@@ -1,6 +1,11 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+!False
+
+It's funny because it's true! 😂
+***
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
