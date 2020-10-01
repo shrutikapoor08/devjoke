@@ -1,6 +1,11 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+* * *
+Developers don't ghost they just go offline 👻
+
+
 * * *
 
 The programmer to his son: "Here, I brought you a new basketball."
