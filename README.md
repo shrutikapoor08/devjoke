@@ -14,7 +14,7 @@ To replace programmers with robots, clients will have to accurately describe wha
 We are safe! 😏
 
 * * *
-A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, the guy shouted - It is not baked. 
+A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, the guy shouted - It is not baked.
 
 Delivery guy - You only get what you ask for.
 * * *
@@ -923,3 +923,5 @@ Answer: An algo-rhythm
 ![programmer-joke](./images/programmer-joke.jpg)
 
 ***
+
+![boooolean](./images/boooolean.png)
