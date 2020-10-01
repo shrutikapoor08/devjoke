@@ -1,6 +1,13 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+* * *
+
+Best pickup line for a JS dev ?
+
+- Be the promise to my callback ❤️.
+
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
