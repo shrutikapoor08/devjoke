@@ -910,3 +910,8 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+***
+8 bytes walk into a bar, the bartenders asks "What will it be?"
+One of them says, "Make us a double."
+***
