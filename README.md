@@ -911,8 +911,8 @@ Me: Full Stackoverflow
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
 
-* * *
+***
 
 ![this-in-JS](./images/thisJs.jpg)
 
-* * *
+***
