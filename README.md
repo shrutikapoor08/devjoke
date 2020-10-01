@@ -910,3 +910,10 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+******************************************************
+
+“Q: What’s the difference between England and a tea bag? 
+
+A: The tea bag stays in the cup longer.”
+****************************************************
