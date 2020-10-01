@@ -910,3 +910,9 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+*** 
+Programmer Dad: Son can you count to 10?
+Son: 1,2,3...
+Programmer Dad: Stop you are not my son
+***
