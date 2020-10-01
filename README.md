@@ -1,4 +1,4 @@
-# Dev Joke
+# Dev Jokes-A good laugh heals a lot of hurts
 
 #### Send me a PR if you know a good Dev Joke.
 * * *
