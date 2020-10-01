@@ -910,3 +910,9 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+***
+
+#### What would you call a web developer who enjoys finding bugs?
+Answer: spider
+
+
