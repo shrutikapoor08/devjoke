@@ -910,3 +910,6 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+***
+
+![fresh-prince](./images/fresh-prince.png)
