@@ -910,3 +910,7 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+***
+
+newbie programmer- I can't believe the code worked FIRST TIME!
+experienced programmer- I CAN'T believe the code worked first time...
