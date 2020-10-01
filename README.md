@@ -1,6 +1,14 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+***
+
+Documentation is like sex.
+when its good, its very good.
+when its bad, its better than nothing.
+
+***
+
 * * *
 
 The programmer to his son: "Here, I brought you a new basketball."
@@ -30,6 +38,8 @@ How classless! -says C++
 * * *
 
 Are you a RESTful API? because you GET my attention, PUT some love, POST the cutest smile, and DELETE my bad day
+
+***
 
 ***
 
