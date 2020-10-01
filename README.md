@@ -923,3 +923,7 @@ Answer: An algo-rhythm
 ![programmer-joke](./images/programmer-joke.jpg)
 
 ***
+
+![Q&A](./images/q-a.jpg)
+
+***
