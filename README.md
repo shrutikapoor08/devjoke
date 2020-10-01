@@ -1,6 +1,10 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+#### Question - What do programmers inherit?
+
+Technical Debt
+
 * * *
 
 The programmer to his son: "Here, I brought you a new basketball."
