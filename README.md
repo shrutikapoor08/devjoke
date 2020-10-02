@@ -630,6 +630,12 @@ Programmer: Stop. You are not my son,
 ***
 
 
+![new_painitingai](https://user-images.githubusercontent.com/72219783/94889728-d0d49700-049a-11eb-85f1-40ddd7d76c6d.jpg)
+
+
+* * *
+
+
 ![titanic](./images/titanic-float-none.png)
 
 * * *
