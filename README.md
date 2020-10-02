@@ -11,6 +11,12 @@ The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
 
 * * *
+
+First rule of programming : 
+If it works DON'T touch it.
+
+* * *
+
 To replace programmers with robots, clients will have to accurately describe what they want.
 
 We are safe! 😏
