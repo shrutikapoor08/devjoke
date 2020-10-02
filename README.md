@@ -961,6 +961,11 @@ Answer: An algo-rhythm
 
 ***
 
+Q: Why did the programmer quit his job?
+A: Because he didnt get arrays>
+
+***
+
 ![programmer-joke](./images/programmer-joke.jpg)
 
 ***
