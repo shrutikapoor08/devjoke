@@ -254,9 +254,6 @@ Guardians of the Galaxy
 
 ***
 
-
-
-
 #### Question - Are you a full-stack developer? 
 
 
@@ -264,11 +261,7 @@ yeah,FULL STACKOVERFLOW developer.
 
 ***
 
-
-
-
 #### Question - What is an algorithm? 
-
 
 word used by programmer's when they do not want to explain what they did. 
 
