@@ -3,12 +3,6 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
-First rule of programming : 
-If  it works DON'T touch it. 
-
-* * *
-
-* * *
 
 The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
@@ -19,6 +13,11 @@ The programmer to his son: "Here, I brought you a new basketball."
 To replace programmers with robots, clients will have to accurately describe what they want.
 
 We are safe! 😏
+
+* * *
+
+First rule of programming : 
+If it works DON'T touch it. 
 
 * * *
 A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, the guy shouted - It is not baked. 
