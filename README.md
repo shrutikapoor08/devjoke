@@ -969,7 +969,7 @@ Answer: An algo-rhythm
 
 ***
 
-![drop-database](./images/dropDB.jpg)
+![drop-database](./images/dropDBmeme.jpg)
 
 ***
 
