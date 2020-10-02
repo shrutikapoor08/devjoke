@@ -969,14 +969,14 @@ Answer: An algo-rhythm
 
 ***
 
-"So where did you meet?"
-Windows User: At the office
-MAC User: At startbucks
+"So where did you meet?"  
+Windows User: At the office  
+MAC User: At startbucks  
 Linux user: Github
 
 ***
 
-Q: Why did the programmer quit his job?
+Q: Why did the programmer quit his job?  
 A: Because he didn't get arrays (read, a raise)
 
 ***
