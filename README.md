@@ -5,6 +5,17 @@
 
 Technical Debt
 
+
+* * *
+Once all programming languages went to a party.
+Guess who paid the bill?
+Of course, PHP.
+Beacause PHP has many $.
+
+* * *
+A fool can write a code that a computer can understand.
+Good programmers write code that the also don't understand after few days.
+
 * * *
 
 The programmer to his son: "Here, I brought you a new basketball."
