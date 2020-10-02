@@ -10,6 +10,7 @@ Question: "Add question here."
 Answer: "Add answer here".
 
 ***
+Not a joke but real life incident in our C class of Mechanical Student who were not interested in coding was forced to coding, So they coded a "sum of 2 number" whole in printf. Because Mechanical Guys are good at math xD.
 ```
 
 Adding image - 
