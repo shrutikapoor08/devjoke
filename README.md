@@ -253,3 +253,11 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
+
+
+
+#### Question - Are you a full-stack developer? 
+
+
+yeah,FULL STACKOVERFLOW developer. 
