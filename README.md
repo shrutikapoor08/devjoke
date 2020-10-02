@@ -912,4 +912,56 @@ Answer: ![umbrella](./images/umbrella.gif)
 ***
 
 ![sql-join](./images/sql-join.jpg)
+
 ***
+
+
+Son: Dad, why do the sun rise in east and set in west ?
+Programmer dad: hey, it works!! Don't touch it ;
+
+***
+
+
+A programmer walks to the butcher shop and buys a kilo of meat.  An hour later he comes back upset that the butcher shortchanged him by 24 grams.
+
+***
+
+The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+
+***
+
+#### Question: What's did the Git engineer ask the waitress for?
+
+Answer: A fork.
+
+***
+
+#### Q. In a world where computer programs were TV shows, why would a JS program never be a reality TV show?
+Ans. - because it's scripted.
+
+***
+
+#mother {
+  right: 100%;
+  margin: 0;
+}
+
+***
+
+She: You told me you were fullstack!
+Me: Full Stackoverflow
+***
+
+#### What is a computer's favorite beat?
+Answer: An algo-rhythm
+
+***
+
+![programmer-joke](./images/programmer-joke.jpg)
+
+***
+
+![gmail-check](./images/gmail-check.png)
+
+***
+
