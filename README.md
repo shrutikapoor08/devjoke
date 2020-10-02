@@ -966,6 +966,9 @@ A: Because he didnt get arrays
 
 ***
 
+Roses are red, Violets are blue 
+There's an '{' on line 32!
+
 ![programmer-joke](./images/programmer-joke.jpg)
 
 ***
