@@ -968,4 +968,5 @@ Answer: An algo-rhythm
 ![gmail-check](./images/gmail-check.png)
 
 ***
-
+To replace programmers with robots, clients will have to accurately describe what they want.
+We are safe.
