@@ -973,6 +973,6 @@ Answer: An algo-rhythm
 
 ***
 
-![legacy-code](./images/legacy-code.jpg)
+![legacy-code](./images/legacy-code.png)
 
 ***
