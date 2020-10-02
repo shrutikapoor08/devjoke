@@ -11,6 +11,9 @@ The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
 
 * * *
+I've been using VIM since about 5 years because I never find out how to quit.
+
+* * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
 We are safe! 😏
