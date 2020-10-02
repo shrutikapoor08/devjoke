@@ -969,3 +969,6 @@ Answer: An algo-rhythm
 
 ***
 
+![web-dev-joke](./images/webDevJoke.png)
+
+***
