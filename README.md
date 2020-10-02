@@ -16,7 +16,7 @@ To replace programmers with robots, clients will have to accurately describe wha
 We are safe! 😏
 
 * * *
-A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, the guy shouted - It is not baked. 
+A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, the guy shouted - It is not baked.
 
 Delivery guy - You only get what you ask for.
 * * *
@@ -591,7 +591,7 @@ Print("Hello World!")
 I showed my 12 year son aa floppy disk....
 He said "ohh nice!! You have 3-D printed the save icon."
 
-*** 
+***
 
 All programmers are playwrights, and all computers are lousy actors
 
@@ -966,6 +966,10 @@ Answer: An algo-rhythm
 ***
 
 ![gmail-check](./images/gmail-check.png)
+
+***
+
+![drop-database](./images/dropDB.jpg)
 
 ***
 
