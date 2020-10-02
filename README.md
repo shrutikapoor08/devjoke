@@ -910,3 +910,8 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+***
+
+#### why do developers need glasses? 
+cuz we need to C#
