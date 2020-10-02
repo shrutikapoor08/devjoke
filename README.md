@@ -261,3 +261,15 @@ Guardians of the Galaxy
 
 
 yeah,FULL STACKOVERFLOW developer. 
+
+***
+
+
+
+
+#### Question - What is an algorithm? 
+
+
+word used by programmer's when they do not want to explain what they did. 
+
+***
