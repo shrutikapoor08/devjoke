@@ -510,6 +510,8 @@ Programmer:- No comment
 
 ***
 
+![Assembly](./images/assembly_pointers.png)
+=======
 A physicist, an engineer and a programmer were in a car driving over a steep alpine pass when the brakes failed. The car was getting faster and faster, they were struggling to get round the corners and once or twice only the feeble crash barrier saved them from crashing down the side of the mountain. They were sure they were all going to die, when suddenly they spotted an escape lane. They pulled into the escape lane, and came safely to a halt.
 
 The physicist said "We need to model the friction in the brake pads and the resultant temperature rise, see if we can work out why they failed".
@@ -541,6 +543,7 @@ Programmer dad: hey, it works!! Don't touch it ;
 
 
 A programmer walks to the butcher shop and buys a kilo of meat.  An hour later he comes back upset that the butcher shortchanged him by 24 grams.
+
 
 ***
 
@@ -634,6 +637,10 @@ Programmer: Stop. You are not my son,
 
 ***
 The Profession is Programming. But, all they do is create New Objects.
+***
+
+To understand what recursion is, you must first understand recursion. 
+
 ***
 
 ![Assembly](./images/assembly_pointers.png)
