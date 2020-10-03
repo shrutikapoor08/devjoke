@@ -968,4 +968,10 @@ Answer: An algo-rhythm
 ![gmail-check](./images/gmail-check.png)
 
 ***
+Normal girl: talk dirty to me
+Coading guy: Import tensorflow as torch
+***
+Why do programmers prefer Dark Mode.
+cause light attract bugs.
+***
 
