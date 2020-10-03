@@ -1,6 +1,12 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+* * *
+
+Data scientists should be charged with animal trafficking and animal abuse because they import pandas and feed them to python.
+
+* * *
 #### Question - What do programmers inherit?
 
 Technical Debt
@@ -9,6 +15,9 @@ Technical Debt
 
 The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
+
+* * *
+I've been using VIM since about 5 years because I never find out how to quit.
 
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
@@ -478,6 +487,13 @@ Question- Me: My screens turns Blue,
 
 ***
 
+
+***
+Question- What's the object oriented way to become wealthy?
+Answer  - Inheritance.
+
+***
+
 There are three kinds of lies: Lies, damned lies, and benchmarks.
 
 ***
@@ -501,6 +517,8 @@ Programmer:- No comment
 
 ***
 
+![Assembly](./images/assembly_pointers.png)
+=======
 A physicist, an engineer and a programmer were in a car driving over a steep alpine pass when the brakes failed. The car was getting faster and faster, they were struggling to get round the corners and once or twice only the feeble crash barrier saved them from crashing down the side of the mountain. They were sure they were all going to die, when suddenly they spotted an escape lane. They pulled into the escape lane, and came safely to a halt.
 
 The physicist said "We need to model the friction in the brake pads and the resultant temperature rise, see if we can work out why they failed".
@@ -532,6 +550,7 @@ Programmer dad: hey, it works!! Don't touch it ;
 
 
 A programmer walks to the butcher shop and buys a kilo of meat.  An hour later he comes back upset that the butcher shortchanged him by 24 grams.
+
 
 ***
 
@@ -622,6 +641,12 @@ Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?”
 Programmer: Son, can you count to 10?
 3 yr old son: 1...2...
 Programmer: Stop. You are not my son,
+
+***
+The Profession is Programming. But, all they do is create New Objects.
+***
+
+To understand what recursion is, you must first understand recursion. 
 
 ***
 
@@ -961,6 +986,10 @@ Answer: An algo-rhythm
 
 ***
 
+An Algorithm a day, Keeps a mass recruiter away.
+
+***
+
 ![programmer-joke](./images/programmer-joke.jpg)
 
 ***
@@ -968,15 +997,6 @@ Answer: An algo-rhythm
 ![gmail-check](./images/gmail-check.png)
 
 ***
-
-"So where did you meet?"  
-Windows User: At the office  
-MAC User: At startbucks  
-Linux user: Github
-
-***
-
-Q: Why did the programmer quit his job?  
-A: Because he didn't get arrays (read, a raise)
-
-***
+=======
+To replace programmers with robots, clients will have to accurately describe what they want.
+We are safe.
