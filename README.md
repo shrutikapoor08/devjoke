@@ -997,6 +997,16 @@ An Algorithm a day, Keeps a mass recruiter away.
 ![gmail-check](./images/gmail-check.png)
 
 ***
-=======
+
 To replace programmers with robots, clients will have to accurately describe what they want.
 We are safe.
+
+***
+
+I love pressing the F5 key. It's refreshing.
+
+***
+
+If human beings evolved new organsas frequently as the do JavaScript frameworks, you can bet the doctors would be Googling it too.
+
+***
