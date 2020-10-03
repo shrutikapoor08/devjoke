@@ -626,6 +626,7 @@ Programmer: Stop. You are not my son,
 ***
 
 Non-Programmer - You can't keep doing the same thing and expect different results🧐
+
 Programmer- LET ME INTRODUCE YOU TO "DEBUGGING"💻⚠
 
 ***
