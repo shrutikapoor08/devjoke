@@ -1,6 +1,12 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+* * *
+
+Data scientists should be charged with animal trafficking and animal abuse because they import pandas and feed them to python.
+
+* * *
 #### Question - What do programmers inherit?
 
 Technical Debt
