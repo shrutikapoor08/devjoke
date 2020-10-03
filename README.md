@@ -3,6 +3,13 @@
 #### Send me a PR if you know a good Dev Joke.
 #### Question - What do programmers inherit?
 
+Buy the cloth
+
+* * *
+seller: what color clothes do you want to buy?
+dev: #00b386
+* * *
+
 Technical Debt
 
 * * *
