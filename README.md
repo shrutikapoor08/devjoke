@@ -633,6 +633,8 @@ Programmer: Son, can you count to 10?
 Programmer: Stop. You are not my son,
 
 ***
+The Profession is Programming. But, all they do is create New Objects.
+***
 
 ![Assembly](./images/assembly_pointers.png)
 
