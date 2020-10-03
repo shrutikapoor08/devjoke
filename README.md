@@ -1001,4 +1001,9 @@ To replace programmers with robots, clients will have to accurately describe wha
 We are safe.
 
 ***
-What is better than code? Coder.
+
+Question: "Why is hard to code in Summer Time?"
+
+Answer: "Because developers are Coders"
+
+***
