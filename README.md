@@ -299,11 +299,16 @@ I have a dev joke, but I couldn't debug it 😭
 
 * * *
 
-***
+
+Forgetting the semicolon after every C command and getting an error makes me go ;_;
+
+* * *
+=======
+* * *
 any one know any joke about sodium??
 NA
 
-***
+* * *
 
 #### Question - How did the developer announce her engagement?
 
