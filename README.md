@@ -969,3 +969,15 @@ Answer: An algo-rhythm
 
 ***
 
+Knock knock!
+
+An async function
+
+Me: Who’s there?
+
+Me Who’s there??
+
+Me: I asked Who’s there??? 😡
+
+***
+
