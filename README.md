@@ -999,3 +999,6 @@ An Algorithm a day, Keeps a mass recruiter away.
 ***
 To replace programmers with robots, clients will have to accurately describe what they want.
 We are safe.
+
+***
+What is better than code? Coder.
