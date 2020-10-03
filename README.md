@@ -969,3 +969,9 @@ Answer: An algo-rhythm
 
 ***
 
+***
+
+girlfriend: Is it true that you're dating someone else?
+programmer: What you're saying is completely !false
+
+***
