@@ -47,6 +47,10 @@ Because, they don't know how to join tables.
 
 * * *
 
+I am not Programmer, I am is Noobgrammer :V
+
+* * *
+
 I am declaring a war.
 var war;
 
