@@ -1030,3 +1030,7 @@ We are safe.
 I love pressing the F5 key. It's refreshing.
 
 ***
+
+Chuck Norris’s keyboard doesn’t have a Ctrl key because nothing controls Chuck Norris.
+
+***
