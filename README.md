@@ -487,6 +487,13 @@ Question- Me: My screens turns Blue,
 
 ***
 
+
+***
+Question- What's the object oriented way to become wealthy?
+Answer  - Inheritance.
+
+***
+
 There are three kinds of lies: Lies, damned lies, and benchmarks.
 
 ***
