@@ -1,9 +1,14 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+
 #### Question - What do programmers inherit?
 
 Technical Debt
+* * *
+
+I knew a dev who hated versioning just as much as he hated marriage. He simply refused to commit.
 
 * * *
 
