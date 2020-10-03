@@ -1006,7 +1006,3 @@ We are safe.
 I love pressing the F5 key. It's refreshing.
 
 ***
-
-If human beings evolved new organsas frequently as the do JavaScript frameworks, you can bet the doctors would be Googling it too.
-
-***
