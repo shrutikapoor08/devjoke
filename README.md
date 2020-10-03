@@ -4,6 +4,15 @@
 
 * * *
 
+Me: Why isn't this working? 🤔
+Normal Language: You screwed up over here. 🧐
+Me: Oh Thanks! 👍
+
+Me: Why isn't this working? 🤔
+JavaScript: SHHHHHH! 🤫
+
+* * *
+
 Data scientists should be charged with animal trafficking and animal abuse because they import pandas and feed them to python.
 
 * * *
