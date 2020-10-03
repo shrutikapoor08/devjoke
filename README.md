@@ -947,6 +947,10 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 ***
 
+![Basics](./images/KKHH-PROGRAMMING_LANGS.PNG)
+
+***
+
 
 Son: Dad, why do the sun rise in east and set in west ?
 Programmer dad: hey, it works!! Don't touch it ;
