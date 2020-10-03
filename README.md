@@ -663,6 +663,12 @@ To understand what recursion is, you must first understand recursion.
 
 ***
 
+Non-Programmer - You can't keep doing the same thing and expect different results🧐
+
+Programmer- Let me introduce you to "DEBUGGING"💻⚠
+
+***
+
 ![Assembly](./images/assembly_pointers.png)
 
 ***
