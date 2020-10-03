@@ -7,6 +7,12 @@ Technical Debt
 
 * * *
 
+Question: What do you do when a JavaScript developer is sad?
+
+Answer: You "console" them. xD
+
+***
+
 The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
 
