@@ -972,6 +972,10 @@ Answer: An algo-rhythm
 
 ***
 
+An Algorithm a day, Keeps a mass recruiter away.
+
+***
+
 ![programmer-joke](./images/programmer-joke.jpg)
 
 ***
