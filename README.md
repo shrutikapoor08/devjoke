@@ -919,6 +919,34 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 ***
 
+![Basics](./images/DEV1.PNG)
+
+***
+
+![Basics](./images/DEV2.JPG)
+
+***
+
+![Basics](./images/DEV3.JFIF)
+
+***
+
+![Basics](./images/DEV4.JFIF)
+
+***
+
+![Basics](./images/DEV5.JFIF)
+
+***
+
+![Basics](./images/DEV6.JFIF)
+
+***
+
+![Basics](./images/DEV7.JFIF)
+
+***
+
 
 Son: Dad, why do the sun rise in east and set in west ?
 Programmer dad: hey, it works!! Don't touch it ;
