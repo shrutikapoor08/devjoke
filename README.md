@@ -277,6 +277,9 @@ I have a dev joke, but I couldn't debug it 😭
 
 * * *
 
+While coding I couldn't find the bug, so I switched to dark mode.
+
+
 ***
 any one know any joke about sodium??
 NA
