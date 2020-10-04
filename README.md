@@ -1,6 +1,13 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+* * *
+
+My biggest fear is that I'll one day run into a peoblem that hasn't been solved on StackOverflow and I'll have to restart my projrct with a different technology.
+
+* * *
+
 #### Question - What do programmers inherit?
 
 Technical Debt
@@ -9,10 +16,6 @@ Technical Debt
 
 The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
-
-* * *
-
-My biggest fear is that I'll one day run into a peoblem that hasn't been solved on StackOverflow and I'll have to restart my projrct with a different technology.
 
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
