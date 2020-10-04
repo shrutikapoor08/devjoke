@@ -6,14 +6,13 @@
 Technical Debt
 
 * * *
-
-The programmer to his son: "Here, I brought you a new basketball."
-"Thank you, daddy, but where is the user's guide?"😜
+First rule of programming : 
+If it works DON'T touch it.
 
 * * *
 
-First rule of programming : 
-If it works DON'T touch it.
+The programmer to his son: "Here, I brought you a new basketball."
+"Thank you, daddy, but where is the user's guide?"😜
 
 * * *
 
