@@ -2,6 +2,13 @@
 
 #### Send me a PR if you know a good Dev Joke.
 
+Javas real meaning
+
+J: Why isn't this working??
+A: Please kill me
+V: Don't ever try this
+A: I haven't sleept in days
+
 * * *
 
 Me: Why isn't this working? 🤔
