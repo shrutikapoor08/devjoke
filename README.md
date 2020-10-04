@@ -34,7 +34,7 @@ To replace programmers with robots, clients will have to accurately describe wha
 We are safe! 😏
 
 * * *
-A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, the guy shouted - It is not baked. 
+A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, the guy shouted - It is not baked.
 
 Delivery guy - You only get what you ask for.
 * * *
@@ -637,7 +637,7 @@ Print("Hello World!")
 I showed my 12 year son aa floppy disk....
 He said "ohh nice!! You have 3-D printed the save icon."
 
-*** 
+***
 
 All programmers are playwrights, and all computers are lousy actors
 
@@ -673,7 +673,7 @@ Programmer: Stop. You are not my son,
 The Profession is Programming. But, all they do is create New Objects.
 ***
 
-To understand what recursion is, you must first understand recursion. 
+To understand what recursion is, you must first understand recursion.
 
 ***
 
@@ -1041,5 +1041,11 @@ I love pressing the F5 key. It's refreshing.
 ***
 
 Chuck Norris’s keyboard doesn’t have a Ctrl key because nothing controls Chuck Norris.
+
+***
+
+#### Question: Why do programmers and coders hate nature?
+
+Answer: It has too many bugs.
 
 ***
