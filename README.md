@@ -4,6 +4,10 @@
 
 * * *
 
+My biggest fear is that I'll one day run into a peoblem that hasn't been solved on StackOverflow and I'll have to restart my projrct with a different technology.
+
+* * *
+
 Me: Why isn't this working? 🤔
 Normal Language: You screwed up over here. 🧐
 Me: Oh Thanks! 👍
