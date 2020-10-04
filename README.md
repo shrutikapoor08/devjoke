@@ -7,9 +7,9 @@ Technical Debt
 
 * * *
 
-Question: What do you do when a JavaScript developer is sad?
+Why did the programmer quit his job? 
 
-Answer: You "console" them. xD
+Because he didn't get arrays!
 
 ***
 
