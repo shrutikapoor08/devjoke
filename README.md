@@ -3,6 +3,9 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+First rule of programming : If it works DON'T touch it.
+
+* * *
 
 Me: Why isn't this working? 🤔
 Normal Language: You screwed up over here. 🧐
