@@ -927,23 +927,23 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 ***
 
-![Basics](./images/DEV3.JFIF)
+![Basics](./images/DEV3.JPG)
 
 ***
 
-![Basics](./images/DEV4.JFIF)
+![Basics](./images/DEV4.JPG)
 
 ***
 
-![Basics](./images/DEV5.JFIF)
+![Basics](./images/DEV5.JPG)
 
 ***
 
-![Basics](./images/DEV6.JFIF)
+![Basics](./images/DEV6.JPG)
 
 ***
 
-![Basics](./images/DEV7.JFIF)
+![Basics](./images/DEV7.JPG)
 
 ***
 
