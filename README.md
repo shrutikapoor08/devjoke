@@ -936,7 +936,11 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 * * *
 
-![intkaam](./images/intkaam.jpeg)
+#### Question: Why do programmers and coders hate nature?
+
+Answer: It has too many bugs.
+
+***
 
 * * *
 
@@ -1049,3 +1053,8 @@ Chuck Norris’s keyboard doesn’t have a Ctrl key because nothing controls Chu
 Answer: It has too many bugs.
 
 ***
+* * *
+
+![russian-roullete](./images/russian-roulette.jpg)
+
+* * *
