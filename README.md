@@ -1049,3 +1049,7 @@ Chuck Norris’s keyboard doesn’t have a Ctrl key because nothing controls Chu
 Answer: It has too many bugs.
 
 ***
+
+#### Why is shipping code a lie?
+
+Answer: Because every deploy has "ploy" in it.
