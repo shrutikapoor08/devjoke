@@ -21,7 +21,6 @@ JavaScript: SHHHHHH! 🤫
 Data scientists should be charged with animal trafficking and animal abuse because they import pandas and feed them to python.
 
 * * *
-* * *
 
 #### Question - What do programmers inherit?
 
