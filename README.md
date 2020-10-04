@@ -4,7 +4,7 @@
 
 * * *
 
-My biggest fear is that I'll one day run into a peoblem that hasn't been solved on StackOverflow and I'll have to restart my projrct with a different technology.
+My biggest fear is that I'll one day run into a problem that hasn't been solved on StackOverflow and I'll have to restart my project with a different technology.
 
 * * *
 
