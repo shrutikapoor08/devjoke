@@ -1049,3 +1049,7 @@ Chuck Norris’s keyboard doesn’t have a Ctrl key because nothing controls Chu
 Answer: It has too many bugs.
 
 ***
+
+comments in python is like hashtag in instagram ..everyone ignores it!!
+
+***
