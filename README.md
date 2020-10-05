@@ -1053,3 +1053,9 @@ Answer: It has too many bugs.
 #### Why is shipping code a lie?
 
 Answer: Because every deploy has "ploy" in it.
+
+***
+
+Autocorrect can go straight to he’ll. —Constance Normandeau
+
+***
