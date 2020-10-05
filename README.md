@@ -1,7 +1,10 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+* * *
+Why do programmers have bad digestion?
 
+They only have semi-colons
 * * *
 
 Me: Why isn't this working? 🤔
@@ -1059,4 +1062,14 @@ Answer: Because every deploy has "ploy" in it.
 Did you hear about the monkeys who shared an Amazon account? They were Prime mates.
 
 ***
+
+
+Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
+***
+
+![StackOverflowPro](./images/stack-overflow-pro.jpg)
+
+***
+
+![HurtDoggy](./images/hurt-doggy.jpg)
 
