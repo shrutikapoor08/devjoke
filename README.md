@@ -1060,3 +1060,11 @@ Answer: Because every deploy has "ploy" in it.
 ***
 
 Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
+***
+
+![StackOverflowPro](./images/stack-overflow-pro.jpg)
+
+***
+
+![HurtDoggy](./images/hurt-doggy.jpg)
+
