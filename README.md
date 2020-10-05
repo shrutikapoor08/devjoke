@@ -1053,3 +1053,11 @@ Answer: It has too many bugs.
 #### Why is shipping code a lie?
 
 Answer: Because every deploy has "ploy" in it.
+
+***
+
+#### Question: Why do so many people like CSS?
+
+Answer: Because it's so stylish.
+
+***
