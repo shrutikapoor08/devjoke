@@ -1057,3 +1057,7 @@ Answer: Because every deploy has "ploy" in it.
 ***
 
 ![math-dev](./images/math-dev.png)
+
+***
+
+![windowes-10](./images/windoes-10.png)
