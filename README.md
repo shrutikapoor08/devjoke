@@ -969,10 +969,6 @@ Answer: An algo-rhythm
 
 ***
 
-![digging-own-code](./images/7hrs.jpg)
-
-***
-
 ![legacy-code](./images/legacy-code.png)
 
 ***
