@@ -1053,3 +1053,11 @@ Answer: It has too many bugs.
 #### Why is shipping code a lie?
 
 Answer: Because every deploy has "ploy" in it.
+
+***
+
+#### Question: What do cats and programmers have in common?
+
+Answer: When either one is unusually happy and excited, an appropriate question would be, "did you find a bug?"
+
+***
