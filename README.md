@@ -1,7 +1,10 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+* * *
+Why do programmers have bad digestion?
 
+They only have semi-colons
 * * *
 
 Me: Why isn't this working? 🤔
