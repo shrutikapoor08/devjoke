@@ -1053,3 +1053,9 @@ Answer: It has too many bugs.
 #### Why is shipping code a lie?
 
 Answer: Because every deploy has "ploy" in it.
+
+***
+
+#### What did the Java code say to the C code?
+
+Answer: You've got no class.
