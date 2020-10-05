@@ -1059,6 +1059,12 @@ Answer: Because every deploy has "ploy" in it.
 
 ***
 
+#### What did the Java code say to the C code?
+
+Answer: You've got no class.
+
+***
+
 Did you hear about the monkeys who shared an Amazon account? They were Prime mates.
 
 ***
