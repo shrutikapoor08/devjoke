@@ -1,6 +1,10 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+* * *
+Why do JavaScript programmers need glasses?
+
+Because they can't C#
 
 * * *
 
