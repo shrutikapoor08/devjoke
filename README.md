@@ -906,11 +906,13 @@ Ans. - because it's scripted.
 
 She: You told me you were fullstack!
 Me: Full Stackoverflow
+
 ***
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
 
+***
 
 ![py_joke](./images/python_joke.png)
 ***
