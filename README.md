@@ -1059,6 +1059,11 @@ Answer: Because every deploy has "ploy" in it.
 
 ***
 
+Did you hear about the monkeys who shared an Amazon account? They were Prime mates.
+
+***
+
+
 Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
 ***
 
