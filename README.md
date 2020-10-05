@@ -1053,3 +1053,7 @@ Answer: It has too many bugs.
 #### Why is shipping code a lie?
 
 Answer: Because every deploy has "ploy" in it.
+
+***
+
+Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
