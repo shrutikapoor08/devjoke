@@ -1057,3 +1057,7 @@ Answer: Because every deploy has "ploy" in it.
 * * *
 
 ![fullstack](./images/fullstack.jpeg)
+
+***
+
+Good girls keep their tags closed so their html doesn't show.
