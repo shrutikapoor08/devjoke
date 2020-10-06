@@ -939,7 +939,11 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 * * *
 
-![intkaam](./images/intkaam.jpeg)
+#### Question: Why do programmers and coders hate nature?
+
+Answer: It has too many bugs.
+
+***
 
 * * *
 
@@ -1053,6 +1057,10 @@ Answer: It has too many bugs.
 
 ***
 
+![russian-roullete](./images/russian-roulette.jpg)
+
+***
+
 #### Why is shipping code a lie?
 
 Answer: Because every deploy has "ploy" in it.
@@ -1078,4 +1086,5 @@ Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to 
 ***
 
 ![HurtDoggy](./images/hurt-doggy.jpg)
+
 
