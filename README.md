@@ -1,7 +1,10 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+* * *
+Why do programmers have bad digestion?
 
+They only have semi-colons
 * * *
 
 Me: Why isn't this working? 🤔
@@ -1053,8 +1056,35 @@ Chuck Norris’s keyboard doesn’t have a Ctrl key because nothing controls Chu
 Answer: It has too many bugs.
 
 ***
-* * *
 
 ![russian-roullete](./images/russian-roulette.jpg)
 
-* * *
+***
+
+#### Why is shipping code a lie?
+
+Answer: Because every deploy has "ploy" in it.
+
+***
+
+#### What did the Java code say to the C code?
+
+Answer: You've got no class.
+
+***
+
+Did you hear about the monkeys who shared an Amazon account? They were Prime mates.
+
+***
+
+
+Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
+***
+
+![StackOverflowPro](./images/stack-overflow-pro.jpg)
+
+***
+
+![HurtDoggy](./images/hurt-doggy.jpg)
+
+
