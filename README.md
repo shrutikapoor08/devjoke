@@ -2,7 +2,12 @@
 Send me a PR if you know a good Dev Joke. 
 
 ***
+#### Question - How long have you been programming?
 
+-10 years
+So you have lots of knowledge in this field.
+
+***
 walks UDP package into bar A. 
 
 ***
