@@ -1,6 +1,11 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+* * *
+
+Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
+
 * * *
 Why do programmers have bad digestion?
 
