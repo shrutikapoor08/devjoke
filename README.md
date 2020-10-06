@@ -1079,3 +1079,11 @@ Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to 
 
 ![HurtDoggy](./images/hurt-doggy.jpg)
 
+
+***
+
+Person 1: How do functions break up?
+Person 2: They stop calling each other!
+
+***
+
