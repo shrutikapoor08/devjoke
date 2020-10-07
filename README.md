@@ -1089,4 +1089,8 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+Why was the JavaScript reality show cancelled after only one episode?
 
+People thought it seemed scripted!
+
+* * *
