@@ -2,9 +2,7 @@
 Send me a PR if you know a good Dev Joke. 
 
 ***
-#### Question - What did the Java code say to C code?
-
-You've got no class.
+Unwritten rule : if you install Linux, you will automatically start disliking Windows.
 
 ***
 walks UDP package into bar A. 
