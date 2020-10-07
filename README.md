@@ -512,6 +512,12 @@ Because its parent kept giving it props!
 
 * * *
 
+#### Question - Why couldn’t the React component understand the joke?
+
+Because it didn’t get the context.
+
+* * *
+
 #### Question - Which type of shooting always hurt the shooter?
 
 Trouble-shooting!
