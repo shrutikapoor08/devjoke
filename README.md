@@ -1090,3 +1090,6 @@ A: Because they are afraid of waterfall.
 
 * * *
 
+There are two types of people in this world—those that understand recursion and those that don’t understand that there are two types of people in this world.
+
+* * *
