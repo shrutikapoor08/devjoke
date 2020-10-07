@@ -1084,9 +1084,12 @@ Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to 
 
 ![HurtDoggy](./images/hurt-doggy.jpg)
 
-* * *
+***
 Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
-* * *
+***
 
+There are only 10 kinds of people in this world: those who know binary and those who don’t.
+
+***
