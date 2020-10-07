@@ -2,10 +2,9 @@
 Send me a PR if you know a good Dev Joke. 
 
 ***
-#### Question - How long have you been programming?
- - 10 years
+#### Question - What did the Java code say to C code?
 
-So you have lots of knowledge in this field.
+You've got no class.
 
 ***
 walks UDP package into bar A. 
