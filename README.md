@@ -4,6 +4,14 @@
 
 * * *
 
+Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
+
+* * *
+Why do programmers have bad digestion?
+
+They only have semi-colons
+* * *
+
 Me: Why isn't this working? 🤔
 Normal Language: You screwed up over here. 🧐
 Me: Oh Thanks! 👍
@@ -1053,3 +1061,32 @@ Answer: It has too many bugs.
 #### Why is shipping code a lie?
 
 Answer: Because every deploy has "ploy" in it.
+
+***
+
+#### What did the Java code say to the C code?
+
+Answer: You've got no class.
+
+***
+
+Did you hear about the monkeys who shared an Amazon account? They were Prime mates.
+
+***
+
+
+Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
+***
+
+![StackOverflowPro](./images/stack-overflow-pro.jpg)
+
+***
+
+![HurtDoggy](./images/hurt-doggy.jpg)
+
+* * *
+Q: Why do kayakaers make bad programmers?
+A: Because they are afraid of waterfall.
+
+* * *
+
