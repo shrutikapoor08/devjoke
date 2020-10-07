@@ -1088,5 +1088,9 @@ Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to 
 Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
-* * *
 
+***
+
+There are 10 kinds of people in the world—those who know binary and those who don't.
+
+***
