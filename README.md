@@ -2,6 +2,21 @@
 
 #### Send me a PR if you know a good Dev Joke.
 
+
+* * *
+
+Q: What is Hardware?
+A: The part of the computer which you can kick.😁
+
+* * *
+
+* * *
+
+Q: Who is a programmer?
+A: A programmer is a machine who turns coffee into code.😂
+
+* * *
+
 * * *
 
 Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
