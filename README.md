@@ -4,6 +4,12 @@
 
 * * *
 
+algorithm
+noun
+Word used by programmers when they do not want to explain what they did.
+
+* * *
+
 Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
 
 * * *
