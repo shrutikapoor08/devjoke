@@ -2,6 +2,14 @@
 
 #### Send me a PR if you know a good Dev Joke.
 
+Programming is like: 
+
+"My code isn't working....why?!" 
+
+also programming: 
+
+"My code works!! .....why?!"
+
 * * *
 
 Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
