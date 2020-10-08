@@ -1,14 +1,10 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
-* * *
-What languages do you know?
-
-*Engineers be like: Python, C++, C#, Ruby, Java,.....
 
 * * *
 
-Honey! Can't open the jar.
+Wife: Honey! Can't open the jar.
 
 *Me: Download and install Java.
 
