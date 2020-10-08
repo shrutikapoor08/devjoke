@@ -1089,4 +1089,6 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+Q: What do houses and Microsoft Windows have in common?
+A: Bugs come in through open windows.
 
