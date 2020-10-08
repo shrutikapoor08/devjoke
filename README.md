@@ -4,9 +4,16 @@
 
 * * *
 
-Me: Will you be my Valentine?
-Girl: No
-Me: sudo Will you be my Valentine?
+A girl rejected my proposal and later dared to ask for my JAVA code for an assignment.<br>
+I deleted most of the occurrences of "int" in my code, before sending it to her.<br>
+
+Thukra k mera pyaar mera int kam dekhegi !!!
+
+* * *
+
+Me: Will you be my Valentine? <br>
+Girl: No <br>
+Me: sudo Will you be my Valentine? <br>
 Girl: yes
 
 * * *
