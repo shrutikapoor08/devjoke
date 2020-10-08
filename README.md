@@ -34,6 +34,13 @@ The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
 
 * * *
+“Knock, knock.”
+“Who’s there?”
+very long pause….
+“Java.”
+
+* * *
+
 I've been using VIM since about 5 years because I never find out how to quit.
 
 * * *
