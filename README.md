@@ -4,6 +4,10 @@
 
 * * *
 
+Things are not always #000000 and #ffffff
+
+* * *
+
 Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
 
 * * *
