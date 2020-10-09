@@ -4,7 +4,7 @@
 
 * * *
 
-Things are not always #000000 and #ffffff
+Things are not always **#000000** and **#FFFFFF**
 
 * * *
 
