@@ -5,9 +5,9 @@ At the top of the page, add your joke followed by `***`
 
 Adding text - 
 ```
-Question: "Add question here."
+Question: While C++, Java, and Python were busy whole quarantine with college stuff, C was chilling and playing games. Why?
 
-Answer: "Add answer here".
+Answer: He didn't have classes
 
 ***
 ```
