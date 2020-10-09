@@ -3,6 +3,11 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+#### Question - Why does my code suddenly end?
+
+Answer: You're breaking it
+
+* * *
 
 Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
 
