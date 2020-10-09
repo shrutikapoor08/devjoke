@@ -9,7 +9,7 @@ Sometimes when I'm writing **Javascript** I want to throw up my hands and say "t
 * * *
 Why do programmers have bad digestion?
 
-They only have semi-colons
+They only have semi-colon
 * * *
 
 Me: Why isn't this working? 🤔
