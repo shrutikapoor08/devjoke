@@ -1114,3 +1114,9 @@ A: Because they are afraid of waterfall.
   😃 😀 😄
 
 ---
+
+😃 😀 😄
+My six years old kid already started eating much apple, to become an IOS developer
+😃 😀 😄
+
+---
