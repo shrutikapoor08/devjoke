@@ -1039,13 +1039,24 @@ Answer: An algo-rhythm
 
 ***
 
+
+Ubuntu users are apt to get this joke
+
+***
+
+#### What do you call a programmer from Finland? 
+Answer: Nerdic
+***
 An Algorithm a day, Keeps a mass recruiter away.
+
 
 ***
 
 ![programmer-joke](./images/programmer-joke.jpg)
 
 ***
+
+
 
 ![gmail-check](./images/gmail-check.png)
 
