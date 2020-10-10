@@ -1125,3 +1125,9 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+
+#### Why did the private boarding school reject OO software designer go to work in defence?
+
+Answer: Because someone said there would be 'class' warfare!.
+
+***
