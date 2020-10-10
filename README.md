@@ -1027,6 +1027,10 @@ She: You told me you were fullstack!
 Me: Full Stackoverflow
 ***
 
+![Java joke](./images/javaJoke.png)
+
+***
+
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
 
@@ -1094,4 +1098,3 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
-
