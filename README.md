@@ -3,6 +3,11 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+Dev1 : There are 10 types of people in this world.
+Dev2 : How?
+Dev1 : Those who understand binary and those who don't!
+
+* * *
 99 year old man dying
 man: Oh! God, Save Me!!
 God: Ok, JPG or JPEG?
