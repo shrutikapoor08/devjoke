@@ -1039,6 +1039,13 @@ Answer: An algo-rhythm
 
 ***
 
+### If Programming Languages Were To Propose:
+
+Java: I promise there hasn’t been a day that I stopped wanting you and haven’t gotten out of my head at all since I first met you!!
+
+Python: I love you ;)
+
+***
 
 Ubuntu users are apt to get this joke
 
@@ -1047,6 +1054,7 @@ Ubuntu users are apt to get this joke
 #### What do you call a programmer from Finland? 
 Answer: Nerdic
 ***
+
 An Algorithm a day, Keeps a mass recruiter away.
 
 
