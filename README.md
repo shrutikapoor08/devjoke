@@ -3,6 +3,14 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+99 year old man dying
+man: Oh! God, Save Me!!
+God: Ok, JPG or JPEG?
+***
+"Only my friends get to touch my private parts."
+-C++
+
+* * *
 
 Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
 
@@ -1022,6 +1030,10 @@ She: You told me you were fullstack!
 Me: Full Stackoverflow
 ***
 
+![Java joke](./images/javaJoke.png)
+
+***
+
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
 
@@ -1069,6 +1081,10 @@ Answer: It has too many bugs.
 
 ***
 
+#### What would you call a web developer who enjoys finding bugs?
+Answer: spider
+
+***
 
 #### Why is shipping code a lie?
 
