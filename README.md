@@ -3,6 +3,22 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+99 year old man dying
+man: Oh! God, Save Me!!
+God: Ok, JPG or JPEG?
+***
+"Only my friends get to touch my private parts."
+-C++
+
+* * *
+
+Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
+
+* * *
+Why do programmers have bad digestion?
+
+They only have semi-colons
+* * *
 
 Me: Why isn't this working? 🤔
 Normal Language: You screwed up over here. 🧐
@@ -1014,6 +1030,10 @@ She: You told me you were fullstack!
 Me: Full Stackoverflow
 ***
 
+![Java joke](./images/javaJoke.png)
+
+***
+
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
 
@@ -1026,14 +1046,25 @@ Java: I promise there hasn’t been a day that I stopped wanting you and haven�
 Python: I love you ;)
 
 ***
-=======
+
+Ubuntu users are apt to get this joke
+
+***
+
+#### What do you call a programmer from Finland? 
+Answer: Nerdic
+***
+
 An Algorithm a day, Keeps a mass recruiter away.
+
 
 ***
 
 ![programmer-joke](./images/programmer-joke.jpg)
 
 ***
+
+
 
 ![gmail-check](./images/gmail-check.png)
 
@@ -1058,7 +1089,39 @@ Answer: It has too many bugs.
 
 ***
 
+#### What would you call a web developer who enjoys finding bugs?
+Answer: spider
+
+***
+
 #### Why is shipping code a lie?
 
 Answer: Because every deploy has "ploy" in it.
- 
+
+***
+
+#### What did the Java code say to the C code?
+
+Answer: You've got no class.
+
+***
+
+Did you hear about the monkeys who shared an Amazon account? They were Prime mates.
+
+***
+
+
+Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
+***
+
+![StackOverflowPro](./images/stack-overflow-pro.jpg)
+
+***
+
+![HurtDoggy](./images/hurt-doggy.jpg)
+
+* * *
+Q: Why do kayakaers make bad programmers?
+A: Because they are afraid of waterfall.
+
+* * *
