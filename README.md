@@ -4,6 +4,11 @@
 
 * * *
 
+"Only my friends get to touch my private parts."
+-C++
+
+* * *
+
 Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
 
 * * *
