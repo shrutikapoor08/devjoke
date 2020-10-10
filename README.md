@@ -1070,6 +1070,11 @@ Answer: It has too many bugs.
 
 ***
 
+#### What would you call a web developer who enjoys finding bugs?
+Answer: spider
+
+***
+
 #### Why is shipping code a lie?
 
 Answer: Because every deploy has "ploy" in it.
