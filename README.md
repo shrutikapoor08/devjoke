@@ -1,6 +1,37 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+
+* * *
+99 year old man dying
+man: Oh! God, Save Me!!
+God: Ok, JPG or JPEG?
+***
+"Only my friends get to touch my private parts."
+-C++
+
+* * *
+
+Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
+
+* * *
+Why do programmers have bad digestion?
+
+They only have semi-colons
+* * *
+
+Me: Why isn't this working? 🤔
+Normal Language: You screwed up over here. 🧐
+Me: Oh Thanks! 👍
+
+Me: Why isn't this working? 🤔
+JavaScript: SHHHHHH! 🤫
+
+* * *
+
+Data scientists should be charged with animal trafficking and animal abuse because they import pandas and feed them to python.
+
+* * *
 #### Question - What do programmers inherit?
 
 Technical Debt
@@ -11,12 +42,15 @@ The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
 
 * * *
+I've been using VIM since about 5 years because I never find out how to quit.
+
+* * *
 To replace programmers with robots, clients will have to accurately describe what they want.
 
 We are safe! 😏
 
 * * *
-A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, the guy shouted - It is not baked. 
+A guy ordered a pizza with cheese, olives, onion and red pepper. On getting it, the guy shouted - It is not baked.
 
 Delivery guy - You only get what you ask for.
 * * *
@@ -89,6 +123,19 @@ A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
 * * *
 
 A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+
+* * *
+
+Knock knock.
+
+Whos there?
+
+Broken state machine.
+
+Broken state machine who?
+
+Knock knock.
+
 
 * * *
 
@@ -277,11 +324,16 @@ I have a dev joke, but I couldn't debug it 😭
 
 * * *
 
-***
+
+Forgetting the semicolon after every C command and getting an error makes me go ;_;
+
+* * *
+=======
+* * *
 any one know any joke about sodium??
 NA
 
-***
+* * *
 
 #### Question - How did the developer announce her engagement?
 
@@ -478,6 +530,13 @@ Question- Me: My screens turns Blue,
 
 ***
 
+
+***
+Question- What's the object oriented way to become wealthy?
+Answer  - Inheritance.
+
+***
+
 There are three kinds of lies: Lies, damned lies, and benchmarks.
 
 ***
@@ -501,6 +560,8 @@ Programmer:- No comment
 
 ***
 
+![Assembly](./images/assembly_pointers.png)
+=======
 A physicist, an engineer and a programmer were in a car driving over a steep alpine pass when the brakes failed. The car was getting faster and faster, they were struggling to get round the corners and once or twice only the feeble crash barrier saved them from crashing down the side of the mountain. They were sure they were all going to die, when suddenly they spotted an escape lane. They pulled into the escape lane, and came safely to a halt.
 
 The physicist said "We need to model the friction in the brake pads and the resultant temperature rise, see if we can work out why they failed".
@@ -532,6 +593,7 @@ Programmer dad: hey, it works!! Don't touch it ;
 
 
 A programmer walks to the butcher shop and buys a kilo of meat.  An hour later he comes back upset that the butcher shortchanged him by 24 grams.
+
 
 ***
 
@@ -591,7 +653,7 @@ Print("Hello World!")
 I showed my 12 year son aa floppy disk....
 He said "ohh nice!! You have 3-D printed the save icon."
 
-*** 
+***
 
 All programmers are playwrights, and all computers are lousy actors
 
@@ -622,6 +684,18 @@ Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?”
 Programmer: Son, can you count to 10?
 3 yr old son: 1...2...
 Programmer: Stop. You are not my son,
+
+***
+The Profession is Programming. But, all they do is create New Objects.
+***
+
+To understand what recursion is, you must first understand recursion.
+
+***
+
+Non-Programmer - You can't keep doing the same thing and expect different results🧐
+
+Programmer- Let me introduce you to "DEBUGGING"💻⚠
 
 ***
 
@@ -956,14 +1030,41 @@ She: You told me you were fullstack!
 Me: Full Stackoverflow
 ***
 
+![Java joke](./images/javaJoke.png)
+
+***
+
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+***
+
+### If Programming Languages Were To Propose:
+
+Java: I promise there hasn’t been a day that I stopped wanting you and haven’t gotten out of my head at all since I first met you!!
+
+Python: I love you ;)
+
+***
+
+Ubuntu users are apt to get this joke
+
+***
+
+#### What do you call a programmer from Finland? 
+Answer: Nerdic
+***
+
+An Algorithm a day, Keeps a mass recruiter away.
+
 
 ***
 
 ![programmer-joke](./images/programmer-joke.jpg)
 
 ***
+
+
 
 ![gmail-check](./images/gmail-check.png)
 
@@ -972,3 +1073,58 @@ Answer: An algo-rhythm
 ![legacy-code](./images/legacy-code.png)
 
 ***
+To replace programmers with robots, clients will have to accurately describe what they want.
+We are safe.
+
+***
+
+I love pressing the F5 key. It's refreshing.
+
+***
+
+Chuck Norris’s keyboard doesn’t have a Ctrl key because nothing controls Chuck Norris.
+
+***
+
+#### Question: Why do programmers and coders hate nature?
+
+Answer: It has too many bugs.
+
+***
+
+#### What would you call a web developer who enjoys finding bugs?
+Answer: spider
+
+***
+
+#### Why is shipping code a lie?
+
+Answer: Because every deploy has "ploy" in it.
+
+***
+
+#### What did the Java code say to the C code?
+
+Answer: You've got no class.
+
+***
+
+Did you hear about the monkeys who shared an Amazon account? They were Prime mates.
+
+***
+
+
+Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
+***
+
+![StackOverflowPro](./images/stack-overflow-pro.jpg)
+
+***
+
+![HurtDoggy](./images/hurt-doggy.jpg)
+
+* * *
+Q: Why do kayakaers make bad programmers?
+A: Because they are afraid of waterfall.
+
+* * *
