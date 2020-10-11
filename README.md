@@ -1124,6 +1124,19 @@ Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to 
 ***
 
 ![HurtDoggy](./images/hurt-doggy.jpg)
+***
+
+#### Question - What is the most used language in programming?
+
+Profanity.
+
+***
+
+#### Question - Why did the programmer quit his job?
+
+Because he didn't get arrays.
+
+***
 
 * * *
 Q: Why do kayakaers make bad programmers?
