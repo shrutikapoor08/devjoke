@@ -1125,8 +1125,18 @@ Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to 
 
 ![HurtDoggy](./images/hurt-doggy.jpg)
 
-* * *
+***
 Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
-* * *
+***
+
+#### Q. In a world where computer programs were TV shows, why would a JS program never be a reality TV show?
+Ans. - because it's scripted.
+
+***
+
+#### Q. What is Python like?
+Answer: sss ss..
+
+***
