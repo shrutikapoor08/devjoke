@@ -1130,3 +1130,9 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+
+***
+
+People always ask how's the code doing, but never asks how's the programmer doing.
+
+***
