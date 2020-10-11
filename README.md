@@ -1070,6 +1070,9 @@ An Algorithm a day, Keeps a mass recruiter away.
 
 ***
 
+![legacy-code](./images/legacy-code.png)
+
+***
 To replace programmers with robots, clients will have to accurately describe what they want.
 We are safe.
 
