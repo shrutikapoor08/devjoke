@@ -3,6 +3,11 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+Which way did the programmer go?
+ 
+He went data way!
+
+* * *
 99 year old man dying
 
 man: Oh! God, Save Me!!
