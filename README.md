@@ -3,12 +3,16 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+
+One day 2 SQLs went into a NoSQL restaurant, they came out right away because they couldn't find a table.
+
+* * *
 99 year old man dying
 
 man: Oh! God, Save Me!!
 
 God: Ok, JPG or JPEG?
-***
+* * *
 "Only my friends get to touch my private parts."
 -C++
 
