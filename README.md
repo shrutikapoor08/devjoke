@@ -4,7 +4,9 @@
 
 * * *
 99 year old man dying
+
 man: Oh! God, Save Me!!
+
 God: Ok, JPG or JPEG?
 ***
 "Only my friends get to touch my private parts."
