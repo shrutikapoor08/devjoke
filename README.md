@@ -1130,3 +1130,21 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+
+Me: Alexa, I would like to hear a TCP joke.
+
+Alexa: Hi, would you like to hear a TCP joke?
+
+Me: Yes, I would like to hear a TCP joke.
+
+Alexa: I'm about to tell you a TCP joke. It will last 10 seconds. It has a beginning and a solid punchline in the end.
+
+Me: Ok. Hit it. I'm excited to hear a TCP joke.
+
+Alexa: Sorry, your connection has timed out.
+
+...
+
+Alexa: Hi, would you like to hear a TCP joke? kkkk
+
+***
