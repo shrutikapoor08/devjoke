@@ -939,10 +939,6 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 * * *
 
-![async](./images/async.png)
-
-* * *
-
 ![Codebase](./images/WaysToSaveUrCode.jpeg)
 
 * * *
