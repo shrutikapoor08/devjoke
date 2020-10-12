@@ -931,26 +931,7 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 ***
 
-![titanic](./images/titanic-float-none.png)
-
-***
-
-![GoTo Hell](./images/new_hell.jpg)
-
-***
-
-![runtimeError](./images/runtimeError.jpg)
-
-
-***
-
-![semicolon](./images/joke-semi-colon.jpg)
-***
-
 ![land-hover](./images/land-hover.jpg)
-
-***
-![betterThanSex](images/better-than-sex.jpg)
 
 * * *
 
@@ -1061,12 +1042,6 @@ An Algorithm a day, Keeps a mass recruiter away.
 
 
 ***
-
-![programmer-joke](./images/programmer-joke.jpg)
-
-***
-
-
 
 ![gmail-check](./images/gmail-check.png)
 
