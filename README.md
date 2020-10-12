@@ -3,6 +3,14 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+
+📄 Documentation is like sex.
+
+When it's good, it's very good.
+When it's bad, it's better than nothing. 🤷
+
+***
+
 99 year old man dying
 
 man: Oh! God, Save Me!!
