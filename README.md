@@ -3,6 +3,11 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+Cloud computing starts with anticipation.
+But may end with precipitation when it all goes wrong.
+***
+
+* * *
 99 year old man dying
 
 man: Oh! God, Save Me!!
