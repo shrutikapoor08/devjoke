@@ -1130,3 +1130,10 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+  
+***
+User: Tell me a Joke
+Computer: What? No!
+User: sudo Tell me a joke
+Computer: ...
+***
