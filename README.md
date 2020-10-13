@@ -3,8 +3,23 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+
+Best pickup line for a JS dev ?
+
+- Be the promise to my callback ❤️.
+
+***
+📄 Documentation is like sex.
+
+When it's good, it's very good.
+When it's bad, it's better than nothing. 🤷
+
+***
+
 99 year old man dying
+
 man: Oh! God, Save Me!!
+
 God: Ok, JPG or JPEG?
 ***
 "Only my friends get to touch my private parts."
@@ -1070,6 +1085,9 @@ An Algorithm a day, Keeps a mass recruiter away.
 
 ***
 
+![legacy-code](./images/legacy-code.png)
+
+***
 To replace programmers with robots, clients will have to accurately describe what they want.
 We are safe.
 
@@ -1129,3 +1147,5 @@ A: Because they are afraid of waterfall.
 ![HelloWorldStruggle](./images/helloworldstruggle.jpg)
 
 * * *
+
+In order to understand recursion, one must first understand recursion.
