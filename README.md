@@ -1130,3 +1130,4 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+![Documentation](./images/writing_documentation_todo.png)
