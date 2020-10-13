@@ -4,6 +4,11 @@
 
 * * *
 
+Best pickup line for a JS dev ?
+
+- Be the promise to my callback ❤️.
+
+***
 📄 Documentation is like sex.
 
 When it's good, it's very good.
