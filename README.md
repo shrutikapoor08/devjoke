@@ -1138,3 +1138,13 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+
+***
+
+Me: *Enters password*
+computer: "Incorrect password" ....
+           "Incorrect password" ....
+Me: *Resets password*
+computer: "New password cannot be your old password"
+
+***
