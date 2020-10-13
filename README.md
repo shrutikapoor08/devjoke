@@ -1130,3 +1130,8 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+***
+![DistractedBoyfriend](https://github.com/rajpratyush/devjoke/blob/master/images/distracted-boyfriend%20(1).png)
+
+***
+
