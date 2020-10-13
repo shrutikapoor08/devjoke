@@ -1138,3 +1138,7 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+A UDP packet walks into a bar, no one acknowledges him
+
+* * *
+
