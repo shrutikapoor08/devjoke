@@ -1146,3 +1146,7 @@ A: Because they are afraid of waterfall.
 
 In order to understand recursion, one must first understand recursion.
 
+***
+
+First rule of programming, if it works don't touch it.
+
