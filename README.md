@@ -52,7 +52,8 @@ Data scientists should be charged with animal trafficking and animal abuse becau
 Technical Debt
 
 * * *
-
+![Confidence level of a Programmer](./images/confidenceJoke.jpeg)
+* * *
 The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
 
