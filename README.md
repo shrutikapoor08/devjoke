@@ -3,7 +3,8 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
-
+**this** is a JavaScript Joke 🤐
+* * *
 Best pickup line for a JS dev ?
 
 - Be the promise to my callback ❤️.
