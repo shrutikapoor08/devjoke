@@ -3,6 +3,19 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+
+Best pickup line for a JS dev ?
+
+- Be the promise to my callback ❤️.
+
+***
+📄 Documentation is like sex.
+
+When it's good, it's very good.
+When it's bad, it's better than nothing. 🤷
+
+***
+
 99 year old man dying
 
 man: Oh! God, Save Me!!
@@ -1130,6 +1143,10 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+
+In order to understand recursion, one must first understand recursion.
+
+***
 ![DEVExcuses](./images/96159609_699388344131798_2782988831844990976_o.jpg)
 
 ***
