@@ -552,6 +552,14 @@ Answer  - Inheritance.
 
 ***
 
+* * *
+
+#### Question - What is an programming language that easiest and hardest?
+
+Golang :D
+
+* * *
+
 There are three kinds of lies: Lies, damned lies, and benchmarks.
 
 ***
