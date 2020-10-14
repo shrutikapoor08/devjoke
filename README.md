@@ -714,6 +714,11 @@ Programmer- Let me introduce you to "DEBUGGING"💻⚠
 
 ***
 
+![Hello World Using C](./images/hello_world_using_c.png)
+
+
+***
+
 ![Assembly](./images/assembly_pointers.png)
 
 ***
