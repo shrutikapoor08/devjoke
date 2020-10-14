@@ -4,6 +4,12 @@
 
 * * *
 
+Question: How do you know if someone uses Linux?
+
+Answer: Don't worry, they'll tell you.
+
+* * *
+
 Best pickup line for a JS dev ?
 
 - Be the promise to my callback ❤️.
