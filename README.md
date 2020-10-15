@@ -1157,3 +1157,8 @@ In order to understand recursion, one must first understand recursion.
 
 ***
 
+Q: Why do programmers confuse Halloween with Christmas?
+A: Because OCT 31 = DEC 25
+(Octal 31 = Decimal 25)
+
+***
