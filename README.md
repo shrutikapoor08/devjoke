@@ -2,7 +2,7 @@
 
 #### Send me a PR if you know a good Dev Joke.
 
-***
+* * *
 
 There are two types of People{
 
