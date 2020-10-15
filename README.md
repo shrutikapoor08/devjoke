@@ -3,6 +3,19 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+
+Best pickup line for a JS dev ?
+
+- Be the promise to my callback ❤️.
+
+***
+📄 Documentation is like sex.
+
+When it's good, it's very good.
+When it's bad, it's better than nothing. 🤷
+
+***
+
 99 year old man dying
 
 man: Oh! God, Save Me!!
@@ -1131,8 +1144,23 @@ A: Because they are afraid of waterfall.
 
 * * *
 
+
 #### What do houses and Microsoft Windows have in common?
 Answer: Bugs come in through open windows.
 
+***
+In order to understand recursion, one must first understand recursion.
 
+***
+![DEVExcuses](./images/96159609_699388344131798_2782988831844990976_o.jpg)
+
+***
+![Frontend_Backend](./images/j55.jpg)
+
+***
+![DeveloperLife](./images/j11.jpg)
+
+***
+
+***If you didn't understand recursion, read this statement again.***
 
