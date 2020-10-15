@@ -1144,6 +1144,10 @@ A: Because they are afraid of waterfall.
 
 * * *
 
+![HelloWorldStruggle](./images/helloworldstruggle.jpg)
+
+* * *
+
 In order to understand recursion, one must first understand recursion.
 
 ***
@@ -1156,4 +1160,3 @@ In order to understand recursion, one must first understand recursion.
 ![DeveloperLife](./images/j11.jpg)
 
 ***
-
