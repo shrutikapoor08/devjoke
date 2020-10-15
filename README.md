@@ -2,6 +2,13 @@
 
 #### Send me a PR if you know a good Dev Joke.
 
+***
+
+There are two types of People{
+
+and those who
+{
+
 * * *
 
 Best pickup line for a JS dev ?
@@ -1145,4 +1152,5 @@ A: Because they are afraid of waterfall.
 * * *
 
 In order to understand recursion, one must first understand recursion.
+
 
