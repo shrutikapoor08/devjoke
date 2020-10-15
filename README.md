@@ -1149,3 +1149,14 @@ A: Because they are afraid of waterfall.
 * * *
 
 In order to understand recursion, one must first understand recursion.
+
+***
+![DEVExcuses](./images/96159609_699388344131798_2782988831844990976_o.jpg)
+
+***
+![Frontend_Backend](./images/j55.jpg)
+
+***
+![DeveloperLife](./images/j11.jpg)
+
+***
