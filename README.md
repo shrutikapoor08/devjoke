@@ -17,8 +17,20 @@ Answer: Don't worry, they'll tell you.
 Best pickup line for a JS dev ?
 
 - Be the promise to my callback ❤️.
+***
+- A QA engineer walks into a bar.
+  Orders a beer. Orders 0 beers.
+  Orders 99999999999 beers.
+  Orders a Iizard. Orders -1 beers.
+  Orders a ueicbksjdhd.
+
+- First real customer walks in
+  and asks where the bathroom
+  is. The bar bursts into flames,
+  killing everyone.
 
 ***
+
 📄 Documentation is like sex.
 
 When it's good, it's very good.
