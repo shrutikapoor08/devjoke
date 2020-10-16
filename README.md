@@ -2,7 +2,9 @@
 
 #### Send me a PR if you know a good Dev Joke.
 
-* * *
+![Meaningful Messages](./images/meaningful_commits.png)
+
+***
 
 There are two types of People{
 
