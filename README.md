@@ -1171,3 +1171,25 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
+***
+Q: Tell me object-oriented approach to become wealthy.
+A: Inheritance.
+
+***
+Why do programmers always mix up Halloween and Christmas?
+Because Oct 31 equals Dec 25.
+
+***
+I have a joke on python but let me intend it first.
+
+***
+An optimist says: “the glass is half full.”
+
+A pessimist says: “the glass is half empty.”
+
+A programmer says: “the glass is twice as large as necessary.”
+
+***
+
+
+
