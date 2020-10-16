@@ -723,6 +723,13 @@ Non-Programmer - You can't keep doing the same thing and expect different result
 Programmer- Let me introduce you to "DEBUGGING"💻⚠
 
 ***
+This is an infinite loop joke, programmer’s life revolves around
+- I can’t fix this
+- Crisis of confidence
+- Questions career
+- Questions life
+- Oh it was a typo
+***
 
 ![Assembly](./images/assembly_pointers.png)
 
