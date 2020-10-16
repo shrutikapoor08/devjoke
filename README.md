@@ -98,6 +98,13 @@ He keeps dropping the database
 
 ***
 
+#### Question - Why couldn't the Vue component understand the joke? 
+
+
+It didn't get the context. 
+
+***
+
 #### Question - How did the html get drunk?
 
 It had too many `<br/>`
