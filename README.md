@@ -3,6 +3,11 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+What is the problem with git jokes?
+
+Everyone has their own version!
+
+* * *
 
 There are two types of People{
 
