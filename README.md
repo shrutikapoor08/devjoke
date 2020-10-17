@@ -3,6 +3,11 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+Problem: Compile raised 128 errors after modify the code.
+
+Solution: ctrl+z
+
+* * *
 
 There are two types of People{
 
@@ -1170,4 +1175,5 @@ One thing I know is that a computer science major didn't name the original pokem
 Otherwise, charmander would evolve into stringmander.
 
 ***
-
+***
+![Programming Joke](./images/programmingjoke8.png)
