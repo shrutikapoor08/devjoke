@@ -2,6 +2,10 @@
 
 #### Send me a PR if you know a good Dev Joke.
 * * *
+Question: In which direction will java programmer point?
+
+Answser: Nowhere because java doesn't have pointers?
+* * *
 Programmer Dad: Son can you count to 10?
 
 Son: 1,2,3...
