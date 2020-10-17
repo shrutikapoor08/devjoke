@@ -3,6 +3,11 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+I would tell you a joke about programming...
+
+But it only works on my machine
+
+* * *
 What is the problem with git jokes?
 
 Everyone has their own version!
