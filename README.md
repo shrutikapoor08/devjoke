@@ -1171,3 +1171,9 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
+Q: What do computers eat for a snack?
+A: Microchips!
+
+***
+
+
