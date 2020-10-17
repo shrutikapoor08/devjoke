@@ -4,6 +4,11 @@
 
 * * *
 
+I took a programming class in high school
+I got a C++
+
+* * *
+
 There are two types of People{
 
 and those who
