@@ -1170,4 +1170,5 @@ One thing I know is that a computer science major didn't name the original pokem
 Otherwise, charmander would evolve into stringmander.
 
 ***
-
+![StartupMotivation](./images/startup-motivation.jpg)
+***
