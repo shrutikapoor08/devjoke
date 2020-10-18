@@ -1,6 +1,9 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+* * *
+why do programmers prefer dark mode?
+ans-cause light attracts bugs.
 
 * * *
 
