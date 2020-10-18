@@ -1175,3 +1175,9 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
+***
+
+#### Question - How did the programmer die in the shower?
+Answer: He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+
+***
