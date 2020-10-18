@@ -2,6 +2,10 @@
 
 #### Send me a PR if you know a good Dev Joke.
 * * *
+there are 10 types of people:
+1.those who know binary codes.
+2.those who don't know binary codes
+* * *
 why do programmers prefer dark mode?
 ans-cause light attracts bugs.
 
