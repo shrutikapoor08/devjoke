@@ -1174,4 +1174,6 @@ One thing I know is that a computer science major didn't name the original pokem
 Otherwise, charmander would evolve into stringmander.
 
 ***
+Code is like humor. When you have to explain it, it’s bad.
 
+***
