@@ -1175,3 +1175,8 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
+What do cupboards and Java have in common?
+
+Jars.
+
+***
