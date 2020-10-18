@@ -69,6 +69,8 @@ The programmer to his son: "Here, I brought you a new basketball."
 * * *
 I've been using VIM since about 5 years because I never find out how to quit.
 
+* * *
+
 If an EXE file says:
 "This program requires Windows XP or better..."
 Does that mean that it'll run linux..? :)
