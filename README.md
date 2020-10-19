@@ -4,6 +4,11 @@
 
 * * *
 
+![LITTLE BOBBY](./images/little-bobby.jpg)
+
+***
+
+
 There are two types of People{
 
 and those who
