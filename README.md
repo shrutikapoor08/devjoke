@@ -1175,6 +1175,6 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 **Python Pro** : _The easiest language to learn, no braces, no mains, no boilerplate codes._
-**Python Noob** : _Gets indentation errors on adding extra spacing!_
+**Python Noob** : _Gets indentation errors on adding extra spacing!_</br>
 ![python joke](https://i.imgur.com/LKYCGfX.jpg)
 ***
