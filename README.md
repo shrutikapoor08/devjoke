@@ -1175,3 +1175,10 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
+"12 years old me" :-
+Going through my parents smartphone settings...
+
+My feelings those days :-
+"I am in Main frame now"
+
+***
