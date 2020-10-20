@@ -1190,6 +1190,6 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
-![Ctrl_Everything](./images/ctrl_everything.jpeg)
+![Ctrl_Everything](./images/ctrl_everything.jpg)
 
 ***
