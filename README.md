@@ -1188,3 +1188,8 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
+Q: Why did the C# developer fall asleep?
+
+A: Because they didn't like Java.
+
+***
