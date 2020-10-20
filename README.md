@@ -1188,3 +1188,10 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
+***
+
+What is JSON?  
+JavaScript on Narcotics
+
+***
+
