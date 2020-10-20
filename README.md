@@ -4,6 +4,12 @@
 
 * * *
 
+Question: What we will say in a single word - if we bury a computer-aided design?
+
+Answer: Cadbury.
+
+* * *
+
 There are two types of People{
 
 and those who
