@@ -3,6 +3,15 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+Married life of a developer
+
+```
+#wife {
+    right: 100%;
+    margin: 0;
+}
+```
+* * *
 
 There are two types of People{
 
