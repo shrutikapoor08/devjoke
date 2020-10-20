@@ -14,6 +14,12 @@ Answer: Don't worry, they'll tell you.
 
 * * *
 
+#### Question - Do you want to pet a snake?
+
+Sure, if it's a Python
+
+* * *
+
 Best pickup line for a JS dev ?
 
 - Be the promise to my callback ❤️.
