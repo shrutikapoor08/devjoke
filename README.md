@@ -63,6 +63,13 @@ Technical Debt
 
 * * *
 
+A logician's wife is having a baby.
+The doctor immediately hands the newborn to the dad.
+The wife asks impatiently "Is it a boy or a girl?"
+The logician replies "Yes."
+
+* * *
+
 The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
 
