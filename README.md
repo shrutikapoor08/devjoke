@@ -3,6 +3,11 @@
 #### Send me a PR if you know a good Dev Joke.
 
 * * *
+Question: Why Apple can't see nature?
+
+Answer: Because it doesn't have windows!
+
+* * *
 
 There are two types of People{
 
