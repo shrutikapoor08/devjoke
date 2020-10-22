@@ -1188,3 +1188,7 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
+Son : Dad, I feel like i am a programmer now.
+Father : Talk is cheep, Show me the code.
+
+***
