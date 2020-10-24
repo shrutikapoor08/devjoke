@@ -1192,3 +1192,8 @@ Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheep, Show me the code.
 
 ***
+
+***
+![Fix Me](./images/fix-me.png)
+
+***
