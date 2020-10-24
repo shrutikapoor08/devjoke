@@ -1192,3 +1192,7 @@ Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheep, Show me the code.
 
 ***
+
+![chickens-vs-t-rex](./images/chicken-t-rex.jpg)
+
+***
