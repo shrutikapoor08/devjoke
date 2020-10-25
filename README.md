@@ -44,6 +44,12 @@ God: Ok, JPG or JPEG?
 
 * * *
 
+Wife: Honey! Can't open the jar.
+
+*Me: Download and install Java.
+
+* * *
+
 Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
 
 * * *
