@@ -1158,6 +1158,10 @@ Answer: Because every deploy has "ploy" in it.
 
 ***
 
+![Software Development Meme](https://i.imgur.com/yA8LwHY.png)
+
+
+
 #### What did the Java code say to the C code?
 
 Answer: You've got no class.
@@ -1202,6 +1206,6 @@ Otherwise, charmander would evolve into stringmander.
 ***
 
 Son : Dad, I feel like i am a programmer now.
-Father : Talk is cheep, Show me the code.
+Father : Talk is cheap, Show me the code.
 
 ***
