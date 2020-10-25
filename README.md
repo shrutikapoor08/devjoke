@@ -6,6 +6,21 @@ I have a joke about stackoverflow but you will say it's duplicated
 
 #### Send me a PR if you know a good Dev Joke.
 
+
+* * *
+
+Q: What is Hardware?
+A: The part of the computer which you can kick.😁
+
+* * *
+
+* * *
+
+Q: Who is a programmer?
+A: A programmer is a machine who turns coffee into code.😂
+
+* * *
+
 * * *
 First rule of programming : If it works DON'T touch it.
 
