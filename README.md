@@ -63,11 +63,22 @@ Technical Debt
 
 * * *
 
+A logician's wife is having a baby.
+The doctor immediately hands the newborn to the dad.
+The wife asks impatiently "Is it a boy or a girl?"
+The logician replies "Yes."
+
+* * *
+
 The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
 
 * * *
 I've been using VIM since about 5 years because I never find out how to quit.
+
+If an EXE file says:
+"This program requires Windows XP or better..."
+Does that mean that it'll run linux..? :)
 
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
@@ -729,6 +740,12 @@ Programmer- Let me introduce you to "DEBUGGING"💻⚠
 ***
 
 
+![new_painitingai](https://user-images.githubusercontent.com/72219783/94889728-d0d49700-049a-11eb-85f1-40ddd7d76c6d.jpg)
+
+
+* * *
+
+
 ![titanic](./images/titanic-float-none.png)
 
 * * *
@@ -1170,6 +1187,10 @@ One thing I know is that a computer science major didn't name the original pokem
 Otherwise, charmander would evolve into stringmander.
 
 ***
-![Howto_Google](./images/howtogoogle.jpg)
 
+Son : Dad, I feel like i am a programmer now.
+Father : Talk is cheep, Show me the code.
+
+***
+![Howto_Google](./images/howtogoogle.jpg)
 ***
