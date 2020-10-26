@@ -243,3 +243,7 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ![debugging](./images/Debugging.jpg)
 
 ***
+
+#### There are 10 kinds of people in this world, those who understand binary, and those who don’t.
+
+***
