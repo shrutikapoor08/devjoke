@@ -6,6 +6,43 @@ I have a joke about stackoverflow but you will say it's duplicated
 
 #### Send me a PR if you know a good Dev Joke.
 
+* * *
+
+You could say programming is my first language.
+English is my lang zero = lang[0];
+
+* * *
+
+Why did the bad programmer run away from git?
+Because he's afraid of committing.
+
+* * *
+
+You could say programming is my first language.
+English is my lang zero = lang[0];
+
+* * *
+
+* * *
+
+Q: Why Linux users always code in the dark ?
+A: Because they don't have windows.
+
+* * *
+
+* * *
+
+Q: Why do Python programmers need glasses?
+A: Because they can't C#.
+
+* * *
+
+* * *
+
+True != False
+It's funny coz it's true; ain't that some bool shit
+
+* * *
 
 * * *
 
