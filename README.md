@@ -6,12 +6,6 @@ I have a joke about stackoverflow but you will say it's duplicated
 
 #### Send me a PR if you know a good Dev Joke.
 
-* * *
-
-Q: What did the HTML say to the CSS?
-A: I like your style!
-
-* * *
 
 * * *
 
@@ -778,6 +772,13 @@ Non-Programmer - You can't keep doing the same thing and expect different result
 Programmer- Let me introduce you to "DEBUGGING"💻⚠
 
 ***
+
+* * *
+
+Q: What did the HTML say to the CSS?
+A: I like your style! 
+
+* * *
 
 ![Assembly](./images/assembly_pointers.png)
 
