@@ -1234,3 +1234,9 @@ Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
 
 ***
+
+***
+Q: What do you call a busy waiter?
+
+A: A server.
+***
