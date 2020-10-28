@@ -6,6 +6,12 @@ I have a joke about stackoverflow but you will say it's duplicated
 
 #### Send me a PR if you know a good Dev Joke.
 
+* * *
+
+Q: What did the HTML say to the CSS?
+A: I like your style!
+
+* * *
 
 * * *
 
