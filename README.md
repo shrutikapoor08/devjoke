@@ -737,3 +737,15 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+
+***
+Confidence Level of a Programmer
+
+I can’t fix this
+Crisis of confidence
+Questions career
+Questions life
+Oh it was a type
+
+***
+
