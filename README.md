@@ -970,3 +970,14 @@ Answer: An algo-rhythm
 ***
 To replace programmers with robots, clients will have to accurately describe what they want.
 We are safe.
+
+***
+Coder1: How's it going?
+
+Coder2: Terrible. I've been working on this thing for two days and don't know what's wrong. 
+First it does this, then it does that, and then it..... um.... oh... ok... I know what it is. 
+Hey, thanks for your help.
+
+Coder1: No problem.
+
+***
