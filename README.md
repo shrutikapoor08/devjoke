@@ -1234,3 +1234,11 @@ Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
 
 ***
+
+An Optimist Says: "The Glass is Half Full"
+
+A Pessimist Says: "The Glass is Half-Empty"
+
+A Programmer Says: "The Glass is Twice as Large as necessary"
+
+***
