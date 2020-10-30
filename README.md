@@ -6,9 +6,11 @@ I have a joke about stackoverflow but you will say it's duplicated
 
 #### Send me a PR if you know a good Dev Joke.
 
-I'd like to make the world a better place, but they won't give me the source code. 🤣
+![Coder life](./images/programmerlife.jpg)
 
 ---
+
+I'd like to make the world a better place, but they won't give me the source code. 🤣
 
 ---
 
