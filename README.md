@@ -777,6 +777,10 @@ Programmer- Let me introduce you to "DEBUGGING"💻⚠
 
 ***
 
+![Debugging Program](./debug_program.jpg)
+
+***
+
 
 ![new_painitingai](https://user-images.githubusercontent.com/72219783/94889728-d0d49700-049a-11eb-85f1-40ddd7d76c6d.jpg)
 
