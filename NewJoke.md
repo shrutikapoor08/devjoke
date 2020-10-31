@@ -1,3 +1,5 @@
+To understand what recursion is, you must first understand recursion.
+---------------------------------- 
 C++ : Where friends have access to your private members.  
       - Gavin Baker 
 ---------------------------------- 
