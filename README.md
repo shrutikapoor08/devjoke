@@ -772,6 +772,11 @@ Non-Programmer - You can't keep doing the same thing and expect different result
 Programmer- Let me introduce you to "DEBUGGING"💻⚠
 
 ***
+Don't cry [#javascript](https://twitter.com/hashtag/javascript?src=hashtag_click) 😂
+![Javascrtipt](./images/js-weed.jpg)
+ReTweet [Link](https://twitter.com/roboarjun/status/1243536970460139523)
+
+***
 
 ![Assembly](./images/assembly_pointers.png)
 
