@@ -1240,3 +1240,9 @@ Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
 
 ***
+
+How many of you have had something go terribly wrong in git?
+Yeah, I believe there's a term for that:
+"Git happens!"
+
+***
