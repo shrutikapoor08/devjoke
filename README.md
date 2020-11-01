@@ -1212,6 +1212,8 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+Girl: What is your idea of perfect date?
+Boy: DD/MM/YYYY because other formats can be confusing 
 
 In order to understand recursion, one must first understand recursion.
 
