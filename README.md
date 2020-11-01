@@ -1235,6 +1235,9 @@ One thing I know is that a computer science major didn't name the original pokem
 Otherwise, charmander would evolve into stringmander.
 
 ***
+![Memory](./images/memory.jpg)
+
+***
 
 Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
