@@ -1,11 +1,14 @@
 # Dev Joke
 
+## Send me a PR if you know a good Dev Joke.
+
+* * *
+
+Wake me up when there's a software called "Android Studio Lite"
+
+* * * 
+
 I have a joke about stackoverflow but you will say it's duplicated
-
-***
-
-#### Send me a PR if you know a good Dev Joke.
-
 
 * * *
 
