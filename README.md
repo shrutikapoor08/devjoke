@@ -1184,6 +1184,10 @@ A: Because they are afraid of waterfall.
 
 * * *
 
+![HacktoberScam](./images/HacktoberScam.jpg)
+
+* * *
+
 Me: Alexa, I would like to hear a TCP joke.
 
 Alexa: Hi, would you like to hear a TCP joke?
