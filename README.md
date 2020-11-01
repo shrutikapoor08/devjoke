@@ -1240,3 +1240,15 @@ Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
 
 ***
+
+***
+Confidence Level of a Programmer
+
+I can’t fix this
+Crisis of confidence
+Questions career
+Questions life
+Oh it was a type
+
+***
+
