@@ -2,16 +2,17 @@
 #### Send me a PR if you know a good Dev Joke.
 
 
+
 * * *
 
 Q: What is Hardware?
-A: The part of the computer which you can kick.😁
+A: The part of the computer which you can kick.
 
 
 * * *
 
 Q: Who is a programmer?
-A: A programmer is a machine who turns coffee into code.😂
+A: A programmer is a machine who turns coffee into code.
 
 
 * * *
@@ -1243,6 +1244,9 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
+![Meaningful Messages](./images/meaningful_commits.png)
+
+***
 Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
 
