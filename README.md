@@ -1240,3 +1240,7 @@ Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
 
 ***
+
+Copying from one source is called copying... But copying from many sources is called RESEARCH. :]
+
+***

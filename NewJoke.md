@@ -15,3 +15,5 @@ B: reference to who?
 A: Segmentation fault 
 --------------------------------- 
 C++ and Python walks into a bar, C++ reuses first glass
+--------------------------------- 
+Copying from one source is called copying... But copying from many sources is called RESEARCH. :]
