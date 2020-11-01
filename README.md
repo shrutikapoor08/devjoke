@@ -1,5 +1,11 @@
 # Dev Joke
 
+***
+
+Question: What's the object oriented way to become wealthy? Answer: Inheritance
+
+***
+
 I have a joke about stackoverflow but you will say it's duplicated
 
 ***
