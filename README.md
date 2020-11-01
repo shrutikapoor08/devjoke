@@ -1115,7 +1115,7 @@ Ubuntu users are apt to get this joke
 
 ***
 
-#### What do you call a programmer from Finland? 
+#### What do you call a programmer from Finland?
 Answer: Nerdic
 ***
 
@@ -1238,5 +1238,8 @@ Otherwise, charmander would evolve into stringmander.
 
 Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
+
+***
+![TalkAboutIt](./images/talkaboutit.jpg)
 
 ***
