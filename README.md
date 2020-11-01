@@ -1,5 +1,13 @@
 # Dev Joke
 
+I have a joke about redux but actions speak louder than words.
+
+***
+
+I have few jokes on TypeScript but I haven't used any.
+
+***
+
 I have a joke about stackoverflow but you will say it's duplicated
 
 ***
