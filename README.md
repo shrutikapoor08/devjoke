@@ -1233,4 +1233,10 @@ Otherwise, charmander would evolve into stringmander.
 Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
 
-***
+* * *
+
+#### Question - What is a ghost's favorite data type?
+
+Boo-lean!
+
+* * *
