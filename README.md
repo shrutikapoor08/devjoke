@@ -1,8 +1,53 @@
 # Dev Joke
 
+I have a joke about stackoverflow but you will say it's duplicated
+
+***
+
 #### Send me a PR if you know a good Dev Joke.
 
+
 * * *
+
+Q: What is Hardware?
+A: The part of the computer which you can kick.😁
+
+* * *
+
+* * *
+
+Q: Who is a programmer?
+A: A programmer is a machine who turns coffee into code.😂
+
+* * *
+
+* * *
+First rule of programming : If it works DON'T touch it.
+
+* * *
+
+There are two types of People{
+
+and those who
+{
+Question: How do you know if someone uses Linux?
+
+Answer: Don't worry, they'll tell you.
+
+* * *
+
+Best pickup line for a JS dev ?
+
+- Be the promise to my callback ❤️.
+
+***
+📄 Documentation is like sex.
+
+When it's good, it's very good.
+When it's bad, it's better than nothing. 🤷
+
+***
+
 99 year old man dying
 
 man: Oh! God, Save Me!!
@@ -11,6 +56,12 @@ God: Ok, JPG or JPEG?
 ***
 "Only my friends get to touch my private parts."
 -C++
+
+* * *
+
+Wife: Honey! Can't open the jar.
+
+*Me: Download and install Java.
 
 * * *
 
@@ -40,11 +91,32 @@ Technical Debt
 
 * * *
 
+A logician's wife is having a baby.
+The doctor immediately hands the newborn to the dad.
+The wife asks impatiently "Is it a boy or a girl?"
+The logician replies "Yes."
+
+* * *
+
 The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
 
 * * *
+Once all programming languages went to a party.
+Guess who paid the bill?
+Of course, PHP.
+Beacause PHP has many $.
+
+* * *
+A fool can write a code that a computer can understand.
+Good programmers write code that they also don't understand after few days.
+
+* * *
 I've been using VIM since about 5 years because I never find out how to quit.
+
+If an EXE file says:
+"This program requires Windows XP or better..."
+Does that mean that it'll run linux..? :)
 
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
@@ -706,6 +778,12 @@ Programmer- Let me introduce you to "DEBUGGING"💻⚠
 ***
 
 
+![new_painitingai](https://user-images.githubusercontent.com/72219783/94889728-d0d49700-049a-11eb-85f1-40ddd7d76c6d.jpg)
+
+
+* * *
+
+
 ![titanic](./images/titanic-float-none.png)
 
 * * *
@@ -1105,6 +1183,10 @@ Answer: Because every deploy has "ploy" in it.
 
 ***
 
+![Software Development Meme](https://i.imgur.com/yA8LwHY.png)
+
+
+
 #### What did the Java code say to the C code?
 
 Answer: You've got no class.
@@ -1132,3 +1214,25 @@ A: Because they are afraid of waterfall.
 * * *
 Girl: What is your idea of perfect date?
 Boy: DD/MM/YYYY because other formats can be confusing 
+
+In order to understand recursion, one must first understand recursion.
+
+***
+![DEVExcuses](./images/96159609_699388344131798_2782988831844990976_o.jpg)
+
+***
+![Frontend_Backend](./images/j55.jpg)
+
+***
+![DeveloperLife](./images/j11.jpg)
+
+***
+One thing I know is that a computer science major didn't name the original pokemon.
+Otherwise, charmander would evolve into stringmander.
+
+***
+
+Son : Dad, I feel like i am a programmer now.
+Father : Talk is cheap, Show me the code.
+
+***
