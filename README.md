@@ -6,6 +6,10 @@ I have a joke about stackoverflow but you will say it's duplicated
 
 #### Send me a PR if you know a good Dev Joke.
 
+*** 
+
+Q: How many programmers does it take to change a lightbulb?
+A: none, its a hardware problem 
 
 * * *
 
