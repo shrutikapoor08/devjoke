@@ -18,6 +18,10 @@ A: A programmer is a machine who turns coffee into code.😂
 First rule of programming : If it works DON'T touch it.
 
 * * *
+Question: Why NodeJs developer need Helmet?
+
+Answer: To Secure Headers.
+* * *
 
 
 I have a joke about stackoverflow but you will say it's duplicated
