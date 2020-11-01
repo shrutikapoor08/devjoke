@@ -1,9 +1,4 @@
 # Dev Joke
-
-I have a joke about stackoverflow but you will say it's duplicated
-
-***
-
 #### Send me a PR if you know a good Dev Joke.
 
 
@@ -12,19 +7,22 @@ I have a joke about stackoverflow but you will say it's duplicated
 Q: What is Hardware?
 A: The part of the computer which you can kick.😁
 
-* * *
 
 * * *
 
 Q: Who is a programmer?
 A: A programmer is a machine who turns coffee into code.😂
 
-* * *
 
 * * *
 First rule of programming : If it works DON'T touch it.
 
 * * *
+
+
+I have a joke about stackoverflow but you will say it's duplicated
+
+***
 
 There are two types of People{
 
@@ -1183,6 +1181,9 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+![Documentation](./images/writing_documentation_todo.png)
+
+***
 
 ![HacktoberScam](./images/HacktoberScam.jpg)
 
