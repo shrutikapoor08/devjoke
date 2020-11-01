@@ -1240,3 +1240,9 @@ Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
 
 ***
+***
+Q: Relationship status?
+
+A: I'll leave the relations to the database.
+***
+
