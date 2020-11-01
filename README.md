@@ -1240,3 +1240,9 @@ Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
 
 ***
+
+Algorithm (noun):
+Word used by programmers when...
+they do not want to explain what they actually did
+
+***
