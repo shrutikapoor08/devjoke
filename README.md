@@ -1,6 +1,13 @@
 # Dev Joke
-
 #### Send me a PR if you know a good Dev Joke.
+
+
+
+* * *
+
+Q: What is Hardware?
+A: The part of the computer which you can kick.
+
 
 * * *
 
@@ -8,6 +15,34 @@ I took a programming class in high school
 I got a C++
 
 * * *
+
+Q: Who is a programmer?
+A: A programmer is a machine who turns coffee into code.
+
+
+* * *
+First rule of programming : If it works DON'T touch it.
+
+* * *
+I would tell you a joke about programming...
+
+But it only works on my machine
+
+* * *
+What is the problem with git jokes?
+
+Everyone has their own version!
+
+* * *
+Question: Why NodeJs developer need Helmet?
+
+Answer: To Secure Headers.
+* * *
+
+
+I have a joke about stackoverflow but you will say it's duplicated
+
+***
 
 There are two types of People{
 
@@ -22,6 +57,23 @@ Answer: Don't worry, they'll tell you.
 Best pickup line for a JS dev ?
 
 - Be the promise to my callback ❤️.
+***
+- A QA engineer walks into a bar.
+  Orders a beer. Orders 0 beers.
+  Orders 99999999999 beers.
+  Orders a Iizard. Orders -1 beers.
+  Orders a ueicbksjdhd.
+
+- First real customer walks in
+  and asks where the bathroom
+  is. The bar bursts into flames,
+  killing everyone.
+
+***
+
+New programmer : It realy worked at first time.👍
+
+Experienced programmer : It realy worked at first time??🤔
 
 ***
 📄 Documentation is like sex.
@@ -39,6 +91,12 @@ God: Ok, JPG or JPEG?
 ***
 "Only my friends get to touch my private parts."
 -C++
+
+* * *
+
+Wife: Honey! Can't open the jar.
+
+*Me: Download and install Java.
 
 * * *
 
@@ -67,12 +125,36 @@ Data scientists should be charged with animal trafficking and animal abuse becau
 Technical Debt
 
 * * *
+![Confidence level of a Programmer](./images/confidenceJoke.jpeg)
+* * *
+
+
+A logician's wife is having a baby.
+The doctor immediately hands the newborn to the dad.
+The wife asks impatiently "Is it a boy or a girl?"
+The logician replies "Yes."
+
+* * *
 
 The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
 
 * * *
+Once all programming languages went to a party.
+Guess who paid the bill?
+Of course, PHP.
+Beacause PHP has many $.
+
+* * *
+A fool can write a code that a computer can understand.
+Good programmers write code that they also don't understand after few days.
+
+* * *
 I've been using VIM since about 5 years because I never find out how to quit.
+
+If an EXE file says:
+"This program requires Windows XP or better..."
+Does that mean that it'll run linux..? :)
 
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
@@ -734,6 +816,12 @@ Programmer- Let me introduce you to "DEBUGGING"💻⚠
 ***
 
 
+![new_painitingai](https://user-images.githubusercontent.com/72219783/94889728-d0d49700-049a-11eb-85f1-40ddd7d76c6d.jpg)
+
+
+* * *
+
+
 ![titanic](./images/titanic-float-none.png)
 
 * * *
@@ -959,34 +1047,11 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 ***
 
-![titanic](./images/titanic-float-none.png)
-
-***
-
-![GoTo Hell](./images/new_hell.jpg)
-
-***
-
-![runtimeError](./images/runtimeError.jpg)
-
-
-***
-
-![semicolon](./images/joke-semi-colon.jpg)
-***
-
 ![land-hover](./images/land-hover.jpg)
-
-***
-![betterThanSex](images/better-than-sex.jpg)
 
 * * *
 
 ![intkaam](./images/intkaam.jpeg)
-
-* * *
-
-![async](./images/async.png)
 
 * * *
 
@@ -1090,12 +1155,6 @@ An Algorithm a day, Keeps a mass recruiter away.
 
 ***
 
-![programmer-joke](./images/programmer-joke.jpg)
-
-***
-
-
-
 ![gmail-check](./images/gmail-check.png)
 
 ***
@@ -1133,6 +1192,10 @@ Answer: Because every deploy has "ploy" in it.
 
 ***
 
+![Software Development Meme](https://i.imgur.com/yA8LwHY.png)
+
+
+
 #### What did the Java code say to the C code?
 
 Answer: You've got no class.
@@ -1158,6 +1221,34 @@ Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
 * * *
+![Documentation](./images/writing_documentation_todo.png)
+
+***
+
+![HacktoberScam](./images/HacktoberScam.jpg)
+
+* * *
+
+Me: Alexa, I would like to hear a TCP joke.
+
+Alexa: Hi, would you like to hear a TCP joke?
+
+Me: Yes, I would like to hear a TCP joke.
+
+Alexa: I'm about to tell you a TCP joke. It will last 10 seconds. It has a beginning and a solid punchline in the end.
+
+Me: Ok. Hit it. I'm excited to hear a TCP joke.
+
+Alexa: Sorry, your connection has timed out.
+
+...
+
+Alexa: Hi, would you like to hear a TCP joke? kkkk
+
+***
+
+Girl: What is your idea of perfect date?
+Boy: DD/MM/YYYY because other formats can be confusing 
 
 In order to understand recursion, one must first understand recursion.
 
@@ -1176,3 +1267,18 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
+![StartupMotivation](./images/startup-motivation.jpg)
+***
+![Memory](./images/memory.jpg)
+
+***
+
+![Meaningful Messages](./images/meaningful_commits.png)
+
+***
+Son : Dad, I feel like i am a programmer now.
+Father : Talk is cheap, Show me the code.
+
+***
+![Howto_Google](./images/howtogoogle.jpg)
+***
