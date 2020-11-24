@@ -1,7 +1,9 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+* * *
 
+I have HTTP joke but, if i POST it here then you will not GET it
 
 * * *
 
