@@ -24,6 +24,16 @@ A: A programmer is a machine who turns coffee into code.
 First rule of programming : If it works DON'T touch it.
 
 * * *
+Married life of a developer
+
+```
+#wife {
+    right: 100%;
+    margin: 0;
+}
+```
+* * *
+
 I would tell you a joke about programming...
 
 But it only works on my machine
