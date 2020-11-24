@@ -44,6 +44,11 @@ I have a joke about stackoverflow but you will say it's duplicated
 
 ***
 
+![LITTLE BOBBY](./images/little-bobby.jpg)
+
+***
+
+
 There are two types of People{
 
 and those who
