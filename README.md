@@ -108,6 +108,11 @@ Why do programmers have bad digestion?
 They only have semi-colons
 * * *
 
+1st rule of programming:
+
+**If it works, do not touch it!**
+* * *
+
 Me: Why isn't this working? 🤔
 Normal Language: You screwed up over here. 🧐
 Me: Oh Thanks! 👍
