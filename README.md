@@ -1272,6 +1272,11 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
+What do cupboards and Java have in common?
+
+Jars.
+
+***
 ![StartupMotivation](./images/startup-motivation.jpg)
 ***
 ![Memory](./images/memory.jpg)
