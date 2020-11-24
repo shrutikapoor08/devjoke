@@ -1274,6 +1274,11 @@ Otherwise, charmander would evolve into stringmander.
 
 ***
 
+#### What is a developer's favorite country song?
+
+Answer: Hello World - by Lady Antebellum
+
+***
 What do cupboards and Java have in common?
 
 Jars.
