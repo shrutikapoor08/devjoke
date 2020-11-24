@@ -11,6 +11,11 @@ A: The part of the computer which you can kick.
 
 * * *
 
+I took a programming class in high school
+I got a C++
+
+* * *
+
 Q: Who is a programmer?
 A: A programmer is a machine who turns coffee into code.
 
