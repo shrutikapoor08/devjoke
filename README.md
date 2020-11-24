@@ -1276,6 +1276,10 @@ Otherwise, charmander would evolve into stringmander.
 Code is like humor. When you have to explain it, it’s bad.
 
 ***
+![Debugging](./images/Debug.png)
+
+***
+
 #### What is a developer's favorite country song?
 
 Answer: Hello World - by Lady Antebellum
