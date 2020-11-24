@@ -1,6 +1,10 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+*** 
+
+Q: How many programmers does it take to change a lightbulb?
+A: none, its a hardware problem 
 
 
 * * *
