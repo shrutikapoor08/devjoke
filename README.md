@@ -1,6 +1,16 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+* * *
+
+Friend: I don't like programming.
+
+Me: Why?
+
+Friend: It's not fun.
+
+Me: You'll love Kotlin
+
 
 
 * * *
