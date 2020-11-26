@@ -1,7 +1,9 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+* * *
 
+People say nothing is impossible, but I do nothing everyday.
 
 * * *
 
