@@ -1329,3 +1329,9 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+***
+
+code_quality = number_of_abuse_in_code_review / code_review_time
+
+***
