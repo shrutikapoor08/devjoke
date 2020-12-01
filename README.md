@@ -1329,3 +1329,8 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+***
+the world in another 100 years
+Teacher : can any students decipher the classics unearthed from the Arctic Circle?
+***
