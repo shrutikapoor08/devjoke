@@ -1329,3 +1329,7 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+A programmer war arrested for writing unreadable code. They refused to comment.
+
+***
