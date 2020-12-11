@@ -1329,3 +1329,17 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+***
+
+Boss: Where can we find the best programmers?
+Me: Devlok.
+
+***
+
+***
+
+Wife: Honey, the jar is not opening!
+Husband: Don't worry! Let me Handler it.
+
+***
