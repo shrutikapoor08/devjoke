@@ -1329,3 +1329,8 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+Question: What is your maths grade in final
+Answer: c++
+
+***
+
