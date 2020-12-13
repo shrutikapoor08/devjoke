@@ -1329,3 +1329,7 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+There are 10 types of programmers.
+Those who understands BInary and those who don't
+
+***
