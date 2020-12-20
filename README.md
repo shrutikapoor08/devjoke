@@ -410,6 +410,10 @@ Answer: Because  Oct 31 = Dec 25
 No, they just haven't had a gig yet.
 
 *** 
+### Question - Do you know what is hardware?    
+Answer: The part of a computer that you can kick.
+
+*** 
 
 ### Question - Why dod the software developer go broke?
 He used up all of his cache.
