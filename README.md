@@ -1328,5 +1328,11 @@ Son : Dad, I feel like i am a programmer now.
 Father : Talk is cheap, Show me the code.
 
 ***
+
 ![Howto_Google](./images/howtogoogle.jpg)
+
+***
+que: What is a computer's favorite processing chip?
+Ans: Choco Java Chip
+
 ***
