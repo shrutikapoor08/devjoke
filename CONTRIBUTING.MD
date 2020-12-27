@@ -1,4 +1,3 @@
-*** what for is bat? it's coming from windows...
 # Contribution Guidelines
 Welcome! Thank you for adding a DevJoke. 
 
