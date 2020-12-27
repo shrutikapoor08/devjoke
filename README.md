@@ -1,6 +1,11 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+Q: what for is bat?
+A: it's coming from windows...
+
+* * *
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
