@@ -1,7 +1,7 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
-Q: what for is bat?
+Q: what from is bat?
 A: it's coming from windows...
 
 * * *
