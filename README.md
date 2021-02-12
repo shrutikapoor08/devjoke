@@ -4,6 +4,13 @@
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
+
+* * *
+
+And the bartender says, "Success, but you're not ready!"
+
+So a JavaScript function walks into a bar.
+
 * * *
 
 Q: What is Hardware?
