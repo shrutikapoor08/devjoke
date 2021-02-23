@@ -1,6 +1,8 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+![lolol](./images/lolol.jpg)
+* * *
 Q: what from is bat?
 A: it's coming from windows...
 
