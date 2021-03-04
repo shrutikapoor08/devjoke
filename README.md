@@ -3,7 +3,7 @@
 
 
 * * *
-Q: what from is bat?
+Q: Where does bat come from?
 A: it's coming from windows...
 
 * * *
