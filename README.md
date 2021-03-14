@@ -1337,3 +1337,7 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+#### There are 10 kinds of people in this world, those who understand binary, and those who don’t.
+
+***
