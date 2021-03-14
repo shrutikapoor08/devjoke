@@ -1,6 +1,13 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+
+* * *
+Q: Where does bat come from?
+A: it's coming from windows...
+
+* * *
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
@@ -1336,4 +1343,7 @@ Father : Talk is cheap, Show me the code.
 
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
+***
+ 
+![lolol](./images/lolol.jpg)
 ***
