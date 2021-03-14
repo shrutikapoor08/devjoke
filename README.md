@@ -136,6 +136,10 @@ They only have semi-colons
 **If it works, do not touch it!**
 * * *
 
+My biggest fear is that I'll one day run into a problem that hasn't been solved on StackOverflow and I'll have to restart my project with a different technology.
+
+* * *
+
 Me: Why isn't this working? 🤔
 Normal Language: You screwed up over here. 🧐
 Me: Oh Thanks! 👍
