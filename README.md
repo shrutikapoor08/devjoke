@@ -6,6 +6,11 @@ A: By calling the Constructor();
 
 
 * * *
+Question: Why Apple can't see nature?
+
+Answer: Because it doesn't have windows!
+
+* * *
 
 And the bartender says, "Success, but you're not ready!"
 
