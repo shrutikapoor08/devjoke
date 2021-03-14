@@ -150,6 +150,13 @@ Data scientists should be charged with animal trafficking and animal abuse becau
 * * *
 #### Question - What do programmers inherit?
 
+Buy the cloth
+
+* * *
+seller: what color clothes do you want to buy?
+dev: #00b386
+* * *
+
 Technical Debt
 
 * * *
