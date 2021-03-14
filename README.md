@@ -148,6 +148,11 @@ JavaScript: SHHHHHH! 🤫
 Data scientists should be charged with animal trafficking and animal abuse because they import pandas and feed them to python.
 
 * * *
+
+Everyone: "Doing the same thing over and over again and expecting a different result is the definition of stupidity!"
+Machine learners: 😐😐😐
+
+* * *
 #### Question - What do programmers inherit?
 
 Technical Debt
