@@ -782,6 +782,25 @@ If you have to explain it,It's not that good 😃 😀 😄
 
 * * *
 
+***
+
+
+Manager: Hey you guys, tell me what you do in one line
+Dev1: I have to wear glasses, because I can C#. Hello everyone, I am a Java developer
+Dev2: I promise, I won't let anyone see the skies. I am a cloud developer
+Manager: I will not code a line, but make sure that I make your life miserable
+
+* * *
+
+***
+
+
+I ordered a stool from Amazon.
+Amazon: Those who ordered this stool, also order a) Fan.   b) Rope
+Oh AI, thou art a bitch
+
+* * *
+
 
 Android: where ProgressBars go around in circles and Spinners don’t spin
 
