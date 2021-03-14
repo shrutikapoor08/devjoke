@@ -128,7 +128,7 @@ Sometimes when I'm writing **Javascript** I want to throw up my hands and say "t
 * * *
 Why do programmers have bad digestion?
 
-They only have semi-colons
+They only have semi-colon
 * * *
 
 1st rule of programming:
@@ -644,7 +644,7 @@ Http
 
 * * *
 
-#### Question - Why dod the software developer go broke?
+#### Question - Why did the software developer go broke?
 
 They used up all their cache.
 
