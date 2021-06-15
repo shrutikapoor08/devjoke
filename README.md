@@ -1337,3 +1337,6 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+Q: What happens when you scare a native?
+A: React native!!!
