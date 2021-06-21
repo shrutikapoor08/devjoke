@@ -1337,3 +1337,6 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+Q: Why did SEO cross the road?
+A: Because he wanted to get hit with traffic
