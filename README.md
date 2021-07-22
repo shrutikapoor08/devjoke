@@ -1337,3 +1337,7 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+Me: Declares Variables but doesn't use it.
+My IDE: How dare you! 
+***
