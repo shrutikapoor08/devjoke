@@ -1337,3 +1337,7 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+Hashtags in Instagram are like comments in python,everyone ignores that.
+-by comeless.
+* * *
