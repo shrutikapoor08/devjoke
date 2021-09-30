@@ -1337,3 +1337,8 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+Me: How to become Rich while programming in Java?
+Friend: By Inheritance
+
+***
