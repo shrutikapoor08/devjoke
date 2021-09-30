@@ -1337,3 +1337,8 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+***
+Q - 0 is false and 1 is true, right?
+A - 1
+***
