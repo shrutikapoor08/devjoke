@@ -24,6 +24,11 @@ I got a C++
 
 * * *
 
+Q: How do c++ programmers pay their respects?  
+A: They printf  
+
+* * *
+
 Q: Who is a programmer?
 A: A programmer is a machine who turns coffee into code.
 
