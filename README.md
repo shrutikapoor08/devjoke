@@ -13,6 +13,7 @@ So a JavaScript function walks into a bar.
 
 * * *
 Q: Favourite actor of a JavaScript Developer is?
+
 A: JSON Statham ![LITTLE BOBBY](./images/E12OmzjXoAAzVvh.jpeg)
 
 * * *
