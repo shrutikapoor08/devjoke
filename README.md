@@ -134,6 +134,12 @@ The programmer returns home with 12 loaves of bread.
 
 * * *
 
+Q: What do you call a programmer from Finland?
+
+A: Nerdic
+
+* * *
+
 Conversation between layman and developer
 
 -   layman: Hey! What's your address
