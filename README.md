@@ -1337,3 +1337,8 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+***
+Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
+
+***
