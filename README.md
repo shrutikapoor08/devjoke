@@ -1337,3 +1337,5 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+![Getting Paid Meme](./images/you-guys-are-getting-paid-meme.png)
+***
