@@ -1337,3 +1337,7 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+***
+![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jfif)
+***
