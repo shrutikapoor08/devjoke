@@ -1,7 +1,7 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
-Q: Why are assembly programmers always saoking wet?
+Q: Why are assembly programmers always soaking wet?
 A: Because they work below C level.
 
 * * * 
