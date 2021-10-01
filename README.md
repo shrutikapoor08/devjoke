@@ -1,6 +1,12 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+Q: Favourite actor of a JavaScript Developer is?
+
+A: JSON Statham ![LITTLE BOBBY](./images/E12OmzjXoAAzVvh.jpeg)
+
+* * *
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
@@ -10,11 +16,6 @@ A: By calling the Constructor();
 And the bartender says, "Success, but you're not ready!"
 
 So a JavaScript function walks into a bar.
-
-* * *
-Q: Favourite actor of a JavaScript Developer is?
-
-A: JSON Statham ![LITTLE BOBBY](./images/E12OmzjXoAAzVvh.jpeg)
 
 * * *
 
