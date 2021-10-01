@@ -1,6 +1,13 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+Question: "What did the backend developer say to the waiter at the restaurant?"
+
+Answer: "Please join these 2 tables!".
+
+***
+
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
