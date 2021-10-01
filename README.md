@@ -1,6 +1,12 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+Q: Why do programmers prefer dark mode?
+A: Because light attracts bugs
+
+
+***
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
