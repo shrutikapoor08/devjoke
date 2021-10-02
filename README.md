@@ -1,6 +1,13 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+
+Q: Who won the debate for the best name for loop variable?
+A: i won.
+
+
+* * *
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
