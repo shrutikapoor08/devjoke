@@ -1337,3 +1337,6 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+People: Python is dangerous and harmful.
+Coder: Python is simple and easy.
+***
