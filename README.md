@@ -1336,4 +1336,10 @@ Father : Talk is cheap, Show me the code.
 
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
+
+***
+Q: Where do objects go when they are released?
+
+A: The OOP home.
+
 ***
