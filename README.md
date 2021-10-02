@@ -1337,3 +1337,8 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+Some questions can be answered by code
+which came first 🥚 or 🐓
+ans: console.log(['🥚','🐓'].sort()); // ['🐓', '🥚'] 
+***
