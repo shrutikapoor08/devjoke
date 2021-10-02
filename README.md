@@ -1,6 +1,12 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+Q: Why do they call it hyper text?
+
+A: Too much JAVA.
+
+***
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
