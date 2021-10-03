@@ -1337,3 +1337,35 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+***
+
+#### Why did the programmer leave his job?
+
+Answer: Because he didn't get arrays.
+
+***
+
+***
+
+#### Why did the data base administrator leave his wife?
+
+Answer: Because she had on-to-many relationships
+
+***
+
+***
+
+#### What did the Java programmer say to the C programmer?
+
+Answer: You’ve got no class
+
+***
+
+***
+
+#### What is the object oriented way to become wealthy? 
+
+Answer: Inheritance
+
+***
