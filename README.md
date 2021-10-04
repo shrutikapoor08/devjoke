@@ -1,9 +1,13 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+Q: What is a Unix or Linux sysadmin’s favourite hangout place?
+A: Foo Bar.
+
+* * *
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
-
 
 * * *
 
