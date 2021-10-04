@@ -1,6 +1,12 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+Why does C get all the girls and Java doesn't have any?
+
+Because C doesn't treat them as objects
+
+* * *
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
