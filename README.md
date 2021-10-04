@@ -1337,3 +1337,5 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+![Dev Joke Jenga](./images/dev-joke-jenga.jpg)
+***
