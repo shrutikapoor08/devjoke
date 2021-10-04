@@ -1337,3 +1337,10 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+***
+#### Question: Why don't Angular Devs get angry ?
+
+Because They don't React
+
+***
