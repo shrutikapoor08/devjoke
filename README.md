@@ -1337,3 +1337,7 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+### What is the programming language that hard to learn by a liar?
+
+Answer: Javascript. Because he can't learn to promise
+***
