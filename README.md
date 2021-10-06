@@ -1337,3 +1337,8 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+***
+One hundred little bugs in the code; one hundred little bugs. Patch a bug, compile the code. One hundred and twenty one little bugs in the code.
+***
+
