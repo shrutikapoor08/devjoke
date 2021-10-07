@@ -1337,3 +1337,6 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+The day Android Studio eats less RAM is the day when global warming stops.<br>
+Earth : *chuckles* I'm in danger.
