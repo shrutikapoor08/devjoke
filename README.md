@@ -1,6 +1,13 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+"I sucked at math"
+Gives hope
+
+Remembers he's Asian
+Loses hope
+* * *
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
