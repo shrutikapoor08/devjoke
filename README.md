@@ -1337,3 +1337,9 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+
+Q : Why do **JAVA** programmers where **glasses**
+<br>
+A: Because they do not **C#**
+***
