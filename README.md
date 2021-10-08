@@ -1,6 +1,18 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+
+Three engineers are riding in a car,
+One is a mechanical engineer, one is an electrical engineer, and one is a computer engineer.
+The car breaks down and coasts to the side of the road.
+"Hang on," says the mechanical engineer, "The problem is probably the engine, let me have a look at it and I'll have us on the road again in no time."
+"Wait," says the electrical engineer, "The way it just stopped like that, I think it's the electrical system. Let me have a look and I'll get us going again in a minute or two."
+"Hold on," says the computer engineer. "Why don't we all just get out of the car and get in again, and then see if it starts?"
+
+
+* * * 
+
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
