@@ -1337,3 +1337,9 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+Q: "How do programming pirates call method parameters?"
+
+A: "Varrrrarrrgs".
+
+***
