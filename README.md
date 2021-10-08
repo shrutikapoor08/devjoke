@@ -1337,3 +1337,6 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+How did Ellen DeGeneres print her name?
+A: System.out.println();
