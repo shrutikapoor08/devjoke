@@ -1,6 +1,12 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+What do you call a computer that sings?
+
+A dell.
+
+***
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
