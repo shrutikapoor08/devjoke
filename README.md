@@ -1,6 +1,10 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+A coder was smoking in a restraunt. A lady walked up to him and asked him why he was smoking could he not see the warning that smoking is injurious to health to which the coder replied "Only Errors bother me not Warnings".
+
+***
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
