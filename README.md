@@ -1,6 +1,10 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
+Q: Why do programmers keep pressing the F5 button?
+A: Because it’s refreshing.
 
+
+* * *
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
