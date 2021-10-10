@@ -1337,3 +1337,17 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+***
+I have a joke on UDP but you wouldn't get it😂.
+***
+
+***
+getting degree with no placement is like saying-"I love you but as a Friend😂".
+***
+
+***
+Interviewer-"Tell me about deadlock and I will hire you".
+Me-"Hire me and I will tell you".
+***
+
