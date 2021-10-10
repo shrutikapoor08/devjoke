@@ -1337,3 +1337,16 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+#### What is a ghost's favourite type?
+
+Answer: Boooooooolean.  
+
+***
+
+### I'd like to make the world a better place...
+    
+But they won't give me the source code.
+
+***
+
