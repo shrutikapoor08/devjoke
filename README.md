@@ -1337,3 +1337,9 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+***
+A programmer's wife tells him, 
+"While you're at the grocery store, buy some eggs."
+He never comes back.
+***
