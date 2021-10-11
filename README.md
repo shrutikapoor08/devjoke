@@ -913,6 +913,13 @@ Programmer- Let me introduce you to "DEBUGGING"💻⚠
 
 ***
 
+* * *
+
+Q: What did the HTML say to the CSS?
+A: I like your style! 
+
+* * *
+
 ![Assembly](./images/assembly_pointers.png)
 
 ***
