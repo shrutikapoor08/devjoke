@@ -1,7 +1,190 @@
 # Dev Joke
-
 #### Send me a PR if you know a good Dev Joke.
+Q: Why do programmers keep pressing the F5 button?
+A: Because it’s refreshing.
 
+* * *
+What do you call a computer that sings?
+
+A dell.
+
+***
+
+Q: Why are assembly programmers always soaking wet?
+A: Because they work below C level.
+
+* * * 
+
+Q:Tell Something About You.(To A Programmer)
+A:I'm a writer, but no one in my relatives can read what i write.
+
+
+* * *
+
+Q: Why do programmers prefer dark mode?
+A: Because light attracts bugs
+
+
+***
+
+Q: Favourite actor of a JavaScript Developer is?
+
+A: JSON Statham ![LITTLE BOBBY](./images/E12OmzjXoAAzVvh.jpeg)
+
+* * *
+
+Q: Why do they call it hyper text?
+
+A: Too much JAVA.
+
+***
+
+
+Q: Who won the debate for the best name for loop variable?
+A: i won.
+
+
+* * *
+
+Q: How did the Coder CEO build his company headquarters?
+A: By calling the Constructor();
+
+
+* * *
+
+Doom file size 1993 2.39Mb, look how much hard drive space we saved you.
+JPEG image file size 2021 6.23MB, mobile first???
+CALL OF DUTY UPDATE 2021 133.6GB, let them buy an external harddrive!
+
+* * *
+
+And the bartender says, "Success, but you're not ready!"
+
+So a JavaScript function walks into a bar.
+
+* * *
+
+Q: What is Hardware?
+A: The part of the computer which you can kick.
+
+
+* * *
+
+I took a programming class in high school
+I got a C++
+
+* * *
+
+Q: Who is a programmer?
+A: A programmer is a machine who turns coffee into code.
+
+
+* * *
+First rule of programming : If it works DON'T touch it.
+
+* * *
+Married life of a developer
+
+```
+#wife {
+    right: 100%;
+    margin: 0;
+}
+```
+* * *
+
+I would tell you a joke about programming...
+
+But it only works on my machine
+
+* * *
+What is the problem with git jokes?
+
+Everyone has their own version!
+
+* * *
+Question: Why NodeJs developer need Helmet?
+
+Answer: To Secure Headers.
+* * *
+
+
+I have a joke about stackoverflow but you will say it's duplicated
+
+***
+
+![LITTLE BOBBY](./images/little-bobby.jpg)
+
+***
+
+
+There are two types of People{
+
+and those who
+{
+Question: How do you know if someone uses Linux?
+
+Answer: Don't worry, they'll tell you.
+
+* * *
+
+Best pickup line for a JS dev ?
+
+- Be the promise to my callback ❤️.
+***
+- A QA engineer walks into a bar.
+  Orders a beer. Orders 0 beers.
+  Orders 99999999999 beers.
+  Orders a Iizard. Orders -1 beers.
+  Orders a ueicbksjdhd.
+
+- First real customer walks in
+  and asks where the bathroom
+  is. The bar bursts into flames,
+  killing everyone.
+
+***
+
+New programmer : It realy worked at first time.👍
+
+Experienced programmer : It realy worked at first time??🤔
+
+***
+📄 Documentation is like sex.
+
+When it's good, it's very good.
+When it's bad, it's better than nothing. 🤷
+
+***
+
+99 year old man dying
+
+man: Oh! God, Save Me!!
+
+God: Ok, JPG or JPEG?
+***
+"Only my friends get to touch my private parts."
+-C++
+
+* * *
+
+Wife: Honey! Can't open the jar.
+
+*Me: Download and install Java.
+
+* * *
+
+Sometimes when I'm writing **Javascript** I want to throw up my hands and say "this is bullshit!" but I can never remember what **"this"** refers to
+
+* * *
+Why do programmers have bad digestion?
+
+They only have semi-colons
+* * *
+
+1st rule of programming:
+
+**If it works, do not touch it!**
 * * *
 
 Me: Why isn't this working? 🤔
@@ -21,12 +204,38 @@ Data scientists should be charged with animal trafficking and animal abuse becau
 Technical Debt
 
 * * *
+![Confidence level of a Programmer](./images/confidenceJoke.jpeg)
+* * *
+
+
+A logician's wife is having a baby.
+The doctor immediately hands the newborn to the dad.
+The wife asks impatiently "Is it a boy or a girl?"
+The logician replies "Yes."
+
+* * *
 
 The programmer to his son: "Here, I brought you a new basketball."
 "Thank you, daddy, but where is the user's guide?"😜
 
 * * *
+Once all programming languages went to a party.
+Guess who paid the bill?
+Of course, PHP.
+Beacause PHP has many $.
+
+* * *
+A fool can write a code that a computer can understand.
+Good programmers write code that they also don't understand after few days.
+
+* * *
 I've been using VIM since about 5 years because I never find out how to quit.
+
+* * *
+
+If an EXE file says:
+"This program requires Windows XP or better..."
+Does that mean that it'll run linux..? :)
 
 * * *
 To replace programmers with robots, clients will have to accurately describe what they want.
@@ -174,6 +383,12 @@ The programmer returns home with 12 loaves of bread.
 
 * * *
 
+Q: What do you call a programmer from Finland?
+
+A: Nerdic
+
+* * *
+
 Conversation between layman and developer
 
 -   layman: Hey! What's your address
@@ -311,8 +526,6 @@ I have a dev joke, but I couldn't debug it 😭
 
 Forgetting the semicolon after every C command and getting an error makes me go ;_;
 
-* * *
-=======
 * * *
 any one know any joke about sodium??
 NA
@@ -688,6 +901,12 @@ Programmer- Let me introduce you to "DEBUGGING"💻⚠
 ***
 
 
+![new_painitingai](https://user-images.githubusercontent.com/72219783/94889728-d0d49700-049a-11eb-85f1-40ddd7d76c6d.jpg)
+
+
+* * *
+
+
 ![titanic](./images/titanic-float-none.png)
 
 * * *
@@ -913,34 +1132,11 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 ***
 
-![titanic](./images/titanic-float-none.png)
-
-***
-
-![GoTo Hell](./images/new_hell.jpg)
-
-***
-
-![runtimeError](./images/runtimeError.jpg)
-
-
-***
-
-![semicolon](./images/joke-semi-colon.jpg)
-***
-
 ![land-hover](./images/land-hover.jpg)
-
-***
-![betterThanSex](images/better-than-sex.jpg)
 
 * * *
 
 ![intkaam](./images/intkaam.jpeg)
-
-* * *
-
-![async](./images/async.png)
 
 * * *
 
@@ -1014,16 +1210,33 @@ She: You told me you were fullstack!
 Me: Full Stackoverflow
 ***
 
+![Java joke](./images/javaJoke.png)
+
+***
+
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
 
 ***
 
-An Algorithm a day, Keeps a mass recruiter away.
+### If Programming Languages Were To Propose:
+
+Java: I promise there hasn’t been a day that I stopped wanting you and haven’t gotten out of my head at all since I first met you!!
+
+Python: I love you ;)
 
 ***
 
-![programmer-joke](./images/programmer-joke.jpg)
+Ubuntu users are apt to get this joke
+
+***
+
+#### What do you call a programmer from Finland? 
+Answer: Nerdic
+***
+
+An Algorithm a day, Keeps a mass recruiter away.
+
 
 ***
 
@@ -1031,6 +1244,9 @@ An Algorithm a day, Keeps a mass recruiter away.
 
 ***
 
+![legacy-code](./images/legacy-code.png)
+
+***
 To replace programmers with robots, clients will have to accurately describe what they want.
 We are safe.
 
@@ -1050,6 +1266,11 @@ Answer: It has too many bugs.
 
 ***
 
+#### What would you call a web developer who enjoys finding bugs?
+Answer: spider
+
+***
+
 #### Why is shipping code a lie?
 
 Answer: Because every deploy has "ploy" in it.
@@ -1057,5 +1278,157 @@ Answer: Because every deploy has "ploy" in it.
 ***
 
 Autocorrect can go straight to he’ll. —Constance Normandeau
+
+***
+
+
+
+
+#### What did the Java code say to the C code?
+
+Answer: You've got no class.
+
+***
+
+Did you hear about the monkeys who shared an Amazon account? They were Prime mates.
+
+***
+
+
+Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
+
+* * *
+Q: Why do kayakaers make bad programmers?
+A: Because they are afraid of waterfall.
+
+
+***
+One thing I know is that a computer science major didn't name the original pokemon.
+Otherwise, charmander would evolve into stringmander.
+
+
+***
+
+
+
+Me: Alexa, I would like to hear a TCP joke.
+
+Alexa: Hi, would you like to hear a TCP joke?
+
+Me: Yes, I would like to hear a TCP joke.
+
+Alexa: I'm about to tell you a TCP joke. It will last 10 seconds. It has a beginning and a solid punchline in the end.
+
+Me: Ok. Hit it. I'm excited to hear a TCP joke.
+
+Alexa: Sorry, your connection has timed out.
+
+...
+
+Alexa: Hi, would you like to hear a TCP joke? kkkk
+
+***
+
+Girl: What is your idea of perfect date?
+Boy: DD/MM/YYYY because other formats can be confusing 
+
+In order to understand recursion, one must first understand recursion.
+
+***
+![DEVExcuses](./images/96159609_699388344131798_2782988831844990976_o.jpg)
+
+***
+![Frontend_Backend](./images/j55.jpg)
+
+***
+![DeveloperLife](./images/j11.jpg)
+
+***
+
+![DeveloperLife](./images/ProgammersvsRestofHumans.jpeg)
+
+***
+**Python Pro** : _The easiest language to learn, no braces, no mains, no boilerplate codes._</br>
+**Python Noob** : _Gets indentation errors on adding extra spacing!_</br>
+![python joke](https://i.imgur.com/LKYCGfX.jpg)
+
+***
+Code is like humor. When you have to explain it, it’s bad.
+
+***
+![Debugging](./images/Debug.png)
+
+***
+
+
+
+![StackOverflowPro](./images/stack-overflow-pro.jpg)
+
+***
+
+![HurtDoggy](./images/hurt-doggy.jpg)
+
+
+* * *
+![Documentation](./images/writing_documentation_todo.png)
+
+***
+
+![HacktoberScam](./images/HacktoberScam.jpg)
+
+* * *
+
+![Software Development Meme](https://i.imgur.com/yA8LwHY.png)
+
+* * *
+
+
+#### What is a developer's favorite country song?
+
+Answer: Hello World - by Lady Antebellum
+
+***
+What do cupboards and Java have in common?
+
+Jars.
+
+***
+![StartupMotivation](./images/startup-motivation.jpg)
+***
+![Memory](./images/memory.jpg)
+
+***
+
+![Meaningful Messages](./images/meaningful_commits.png)
+
+***
+Son : Dad, I feel like i am a programmer now.
+Father : Talk is cheap, Show me the code.
+
+***
+![Howto_Google](./images/howtogoogle.jpg)
+
+***
+![Error 404 AM, sleep not found](./images/sleep-not-found.jpg)
+
+***
+![python-joke](https://user-images.githubusercontent.com/42266013/136796032-c6f8b57c-fa78-482f-93cc-b2077a197a55.jpg)
+***
+
+***
+A programmer's wife tells him, 
+"While you're at the grocery store, buy some eggs."
+He never comes back.
+***
+
+![The Weekend Is Here](./images/weekend.jpg)
+
+***
+
+***
+Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
+
+***
+![PerfectDate](./images/joke.jpg)
 
 ***
