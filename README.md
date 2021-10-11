@@ -10,6 +10,11 @@ A dell.
 
 ***
 
+Q: Why are assembly programmers always soaking wet?
+A: Because they work below C level.
+
+* * * 
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
