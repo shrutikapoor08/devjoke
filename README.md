@@ -51,6 +51,11 @@ A: i won.
 
 * * *
 
+Dating advice wanted:  
+I have a crush on my CTO since she laughed on my Debian joke. Will it be *apt* to ask her out ?
+
+* * *
+
 Q: How did the Coder CEO build his company headquarters?
 
 A: By calling the Constructor();
