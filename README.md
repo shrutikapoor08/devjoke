@@ -27,6 +27,12 @@ A: Because light attracts bugs
 
 ***
 
+Q: Favourite actor of a JavaScript Developer is?
+
+A: JSON Statham ![LITTLE BOBBY](./images/E12OmzjXoAAzVvh.jpeg)
+
+* * *
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
