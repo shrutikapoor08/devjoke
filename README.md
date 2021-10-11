@@ -1381,3 +1381,7 @@ A programmer's wife tells him,
 "While you're at the grocery store, buy some eggs."
 He never comes back.
 ***
+
+![The Weekend Is Here](./images/weekend.jpg)
+
+***
