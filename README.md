@@ -1,6 +1,6 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
-Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`and add images at the **BOTTOM**. Add reference to the image in the README file.
+Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
 * * *
 
