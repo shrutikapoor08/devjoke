@@ -1337,3 +1337,11 @@ Father : Talk is cheap, Show me the code.
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
 ***
+
+
+***
+
+![python-joke](https://user-images.githubusercontent.com/42266013/136795200-d5b33edd-1d5b-4ed8-a2d4-8a4ee6f96d3d.jpg)
+
+
+***
