@@ -466,6 +466,12 @@ All programmers are playwrights, and all computers are lousy actors
 
 * * *
 
+Girl : why are you make adjustments in your pants while walking?
+
+Boy : Oh , wait! It's alignment problem in CSS :-D (Boys will understand it!)
+
+* * *
+
 "How did your dog eat your coding assignment?"
 It took him a couple bytes
 
