@@ -1,6 +1,9 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
+Q: Why do programmers keep pressing the F5 button?
+A: Because it’s refreshing.
 
+* * *
 What do you call a computer that sings?
 
 A dell.
