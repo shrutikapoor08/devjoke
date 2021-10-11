@@ -1,5 +1,12 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
+
+Q: Which famous rapper knows Assembly?
+
+A: JZ.
+
+* * *
+
 Q: Why do programmers keep pressing the F5 button?
 
 A: Because it’s refreshing.
