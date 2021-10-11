@@ -1452,3 +1452,15 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ![BinaryTree](./images/245043822_4384448964937281_5019590283933767997_n.jpeg)
 
 ***
+
+***
+Confidence Level of a Programmer
+
+I can’t fix this
+Crisis of confidence
+Questions career
+Questions life
+Oh it was a type
+
+***
+
