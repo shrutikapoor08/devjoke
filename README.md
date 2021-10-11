@@ -1397,3 +1397,8 @@ He never comes back.
 ![The Weekend Is Here](./images/weekend.jpg)
 
 ***
+
+***
+Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
+
+***
