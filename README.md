@@ -714,7 +714,7 @@ Http
 
 * * *
 
-#### Question - Why dod the software developer go broke?
+#### Question - Why did the software developer go broke?
 
 They used up all their cache.
 
