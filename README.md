@@ -33,6 +33,12 @@ A: JSON Statham ![LITTLE BOBBY](./images/E12OmzjXoAAzVvh.jpeg)
 
 * * *
 
+Q: Why do they call it hyper text?
+
+A: Too much JAVA.
+
+***
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
