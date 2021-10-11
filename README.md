@@ -7,6 +7,12 @@ A: By calling the Constructor();
 
 * * *
 
+Doom file size 1993 2.39Mb, look how much hard drive space we saved you.
+JPEG image file size 2021 6.23MB, mobile first???
+CALL OF DUTY UPDATE 2021 133.6GB, let them buy an external harddrive!
+
+* * *
+
 And the bartender says, "Success, but you're not ready!"
 
 So a JavaScript function walks into a bar.
