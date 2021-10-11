@@ -1,7 +1,7 @@
 # Contribution Guidelines
 Welcome! Thank you for adding a DevJoke. 
 
-At the top of the page, add your joke followed by `***`
+At the **TOP** of the page, add your joke followed by `***`
 
 Adding text - 
 ```
@@ -14,7 +14,7 @@ Answer: "Add answer here".
 
 Adding image - 
 1. Add your image to `images` dir.
-2. Add reference in the README file at the bottom. 
+2. Add reference in the README file at the **bottom**. 
 ```
 ![ALT TEXT](./images/<path of file>.jpeg)
 
