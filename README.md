@@ -15,6 +15,12 @@ A: Because they work below C level.
 
 * * * 
 
+Q:Tell Something About You.(To A Programmer)
+A:I'm a writer, but no one in my relatives can read what i write.
+
+
+* * *
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
