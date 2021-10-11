@@ -1,6 +1,9 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 
+* * *
+
+
 Q: Which famous rapper knows Assembly?
 
 A: JZ.
@@ -12,9 +15,10 @@ Q: Why do programmers keep pressing the F5 button?
 A: Because it’s refreshing.
 
 * * *
-What do you call a computer that sings?
 
-A dell.
+Q: What do you call a computer that sings?
+
+A: A dell.
 
 ***
 
@@ -34,7 +38,6 @@ A:I'm a writer, but no one in my relatives can read what i write.
 Q: Why do programmers prefer dark mode?
 
 A: Because light attracts bugs
-
 
 ***
 
@@ -62,6 +65,29 @@ Q: How did the Coder CEO build his company headquarters?
 
 A: By calling the Constructor();
 
+* * *
+
+Q: What is Hardware?
+
+A: The part of the computer which you can kick.
+
+* * *
+
+Q: Who is a programmer?
+
+A: A programmer is a machine who turns coffee into code.
+
+
+* * *
+Question: Why NodeJs developer need Helmet?
+
+Answer: To Secure Headers.
+
+* * *
+Question: What do programmers inherit?
+
+Technical Debt
+
 
 * * *
 
@@ -77,22 +103,8 @@ So a JavaScript function walks into a bar.
 
 * * *
 
-Q: What is Hardware?
-
-A: The part of the computer which you can kick.
-
-
-* * *
-
 I took a programming class in high school
 I got a C++
-
-* * *
-
-Q: Who is a programmer?
-
-A: A programmer is a machine who turns coffee into code.
-
 
 * * *
 First rule of programming : If it works DON'T touch it.
@@ -118,11 +130,6 @@ What is the problem with git jokes?
 Everyone has their own version!
 
 * * *
-Question: Why NodeJs developer need Helmet?
-
-Answer: To Secure Headers.
-* * *
-
 
 I have a joke about stackoverflow but you will say it's duplicated
 
@@ -146,6 +153,8 @@ Answer: Don't worry, they'll tell you.
 Best pickup line for a JS dev ?
 
 - Be the promise to my callback ❤️.
+
+
 ***
 - A QA engineer walks into a bar.
   Orders a beer. Orders 0 beers.
@@ -177,6 +186,7 @@ When it's bad, it's better than nothing. 🤷
 man: Oh! God, Save Me!!
 
 God: Ok, JPG or JPEG?
+
 ***
 "Only my friends get to touch my private parts."
 -C++
@@ -213,10 +223,6 @@ JavaScript: SHHHHHH! 🤫
 
 Data scientists should be charged with animal trafficking and animal abuse because they import pandas and feed them to python.
 
-* * *
-#### Question - What do programmers inherit?
-
-Technical Debt
 
 * * *
 ![Confidence level of a Programmer](./images/confidenceJoke.jpeg)
@@ -404,6 +410,202 @@ A: Nerdic
 
 * * *
 
+Question - How did the developer announce her engagement?
+
+`this.engaged = true`
+
+* * *
+
+Question - Why is the Javascript developer sad?
+
+Because they do not Node how to Express themselves.
+
+* * *
+
+Question - How do you comfort a JavaScript bug?
+
+You console it.
+
+* * *
+
+Question - Why couldn't the React component understand the joke?
+
+It didn't get the context.
+
+* * *
+
+Question - Why did the JavaScript developer leave?
+
+Because she didn't get arrays
+
+* * *
+
+Question - What is the object-oriented way to become wealthy?
+
+Inheritance.
+
+* * *
+
+ Question - Why do functions always break up?
+
+Because they have constant arguments.
+
+* * *
+
+Question - Why do programmers get confused between Halloween and Christmas?
+
+Because OCT 31 = DEC 25
+
+* * *
+
+Question - What is programmer's favourite hangout place?
+
+Foo Bar
+
+* * *
+
+Question - What kind of doctors fixes broken websites?
+
+A URLogist
+
+* * *
+
+Question - Why does no one likes SQLrillex?
+
+He keeps dropping the database
+
+* * *
+
+Question - How did html get drunk?
+
+It had too many <br/>
+
+* * *
+
+Question: Why do C# and Java developers keep breaking their keyboards ?
+
+Because they use a strongly typed language.
+
+* * *
+
+Question - Why did the developer die in the shower?
+
+He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+
+* * *
+
+Question - Why do fish not like React?
+
+Because it has Hooks 😂.
+
+* * *
+
+Question - How long does a loop last?
+
+For a while
+
+* * *
+
+Question - What did the developer said to the repository?
+
+FORK YOU!
+
+* * *
+
+Question: What do you call the security outside of a samsung store?
+
+Guardians of the Galaxy
+
+* * *
+
+Question: Why does Python live on land?
+
+Because it's above C-level
+
+* * *
+
+Question - How are computers and air conditioners similar?
+
+They are both useless when you open windows
+
+* * *
+
+Question - Who is a programmer?
+
+Answer: A person who fixed a problem that you don't know you have, in a way you don't understand.
+
+* * *
+
+Question - Why do Java developers wear glasses?
+
+Answer: Because they can't C# !
+
+* * *
+
+Question - How do functions break up?
+
+Answer: They stop calling each other.
+
+* * *
+
+Question - 0 is false and 1 is true, right?
+
+Answer: 1
+
+* * *
+
+Question: How many programmers does it take to change a light bulb?
+
+Answer: None – It’s a hardware problem
+
+* * *
+
+Question - Why do software engineers consistently stir up Halloween and Christmas?
+
+Answer: Because  Oct 31 = Dec 25
+
+* * *
+
+Question - Have you heard of the band with 1023 megabytes?
+
+No, they just haven't had a gig yet.
+
+***
+Question - What screams "I'm insecure"?
+
+Http
+
+***
+
+Question - Why dod the software developer go broke?
+
+They used up all their cache.
+
+***
+
+Question - Why did the react class component feel relieved?
+
+Because it was now off the hook.
+
+***
+
+Question - Why did the child component have such great self-esteem?
+
+Because its parent kept giving it props!
+
+***
+
+Question - Which type of shooting always hurt the shooter?
+
+Trouble-shooting!
+
+
+***
+Question- What's the object oriented way to become wealthy?
+Answer  - Inheritance.
+
+***
+
 Conversation between layman and developer
 
 -   layman: Hey! What's your address
@@ -413,7 +615,7 @@ Conversation between layman and developer
 -   layman: I mean your physical address
 -   developer: 29.01.38.62.31.58
 
-* * *
+***
 
 :boy: : I like you, do you want to be my GF?
 
@@ -423,7 +625,7 @@ Conversation between layman and developer
 
 :girl: : ... (30 seconds). "504 Gateway Timeout"
 
-* * *
+***
 
 #### Pointers in C:
 
@@ -545,208 +747,6 @@ Forgetting the semicolon after every C command and getting an error makes me go 
 any one know any joke about sodium??
 NA
 
-* * *
-
-#### Question - How did the developer announce her engagement?
-
-`this.engaged = true`
-
-* * *
-
-#### Question - Why is the Javascript developer sad?
-
-Because they do not Node how to Express themselves.
-
-* * *
-
-#### Question - How do you comfort a JavaScript bug?
-
-You console it.
-
-* * *
-
-#### Question - Why couldn't the React component understand the joke?
-
-It didn't get the context.
-
-* * *
-
-#### Question - Why did the JavaScript developer leave?
-
-Because she didn't get arrays
-
-* * *
-
-#### Question - What is the object-oriented way to become wealthy?
-
-Inheritance.
-
-* * *
-
-#### Question - Why do functions always break up?
-
-Because they have constant arguments.
-
-* * *
-
-#### Question - Why do programmers get confused between Halloween and Christmas?
-
-Because OCT 31 = DEC 25
-
-* * *
-
-#### Question - What is programmer's favourite hangout place?
-
-Foo Bar
-
-* * *
-
-#### Question - What kind of doctors fixes broken websites?
-
-A URLogist
-
-* * *
-
-#### Question - Why does no one likes SQLrillex?
-
-He keeps dropping the database
-
-* * *
-
-#### Question - How did html get drunk?
-
-It had too many <br/>
-
-* * *
-
-#### Question: Why do C# and Java developers keep breaking their keyboards ?
-
-Because they use a strongly typed language.
-
-* * *
-
-#### Question - Why did the developer die in the shower?
-
-He read the shampoo bottle instructions: Lather. Rinse. Repeat.
-
-* * *
-
-#### Question - Why do fish not like React?
-
-Because it has Hooks 😂.
-
-* * *
-
-#### Question - How long does a loop last?
-
-For a while
-
-* * *
-
-#### Question - What did the developer said to the repository?
-
-FORK YOU!
-
-* * *
-
-#### Question: What do you call the security outside of a samsung store?
-
-Guardians of the Galaxy
-
-* * *
-
-#### Question: Why does Python live on land?
-
-Because it's above C-level
-
-* * *
-
-#### Question - How are computers and air conditioners similar?
-
-They are both useless when you open windows
-
-* * *
-
-#### Question - Who is a programmer?
-
-Answer: A person who fixed a problem that you don't know you have, in a way you don't understand.
-
-* * *
-
-#### Question - Why do Java developers wear glasses?
-
-Answer: Because they can't C# !
-
-* * *
-
-#### Question - How do functions break up?
-
-Answer: They stop calling each other.
-
-* * *
-
-#### Question - 0 is false and 1 is true, right?
-
-Answer: 1
-
-* * *
-
-#### Question: How many programmers does it take to change a light bulb?
-
-Answer: None – It’s a hardware problem
-
-* * *
-
-#### Question - Why do software engineers consistently stir up Halloween and Christmas?
-
-Answer: Because  Oct 31 = Dec 25
-
-* * *
-
-#### Question - Have you heard of the band with 1023 megabytes?
-
-No, they just haven't had a gig yet.
-
-***
-#### Question - What screams "I'm insecure"?
-
-Http
-
-* * *
-
-#### Question - Why dod the software developer go broke?
-
-They used up all their cache.
-
-* * *
-
-#### Question - Why did the react class component feel relieved?
-
-Because it was now off the hook.
-
-* * *
-
-#### Question - Why did the child component have such great self-esteem?
-
-Because its parent kept giving it props!
-
-* * *
-
-#### Question - Which type of shooting always hurt the shooter?
-
-Trouble-shooting!
-
-***
-Question- Me: My screens turns Blue,
-          Mom : Fool,u deleted System32!
-
-***
-
-
-***
-Question- What's the object oriented way to become wealthy?
-Answer  - Inheritance.
-
 ***
 
 There are three kinds of lies: Lies, damned lies, and benchmarks.
@@ -773,7 +773,7 @@ Programmer:- No comment
 ***
 
 ![Assembly](./images/assembly_pointers.png)
-=======
+
 A physicist, an engineer and a programmer were in a car driving over a steep alpine pass when the brakes failed. The car was getting faster and faster, they were struggling to get round the corners and once or twice only the feeble crash barrier saved them from crashing down the side of the mountain. They were sure they were all going to die, when suddenly they spotted an escape lane. They pulled into the escape lane, and came safely to a halt.
 
 The physicist said "We need to model the friction in the brake pads and the resultant temperature rise, see if we can work out why they failed".
@@ -787,7 +787,8 @@ The programmer said "Why don't we get going again and see if it's reproducible?"
 I now understand why english grammar was taught in school,because it takes me a while to think the difference between "sign up" and "sign in" before i click the wrong one.
 ***
 
-####  I keep trying to understand angular.
+
+I keep trying to understand angular.
 
 But its just so obtuse
 
@@ -835,7 +836,7 @@ She: You told me you were fullstack!
 Me: Full Stackoverflow
 ***
 
-#### What is a computer's favorite beat?
+Question: What is a computer's favorite beat?
 Answer: An algo-rhythm
 
 
