@@ -527,8 +527,6 @@ I have a dev joke, but I couldn't debug it 😭
 Forgetting the semicolon after every C command and getting an error makes me go ;_;
 
 * * *
-=======
-* * *
 any one know any joke about sodium??
 NA
 
@@ -1279,7 +1277,10 @@ Answer: Because every deploy has "ploy" in it.
 
 ***
 
-![Software Development Meme](https://i.imgur.com/yA8LwHY.png)
+Autocorrect can go straight to he’ll. —Constance Normandeau
+
+***
+
 
 
 
@@ -1295,26 +1296,20 @@ Did you hear about the monkeys who shared an Amazon account? They were Prime mat
 
 
 Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
-***
-
-![StackOverflowPro](./images/stack-overflow-pro.jpg)
-
-***
-
-![HurtDoggy](./images/hurt-doggy.jpg)
 
 * * *
 Q: Why do kayakaers make bad programmers?
 A: Because they are afraid of waterfall.
 
-* * *
-![Documentation](./images/writing_documentation_todo.png)
+
+***
+One thing I know is that a computer science major didn't name the original pokemon.
+Otherwise, charmander would evolve into stringmander.
+
 
 ***
 
-![HacktoberScam](./images/HacktoberScam.jpg)
 
-* * *
 
 Me: Alexa, I would like to hear a TCP joke.
 
@@ -1353,10 +1348,6 @@ In order to understand recursion, one must first understand recursion.
 ![DeveloperLife](./images/ProgammersvsRestofHumans.jpeg)
 
 ***
-One thing I know is that a computer science major didn't name the original pokemon.
-Otherwise, charmander would evolve into stringmander.
-
-***
 **Python Pro** : _The easiest language to learn, no braces, no mains, no boilerplate codes._</br>
 **Python Noob** : _Gets indentation errors on adding extra spacing!_</br>
 ![python joke](https://i.imgur.com/LKYCGfX.jpg)
@@ -1368,6 +1359,29 @@ Code is like humor. When you have to explain it, it’s bad.
 ![Debugging](./images/Debug.png)
 
 ***
+
+
+
+![StackOverflowPro](./images/stack-overflow-pro.jpg)
+
+***
+
+![HurtDoggy](./images/hurt-doggy.jpg)
+
+
+* * *
+![Documentation](./images/writing_documentation_todo.png)
+
+***
+
+![HacktoberScam](./images/HacktoberScam.jpg)
+
+* * *
+
+![Software Development Meme](https://i.imgur.com/yA8LwHY.png)
+
+* * *
+
 
 #### What is a developer's favorite country song?
 
@@ -1416,4 +1430,5 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 
 ***
 ![PerfectDate](./images/joke.jpg)
+
 ***
