@@ -7,6 +7,14 @@ A: By calling the Constructor();
 
 * * *
 
+A Python Developer's Pickup Line-
+```
+If you are a function,
+I want to be your local variable.
+```
+
+* * *
+
 And the bartender says, "Success, but you're not ready!"
 
 So a JavaScript function walks into a bar.
