@@ -1343,3 +1343,9 @@ Father : Talk is cheap, Show me the code.
 ***
 ![python-joke](https://user-images.githubusercontent.com/42266013/136796032-c6f8b57c-fa78-482f-93cc-b2077a197a55.jpg)
 ***
+
+***
+A programmer's wife tells him, 
+"While you're at the grocery store, buy some eggs."
+He never comes back.
+***
