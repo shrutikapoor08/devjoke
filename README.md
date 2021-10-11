@@ -577,6 +577,12 @@ Because she didn't get arrays
 
 * * *
 
+#### Question - What's a computer's favorite beat?
+
+An algo-rhythm.
+
+* * *
+
 #### Question - What is the object-oriented way to become wealthy?
 
 Inheritance.
