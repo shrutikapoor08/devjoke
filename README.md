@@ -21,6 +21,12 @@ A:I'm a writer, but no one in my relatives can read what i write.
 
 * * *
 
+Q: Why do programmers prefer dark mode?
+A: Because light attracts bugs
+
+
+***
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
