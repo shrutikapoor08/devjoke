@@ -1,6 +1,7 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 Q: Why do programmers keep pressing the F5 button?
+
 A: Because it’s refreshing.
 
 * * *
@@ -11,17 +12,20 @@ A dell.
 ***
 
 Q: Why are assembly programmers always soaking wet?
+
 A: Because they work below C level.
 
 * * * 
 
 Q:Tell Something About You.(To A Programmer)
+
 A:I'm a writer, but no one in my relatives can read what i write.
 
 
 * * *
 
 Q: Why do programmers prefer dark mode?
+
 A: Because light attracts bugs
 
 
@@ -41,12 +45,14 @@ A: Too much JAVA.
 
 
 Q: Who won the debate for the best name for loop variable?
+
 A: i won.
 
 
 * * *
 
 Q: How did the Coder CEO build his company headquarters?
+
 A: By calling the Constructor();
 
 
@@ -65,6 +71,7 @@ So a JavaScript function walks into a bar.
 * * *
 
 Q: What is Hardware?
+
 A: The part of the computer which you can kick.
 
 
@@ -76,6 +83,7 @@ I got a C++
 * * *
 
 Q: Who is a programmer?
+
 A: A programmer is a machine who turns coffee into code.
 
 
