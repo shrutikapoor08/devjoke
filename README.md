@@ -1,5 +1,21 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
+Thank you for adding a DevJoke.
+Adding text -
+At the TOP of the page, add your joke followed by `***`
+Eg: 
+
+Question: "Add question here."
+
+Answer: "Add answer here".
+
+***
+Adding image -
+
+Add your image to images dir.
+Add reference in the README file at the bottom.
+![ALT TEXT](./images/<path of file>.jpeg)
+
 
 * * *
 
