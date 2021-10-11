@@ -3,11 +3,22 @@
 Q: Why do programmers keep pressing the F5 button?
 A: Because it’s refreshing.
 
-
 * * *
+What do you call a computer that sings?
+
+A dell.
+
+***
+
 Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
+
+* * *
+
+Doom file size 1993 2.39Mb, look how much hard drive space we saved you.
+JPEG image file size 2021 6.23MB, mobile first???
+CALL OF DUTY UPDATE 2021 133.6GB, let them buy an external harddrive!
 
 * * *
 
@@ -1340,4 +1351,16 @@ Father : Talk is cheap, Show me the code.
 
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
+
+***
+![Error 404 AM, sleep not found](./images/sleep-not-found.jpg)
+
+***
+![python-joke](https://user-images.githubusercontent.com/42266013/136796032-c6f8b57c-fa78-482f-93cc-b2077a197a55.jpg)
+***
+
+***
+A programmer's wife tells him, 
+"While you're at the grocery store, buy some eggs."
+He never comes back.
 ***
