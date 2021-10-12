@@ -145,6 +145,8 @@ There are two types of People{
 
 and those who
 {
+
+* * * 
 Question: How do you know if someone uses Linux?
 
 Answer: Don't worry, they'll tell you.
