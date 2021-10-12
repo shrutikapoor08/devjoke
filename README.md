@@ -4,6 +4,12 @@ Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add yo
 
 * * *
 
+Q: Where does the queen trace errors in her applications?
+
+A: Debuggingham Palace
+
+* * *
+
 
 Q: Which famous rapper knows Assembly?
 
