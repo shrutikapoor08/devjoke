@@ -4,6 +4,13 @@ Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add yo
 
 * * *
 
+Q: Define Algorithm?
+
+Answer: "Word used by programmers when they dont know what they did...".
+
+
+* * *
+
 
 Q: Which famous rapper knows Assembly?
 
