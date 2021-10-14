@@ -4,6 +4,24 @@ Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add yo
 
 * * *
 
+Q: When do two functions fight?
+
+A: When they have an argument.
+
+***
+
+Q: What happened to the function that ran away?
+
+A: It never returned.
+
+***
+
+Q: Why do Java programmers have to wear glasses?
+
+
+A: Because they don't see-sharp!
+
+***
 
 Q: Which famous rapper knows Assembly?
 
