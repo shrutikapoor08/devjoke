@@ -4,6 +4,10 @@ Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add yo
 
 * * *
 
+Have you heard about the new Cray super computer?  It’s so fast, it executes an infinite loop in 6 seconds.
+
+* * *
+
 
 Q: Which famous rapper knows Assembly?
 
