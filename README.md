@@ -4,6 +4,9 @@ Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add yo
 
 * * *
 
+Oneliner: WTH is data, it's data!
+
+* * *
 
 Q: Which famous rapper knows Assembly?
 
