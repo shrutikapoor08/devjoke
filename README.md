@@ -1273,6 +1273,10 @@ An Algorithm a day, Keeps a mass recruiter away.
 
 ***
 
+What did the router say to the doctor?
+“It hurts when IP”
+
+***
 ![productionTesting](./images/productionTesting.jpg)
 
 ***
