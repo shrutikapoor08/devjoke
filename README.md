@@ -1475,6 +1475,11 @@ A programmer's wife tells him,
 He never comes back.
 ***
 
+***
+Why do programmers prefer using the dark mode?
+Because light attracts bugs.
+***
+
 ![The Weekend Is Here](./images/weekend.jpg)
 
 
