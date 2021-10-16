@@ -1,6 +1,10 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+* * *
+Why does C get all the firls, and Java gets none?
+
+Because C doesn't treat them as objects.
 
 * * *
 99 year old man dying
