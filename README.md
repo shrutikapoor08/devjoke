@@ -72,6 +72,11 @@ Q: How did the Coder CEO build his company headquarters?
 A: By calling the Constructor();
 
 * * *
+Question: Why Apple can't see nature?
+
+Answer: Because it doesn't have windows!
+
+* * *
 
 Q: What is Hardware?
 
