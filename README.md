@@ -1273,6 +1273,10 @@ An Algorithm a day, Keeps a mass recruiter away.
 
 ***
 
+![productionTesting](./images/productionTesting.jpg)
+
+***
+
 ![legacy-code](./images/legacy-code.png)
 
 ***
@@ -1442,7 +1446,7 @@ Father : Talk is cheap, Show me the code.
 
 ***
 ![python-joke](https://user-images.githubusercontent.com/42266013/136796032-c6f8b57c-fa78-482f-93cc-b2077a197a55.jpg)
-***
+
 
 ***
 A programmer's wife tells him, 
@@ -1452,7 +1456,6 @@ He never comes back.
 
 ![The Weekend Is Here](./images/weekend.jpg)
 
-***
 
 ***
 Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
@@ -1463,7 +1466,6 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![BinaryTree](./images/245043822_4384448964937281_5019590283933767997_n.jpeg)
 
-***
 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
