@@ -4,6 +4,16 @@ Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add yo
 
 * * *
 
+* * *
+
+Friend: I don't like programming.
+
+Me: Why?
+
+Friend: It's not fun.
+
+Me: You'll love Kotlin
+
 
 Q: Which famous rapper knows Assembly?
 
