@@ -2,6 +2,13 @@
 #### Send me a PR if you know a good Dev Joke.
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
+* * *
+
+
+Q: Why Did John's Web Game fail to take off?
+
+A: It wasn't in the *meta*
+
 ***
 Question - What is the most used language in programming?
 
