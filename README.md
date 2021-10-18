@@ -1383,6 +1383,12 @@ Boy: DD/MM/YYYY because other formats can be confusing
 In order to understand recursion, one must first understand recursion.
 
 ***
+Q: Why did the database administrator leave his wife?
+
+A: She had one-to-many realtionships.
+
+***
+
 ![DEVExcuses](./images/96159609_699388344131798_2782988831844990976_o.jpg)
 
 ***
