@@ -3,6 +3,25 @@
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
 ***
+Laws of Computer Programming
+
+Any given program, when running, is obsolete.
+Any given program costs more and takes longer.
+If a program is useful, it will have to be changed.
+If a program is useless, it will have to be documented.
+Any program will expand to fill available memory.
+The value of a program is proportional to the weight of its output.
+Program complexity grows until it exceeds the capabilities of the programmer who must maintain it.
+Any non-trivial program contains at least one bug.
+Undetectable errors are infinite in variety, in contrast to detectable errors, which by definition are limited.
+Adding manpower to a late software project makes it later.
+
+***
+A man is smoking a cigarette and blowing smoke rings into the air.  His girlfriend becomes irritated with the smoke and says, “Can’t you see the warning on the cigarette pack?  Smoking is hazardous to your health!”
+
+To which the man replies, “I am a programmer.  We don’t worry about warnings; we only worry about errors.”
+
+***
 Question - What is the most used language in programming?
 
 Profanity.
