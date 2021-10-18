@@ -1092,8 +1092,11 @@ Boy: DD/MM/YYYY because other formats can be confusing
 In order to understand recursion, one must first understand recursion.
 
 ***
+Q: **Why did the database administrator leave his wife?**
 
+A: She had one-to-many realtionships.
 
+***
 
 Q: Favourite actor of a JavaScript Developer is?
 
