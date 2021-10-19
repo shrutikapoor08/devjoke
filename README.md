@@ -3,6 +3,10 @@
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
 ***
+Peacocks have a secret language.
+It is called Mor's code.
+-.-
+***
 Question - What is the most used language in programming?
 
 Profanity.
