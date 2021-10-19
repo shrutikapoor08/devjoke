@@ -1,6 +1,6 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
-Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
+Thank you for adding a DevJoke. Add text jokes at the **TOP** of the page followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
 ***
 Question - What is the most used language in programming?
@@ -40,16 +40,16 @@ A: Because they work below C level.
 
 * * * 
 
-Q:Tell Something About You.(To A Programmer)
+Q: Tell me something about you.(To A Programmer)
 
-A:I'm a writer, but no one in my relatives can read what i write.
+A: I'm a writer, but no one in my relatives can read what I write.
 
 
 * * *
 
 Q: Why do programmers prefer dark mode?
 
-A: Because light attracts bugs
+A: Because light attracts bugs.
 
 ***
 
@@ -91,14 +91,14 @@ A: A programmer is a machine who turns coffee into code.
 
 
 * * *
-Question: Why NodeJs developer need Helmet?
+Question: Why NodeJs developers need a helmet?
 
-Answer: To Secure Headers.
+Answer: To secure Headers.
 
 * * *
 Question: What do programmers inherit?
 
-Technical Debt
+Answer: Technical Debt
 
 
 * * *
@@ -147,11 +147,6 @@ I have a joke about stackoverflow but you will say it's duplicated
 
 ***
 
-![LITTLE BOBBY](./images/little-bobby.jpg)
-
-***
-
-
 There are two types of People{
 
 and those who
@@ -181,9 +176,9 @@ Best pickup line for a JS dev ?
 
 ***
 
-New programmer : It realy worked at first time.👍
+New programmer : It realy worked the first time.👍
 
-Experienced programmer : It realy worked at first time??🤔
+Experienced programmer : It realy worked the first time?🤔
 
 ***
 📄 Documentation is like sex.
@@ -205,7 +200,7 @@ God: Ok, JPG or JPEG?
 
 * * *
 
-Wife: Honey! Can't open the jar.
+Wife: Honey!  I can't open the jar.
 
 *Me: Download and install Java.
 
@@ -235,9 +230,6 @@ JavaScript: SHHHHHH! 🤫
 
 Data scientists should be charged with animal trafficking and animal abuse because they import pandas and feed them to python.
 
-
-* * *
-![Confidence level of a Programmer](./images/confidenceJoke.jpeg)
 * * *
 
 
@@ -940,6 +932,10 @@ But they won't give me the source code.
 
 ***
 
+![Confidence level of a Programmer](./images/confidenceJoke.jpeg)
+
+***
+
 
 ![new_painitingai](https://user-images.githubusercontent.com/72219783/94889728-d0d49700-049a-11eb-85f1-40ddd7d76c6d.jpg)
 
@@ -1287,12 +1283,6 @@ An Algorithm a day, Keeps a mass recruiter away.
 What did the router say to the doctor?
 “It hurts when IP”
 
-***
-![productionTesting](./images/productionTesting.jpg)
-
-***
-
-![legacy-code](./images/legacy-code.png)
 
 ***
 To replace programmers with robots, clients will have to accurately describe what they want.
@@ -1485,9 +1475,21 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ![PerfectDate](./images/joke.jpg)
 
 ***
-![BinaryTree](./images/245043822_4384448964937281_5019590283933767997_n.jpeg)
 
+![LITTLE BOBBY](./images/little-bobby.jpg)
+
+***
+
+![BinaryTree](./images/245043822_4384448964937281_5019590283933767997_n.jpeg)
 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
+***
+
+![productionTesting](./images/productionTesting.jpg)
+
+***
+
+![legacy-code](./images/legacy-code.png)
+
 ***
