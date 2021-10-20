@@ -4,7 +4,8 @@ Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add yo
 ***
 Your next task is to write the program without any warning or error.
 
-Me - 
+Me -
+
 ![Squid Game Scene](./images/squidgame-scene.jpg)
 
 ***
