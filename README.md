@@ -1491,3 +1491,10 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+
+
+Q: What's the object-oriented way to become wealthy?
+
+A: Inheritance :)
+
+***
