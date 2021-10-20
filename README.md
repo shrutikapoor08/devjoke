@@ -1,6 +1,11 @@
 # Dev Joke
 #### Send me a PR if you know a good Dev Joke.
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
+***
+Your next task is to write the program without any warning or error.
+
+Me - 
+![Squid Game Scene](./images/squidgame-scene.jpg)
 
 ***
 Question - What is the most used language in programming?
