@@ -1490,4 +1490,10 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
+
 ***
+If i use a computer on a plane
+Is it called cloud computing?
+***
+
+
