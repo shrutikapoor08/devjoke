@@ -1494,3 +1494,7 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+
+#### There are 10 kinds of people in this world, those who understand binary, and those who don’t.
+
+***
