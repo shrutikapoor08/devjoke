@@ -1494,3 +1494,6 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+
+Q: Why did SEO cross the road?
+A: Because he wanted to get hit with traffic
