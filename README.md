@@ -1494,3 +1494,8 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+
+***
+One hundred little bugs in the code; one hundred little bugs. Patch a bug, compile the code. One hundred and twenty one little bugs in the code.
+***
+
