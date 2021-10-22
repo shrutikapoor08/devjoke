@@ -1274,7 +1274,7 @@ Ubuntu users are apt to get this joke
 
 ***
 
-#### What do you call a programmer from Finland? 
+#### What do you call a programmer from Finland?
 Answer: Nerdic
 ***
 
@@ -1493,4 +1493,7 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
+***
+![TalkAboutIt](./images/talkaboutit.jpg)
+
 ***
