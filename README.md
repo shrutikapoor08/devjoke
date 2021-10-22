@@ -1494,3 +1494,7 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+### What is the programming language that hard to learn by a liar?
+
+Answer: Javascript. Because he can't learn to promise
+***
