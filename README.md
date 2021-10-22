@@ -1274,7 +1274,7 @@ Ubuntu users are apt to get this joke
 
 ***
 
-#### What do you call a programmer from Finland? 
+#### What do you call a programmer from Finland?
 Answer: Nerdic
 ***
 
@@ -1381,7 +1381,7 @@ Alexa: Hi, would you like to hear a TCP joke? kkkk
 ***
 
 Girl: What is your idea of perfect date?
-Boy: DD/MM/YYYY because other formats can be confusing 
+Boy: DD/MM/YYYY because other formats can be confusing
 
 In order to understand recursion, one must first understand recursion.
 
@@ -1493,4 +1493,7 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
+***
+
+![Fullstack Developer](./images/fullstack-developer.jpeg)
 ***
