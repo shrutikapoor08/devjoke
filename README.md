@@ -1494,3 +1494,7 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+
+***
+![NewbieProgrammers](https://user-images.githubusercontent.com/40368446/137924984-340d8a87-2256-4217-bbea-77b04901514d.jpg)
+***
