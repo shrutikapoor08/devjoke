@@ -1494,3 +1494,10 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+
+Q: What is the most used language in programming?
+A: Profanity
+
+***
+
+
