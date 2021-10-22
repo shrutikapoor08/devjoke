@@ -1494,3 +1494,6 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+
+The day Android Studio eats less RAM is the day when global warming stops.<br>
+Earth : *chuckles* I'm in danger.
