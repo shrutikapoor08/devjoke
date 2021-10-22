@@ -1494,3 +1494,9 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+
+How many of you have had something go terribly wrong in git?
+Yeah, I believe there's a term for that:
+"Git happens!"
+
+***
