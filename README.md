@@ -41,7 +41,7 @@ Q: Why are assembly programmers always soaking wet?
 
 A: Because they work below C level.
 
-* * * 
+* * *
 
 Q:Tell Something About You.(To A Programmer)
 
@@ -1274,7 +1274,7 @@ Ubuntu users are apt to get this joke
 
 ***
 
-#### What do you call a programmer from Finland? 
+#### What do you call a programmer from Finland?
 Answer: Nerdic
 ***
 
@@ -1381,7 +1381,7 @@ Alexa: Hi, would you like to hear a TCP joke? kkkk
 ***
 
 Girl: What is your idea of perfect date?
-Boy: DD/MM/YYYY because other formats can be confusing 
+Boy: DD/MM/YYYY because other formats can be confusing
 
 In order to understand recursion, one must first understand recursion.
 
@@ -1473,7 +1473,7 @@ Father : Talk is cheap, Show me the code.
 
 
 ***
-A programmer's wife tells him, 
+A programmer's wife tells him,
 "While you're at the grocery store, buy some eggs."
 He never comes back.
 ***
@@ -1493,4 +1493,8 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
+***
+
+***
+![Java Joke](./images/avengers_java.png)
 ***
