@@ -1494,3 +1494,35 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+
+***
+
+#### Why did the programmer leave his job?
+
+Answer: Because he didn't get arrays.
+
+***
+
+***
+
+#### Why did the data base administrator leave his wife?
+
+Answer: Because she had on-to-many relationships
+
+***
+
+***
+
+#### What did the Java programmer say to the C programmer?
+
+Answer: You’ve got no class
+
+***
+
+***
+
+#### What is the object oriented way to become wealthy? 
+
+Answer: Inheritance
+
+***
