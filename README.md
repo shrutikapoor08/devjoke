@@ -1494,3 +1494,7 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+Someone yelled: 
+       No one can work 24 hours straight !!!
+Meanwhile programmers in Hackathon were smirking.
+***
