@@ -1494,3 +1494,17 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+
+***
+I have a joke on UDP but you wouldn't get it😂.
+***
+
+***
+getting degree with no placement is like saying-"I love you but as a Friend😂".
+***
+
+***
+Interviewer-"Tell me about deadlock and I will hire you".
+Me-"Hire me and I will tell you".
+***
+
