@@ -1494,3 +1494,6 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
+
+How did Ellen DeGeneres print her name?
+A: System.out.println();
