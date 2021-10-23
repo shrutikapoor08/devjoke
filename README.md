@@ -921,6 +921,10 @@ To understand what recursion is, you must first understand recursion.
 
 ***
 
+A foo walks into a bar, takes look around and says "Hello World"!
+
+***
+
 Non-Programmer - You can't keep doing the same thing and expect different results🧐
 
 Programmer- Let me introduce you to "DEBUGGING"💻⚠
