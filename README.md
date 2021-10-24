@@ -6,6 +6,11 @@
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
 ***
+
+Q - What is the bravest yet the stupidest thing to do?
+A - Ask an Intern to deploy a production code without reviewing it.
+
+***
 Question - What is the most used language in programming?
 
 Profanity.
