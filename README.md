@@ -1495,6 +1495,8 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ![Ctrl_Alt_Delete](./images/Ctrl_Alt_Delete.jpg)
 ***
 
+![Linux vs Windows](./images/linux-vs-windows-joke.jpg)
+
 ***
 Software and cathedrals are much the same — first we build them, then we pray.
 ***
