@@ -1498,4 +1498,6 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 Software and cathedrals are much the same — first we build them, then we pray.
 ***
-
+Q. What is the number 1 rule of Programming?
+-If a code works, do not touch it.
+***
