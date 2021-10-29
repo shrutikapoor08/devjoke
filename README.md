@@ -1,5 +1,5 @@
 # Dev Joke
-## We have decided to NOT support Hacktoberfest anymore. 
+## We have decided to NOT support Hacktoberfest anymore.
 
 #### Send me a PR if you know a good Dev Joke.
 
@@ -1274,7 +1274,7 @@ Ubuntu users are apt to get this joke
 
 ***
 
-#### What do you call a programmer from Finland? 
+#### What do you call a programmer from Finland?
 Answer: Nerdic
 ***
 
@@ -1381,7 +1381,7 @@ Alexa: Hi, would you like to hear a TCP joke? kkkk
 ***
 
 Girl: What is your idea of perfect date?
-Boy: DD/MM/YYYY because other formats can be confusing 
+Boy: DD/MM/YYYY because other formats can be confusing
 
 In order to understand recursion, one must first understand recursion.
 
@@ -1473,7 +1473,7 @@ Father : Talk is cheap, Show me the code.
 
 
 ***
-A programmer's wife tells him, 
+A programmer's wife tells him,
 "While you're at the grocery store, buy some eggs."
 He never comes back.
 ***
@@ -1499,3 +1499,10 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 Software and cathedrals are much the same — first we build them, then we pray.
 ***
 
+***
+Question: How do you tell an introverted computer scientist
+from an extroverted computer scientist?
+
+Answer: An extroverted computer sientist looks at your
+shoes when he talks to you.
+***
