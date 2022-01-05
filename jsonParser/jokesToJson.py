@@ -1,7 +1,7 @@
 import json
 
 jokes = {}
-with open("readme.md", "r", encoding="utf8") as file:
+with open("../readme.md", "r", encoding="utf8") as file:
     text = file.read()
     text = text.replace(
         "***", "* * *"
