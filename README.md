@@ -243,6 +243,13 @@ Data scientists should be charged with animal trafficking and animal abuse becau
 * * *
 
 
+* * *
+#### There are only two hard problems in computer science
+
+Naming, caching and off-by-one errors.
+
+* * *
+
 A logician's wife is having a baby.
 The doctor immediately hands the newborn to the dad.
 The wife asks impatiently "Is it a boy or a girl?"
