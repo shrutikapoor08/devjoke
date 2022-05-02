@@ -5,6 +5,30 @@
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
 ***
+
+Interviewer: What is your biggest strength?
+
+Me: I'm an expert in machine learning.
+
+Interviewer: What's 10 + 4?
+
+Me: Zero
+
+Interviewer: Not even close! It's 14.
+
+Me: It's 8.
+
+Interviewer: Wrong. It's 14.
+
+Me: It's 12.
+
+Interviewer: It's 14.
+
+Me: It's 14.
+
+Interviewer: You're hired!
+
+***
 Question - What is the most used language in programming?
 
 Profanity.
