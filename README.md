@@ -239,7 +239,15 @@ Data scientists should be charged with animal trafficking and animal abuse becau
 
 
 * * *
+
 ![Confidence level of a Programmer](./images/confidenceJoke.jpeg)
+
+* * *
+
+When I wrote this code, only God & I understand what it did.
+now...
+Only God knows.
+
 * * *
 
 
