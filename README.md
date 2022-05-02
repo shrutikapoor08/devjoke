@@ -17,6 +17,14 @@ Answer: Because they have two shifts.
 
 * * *
 
+A: Hey, you know what sucks?
+B: vaccuums
+A: Hey, you know what sucks in a metaphorical sense?
+B: black holes
+A: Hey, you know what just isn't cool?
+B: lava?
+
+* * *
 
 Q: Which famous rapper knows Assembly?
 
