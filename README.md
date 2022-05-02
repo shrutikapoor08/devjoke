@@ -4,6 +4,12 @@
 
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
+
+***
+Teacher - God and satan cannot be together in one place.
+
+Student - But i have a Constructor(God) and a destructer(satan) in a single Class Mam!!
+
 ***
 Question - What is the most used language in programming?
 
