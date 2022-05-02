@@ -17,6 +17,12 @@ Answer: Because they have two shifts.
 
 * * *
 
+Q: Where does the queen trace errors in her applications?
+
+A: Debuggingham Palace
+
+* * *
+
 
 Q: Which famous rapper knows Assembly?
 
