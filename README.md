@@ -154,6 +154,12 @@ I have a joke about stackoverflow but you will say it's duplicated
 ***
 
 
+Question: Why did the functions stop calling each other?
+
+Answer: Because they had too many arguments.
+
+* * *
+
 There are two types of People{
 
 and those who
