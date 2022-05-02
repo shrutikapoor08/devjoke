@@ -164,6 +164,11 @@ Answer: Don't worry, they'll tell you.
 
 * * *
 
+If human beings evolved new organs as frequently as they do javascript frameworks, you
+can bet the doctors would be googling it too.
+
+* * *
+
 Best pickup line for a JS dev ?
 
 - Be the promise to my callback ❤️.
