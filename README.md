@@ -14,6 +14,10 @@ Profanity.
 Question: Why don't keyboards sleep?
 Answer: Because they have two shifts.
 
+*** 
+
+Q: How many programmers does it take to change a lightbulb?
+A: none, its a hardware problem 
 
 * * *
 
