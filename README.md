@@ -17,6 +17,13 @@ Answer: Because they have two shifts.
 
 * * *
 
+Q: Define Algorithm?
+
+Answer: "Word used by programmers when they dont know what they did...".
+
+
+* * *
+
 
 Q: Which famous rapper knows Assembly?
 
