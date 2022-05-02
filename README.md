@@ -1,5 +1,4 @@
 # Dev Joke
-## We have decided to NOT support Hacktoberfest anymore. 
 
 #### Send me a PR if you know a good Dev Joke.
 
