@@ -1,6 +1,10 @@
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
+* * *
+Why does C get all the firls, and Java gets none?
+
+Because C doesn't treat them as objects.
 
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
