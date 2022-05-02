@@ -1498,3 +1498,19 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 Software and cathedrals are much the same — first we build them, then we pray.
 ***
 
+***
+![Variables](./images/variables.jpeg)
+***
+
+<<<<<<< HEAD
+=======
+***
+
+![documentation](./images/documentation.png)
+
+***
+
+![where-did-you-two-meet](./images/where-did-you-two-meet.jpeg)
+
+***
+>>>>>>> 8cec24b5090f8b56a7fba1384e81cbbd2fcdf193
