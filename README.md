@@ -87,6 +87,10 @@ A: The part of the computer which you can kick.
 
 * * *
 
+There are only 10 kinds of people in this world: those who know binary and those who don’t.
+
+* * *
+
 Q: Who is a programmer?
 
 A: A programmer is a machine who turns coffee into code.
