@@ -17,6 +17,9 @@ Answer: Because they have two shifts.
 
 * * *
 
+Oneliner: WTH is data, it's data!
+
+* * *
 
 Q: Which famous rapper knows Assembly?
 
