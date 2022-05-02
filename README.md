@@ -924,6 +924,12 @@ Non-Programmer - You can't keep doing the same thing and expect different result
 
 Programmer- Let me introduce you to "DEBUGGING"💻⚠
 
+---
+
+**An optimist says:** "The glass is half full."
+**A pessimist says:** "The glass is half empty."
+**A programmer says:** "The glass is twice as large as it needs to be." :smile:
+
 ***
 
 #### What is a ghost's favourite type?
