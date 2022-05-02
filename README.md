@@ -808,6 +808,12 @@ But its just so obtuse
 
 ***
 
+####  Why do developers use Dark Mode?
+
+Because, light attracts bugs 🐛
+
+***
+
 Guy 1: Its so cold, the heater has stopped working !!
 Android Dev: (Turns on Android Studio) There you go !
 ***
