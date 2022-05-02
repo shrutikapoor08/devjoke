@@ -158,6 +158,8 @@ There are two types of People{
 
 and those who
 {
+
+* * * 
 Question: How do you know if someone uses Linux?
 
 Answer: Don't worry, they'll tell you.
@@ -1487,7 +1489,7 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ![PerfectDate](./images/joke.jpg)
 
 ***
-![BinaryTree](./images/245043822_4384448964937281_5019590283933767997_n.jpeg)
+![BinaryTree](./images/245043822_4384448964937281_5019590283933767997_n.jpg)
 
 
 ***
