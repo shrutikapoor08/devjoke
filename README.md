@@ -1497,4 +1497,4 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 Software and cathedrals are much the same — first we build them, then we pray.
 ***
-
+![Perfection](./images/perfection.jpg)
