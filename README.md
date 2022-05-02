@@ -55,12 +55,6 @@ A: Because light attracts bugs
 
 ***
 
-Q: Favourite actor of a JavaScript Developer is?
-
-A: JSON Statham ![LITTLE BOBBY](./images/E12OmzjXoAAzVvh.jpeg)
-
-* * *
-
 Q: Why do they call it hyper text?
 
 A: Too much JAVA.
@@ -149,10 +143,6 @@ I have a joke about stackoverflow but you will say it's duplicated
 
 ***
 
-![LITTLE BOBBY](./images/little-bobby.jpg)
-
-***
-
 
 There are two types of People{
 
@@ -237,9 +227,6 @@ JavaScript: SHHHHHH! 🤫
 
 Data scientists should be charged with animal trafficking and animal abuse because they import pandas and feed them to python.
 
-
-* * *
-![Confidence level of a Programmer](./images/confidenceJoke.jpeg)
 * * *
 
 
@@ -786,19 +773,8 @@ Programmer:- No comment
 
 ***
 
-![Assembly](./images/assembly_pointers.png)
-
-A physicist, an engineer and a programmer were in a car driving over a steep alpine pass when the brakes failed. The car was getting faster and faster, they were struggling to get round the corners and once or twice only the feeble crash barrier saved them from crashing down the side of the mountain. They were sure they were all going to die, when suddenly they spotted an escape lane. They pulled into the escape lane, and came safely to a halt.
-
-The physicist said "We need to model the friction in the brake pads and the resultant temperature rise, see if we can work out why they failed".
-
-The engineer said "I think I've got a few spanners in the back. I'll take a look and see if I can work out what's wrong".
-
-The programmer said "Why don't we get going again and see if it's reproducible?"
-
-***
-
 I now understand why english grammar was taught in school,because it takes me a while to think the difference between "sign up" and "sign in" before i click the wrong one.
+
 ***
 
 
@@ -935,6 +911,206 @@ Answer: Boooooooolean.
 ### I'd like to make the world a better place...
 
 But they won't give me the source code.
+
+***
+Son: Dad, why do the sun rise in east and set in west ?
+Programmer dad: hey, it works!! Don't touch it ;
+
+***
+
+
+A programmer walks to the butcher shop and buys a kilo of meat.  An hour later he comes back upset that the butcher shortchanged him by 24 grams.
+
+***
+
+The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+
+***
+
+#### Question: What's did the Git engineer ask the waitress for?
+
+Answer: A fork.
+
+***
+
+#### Q. In a world where computer programs were TV shows, why would a JS program never be a reality TV show?
+Ans. - because it's scripted.
+
+***
+
+#mother {
+  right: 100%;
+  margin: 0;
+}
+
+***
+She: You told me you were fullstack!
+
+Me: Full Stackoverflow
+
+***
+
+A physicist, an engineer and a programmer were in a car driving over a steep alpine pass when the brakes failed. The car was getting faster and faster, they were struggling to get round the corners and once or twice only the feeble crash barrier saved them from crashing down the side of the mountain. They were sure they were all going to die, when suddenly they spotted an escape lane. They pulled into the escape lane, and came safely to a halt.
+
+The physicist said "We need to model the friction in the brake pads and the resultant temperature rise, see if we can work out why they failed".
+
+The engineer said "I think I've got a few spanners in the back. I'll take a look and see if I can work out what's wrong".
+
+The programmer said "Why don't we get going again and see if it's reproducible?"
+
+***
+
+#### What is a computer's favorite beat?
+Answer: An algo-rhythm
+
+***
+
+### If Programming Languages Were To Propose:
+
+Java: I promise there hasn’t been a day that I stopped wanting you and haven’t gotten out of my head at all since I first met you!!
+
+Python: I love you ;)
+
+***
+
+Ubuntu users are apt to get this joke
+
+***
+
+#### What do you call a programmer from Finland? 
+Answer: Nerdic
+***
+
+An Algorithm a day, Keeps a mass recruiter away.
+
+#### What is a developer's favorite country song?
+
+Answer: Hello World - by Lady Antebellum
+
+***
+What do cupboards and Java have in common?
+
+Jars.
+
+***
+
+Son : Dad, I feel like i am a programmer now.
+Father : Talk is cheap, Show me the code.
+
+***
+
+A programmer's wife tells him, 
+"While you're at the grocery store, buy some eggs."
+He never comes back.
+***
+
+Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
+
+***
+
+To replace programmers with robots, clients will have to accurately describe what they want.
+We are safe.
+
+***
+
+I love pressing the F5 key. It's refreshing.
+
+***
+
+Chuck Norris’s keyboard doesn’t have a Ctrl key because nothing controls Chuck Norris.
+
+***
+
+#### Question: Why do programmers and coders hate nature?
+
+Answer: It has too many bugs.
+
+***
+
+#### What would you call a web developer who enjoys finding bugs?
+Answer: spider
+
+***
+
+#### Why is shipping code a lie?
+
+Answer: Because every deploy has "ploy" in it.
+
+***
+
+Autocorrect can go straight to he’ll. —Constance Normandeau
+
+***
+
+#### What did the Java code say to the C code?
+
+Answer: You've got no class.
+
+***
+
+Did you hear about the monkeys who shared an Amazon account? They were Prime mates.
+
+***
+
+
+Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
+
+* * *
+
+Q: Why do kayakaers make bad programmers?
+A: Because they are afraid of waterfall.
+
+
+***
+One thing I know is that a computer science major didn't name the original pokemon.
+Otherwise, charmander would evolve into stringmander.
+
+
+***
+
+
+
+Me: Alexa, I would like to hear a TCP joke.
+
+Alexa: Hi, would you like to hear a TCP joke?
+
+Me: Yes, I would like to hear a TCP joke.
+
+Alexa: I'm about to tell you a TCP joke. It will last 10 seconds. It has a beginning and a solid punchline in the end.
+
+Me: Ok. Hit it. I'm excited to hear a TCP joke.
+
+Alexa: Sorry, your connection has timed out.
+
+...
+
+Alexa: Hi, would you like to hear a TCP joke? kkkk
+
+***
+
+Girl: What is your idea of perfect date?
+Boy: DD/MM/YYYY because other formats can be confusing 
+
+In order to understand recursion, one must first understand recursion.
+
+***
+Q: **Why did the database administrator leave his wife?**
+
+A: She had one-to-many realtionships.
+
+***
+
+Q: Favourite actor of a JavaScript Developer is?
+
+A: JSON Statham ![LITTLE BOBBY](./images/E12OmzjXoAAzVvh.jpeg)
+
+* * *
+
+![Confidence level of a Programmer](./images/confidenceJoke.jpeg)
+
+* * *
+
+![LITTLE BOBBY](./images/little-bobby.jpg)
 
 ***
 
@@ -1206,6 +1382,7 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 ![where is the Github source code?](./images/github_joke.jpg)
 
+***
 
 ![CanI?](./images/ComunismOfClass.jpeg)
 
@@ -1215,70 +1392,7 @@ Answer: ![umbrella](./images/umbrella.gif)
 
 ***
 
-
-Son: Dad, why do the sun rise in east and set in west ?
-Programmer dad: hey, it works!! Don't touch it ;
-
-***
-
-
-A programmer walks to the butcher shop and buys a kilo of meat.  An hour later he comes back upset that the butcher shortchanged him by 24 grams.
-
-***
-
-The best thing about a Boolean is even if you are wrong, you are only off by a bit.
-
-***
-
-#### Question: What's did the Git engineer ask the waitress for?
-
-Answer: A fork.
-
-***
-
-#### Q. In a world where computer programs were TV shows, why would a JS program never be a reality TV show?
-Ans. - because it's scripted.
-
-***
-
-#mother {
-  right: 100%;
-  margin: 0;
-}
-
-***
-
-She: You told me you were fullstack!
-Me: Full Stackoverflow
-***
-
 ![Java joke](./images/javaJoke.png)
-
-***
-
-#### What is a computer's favorite beat?
-Answer: An algo-rhythm
-
-***
-
-### If Programming Languages Were To Propose:
-
-Java: I promise there hasn’t been a day that I stopped wanting you and haven’t gotten out of my head at all since I first met you!!
-
-Python: I love you ;)
-
-***
-
-Ubuntu users are apt to get this joke
-
-***
-
-#### What do you call a programmer from Finland? 
-Answer: Nerdic
-***
-
-An Algorithm a day, Keeps a mass recruiter away.
-
 
 ***
 
@@ -1297,94 +1411,7 @@ What did the router say to the doctor?
 ![legacy-code](./images/legacy-code.png)
 
 ***
-To replace programmers with robots, clients will have to accurately describe what they want.
-We are safe.
 
-***
-
-I love pressing the F5 key. It's refreshing.
-
-***
-
-Chuck Norris’s keyboard doesn’t have a Ctrl key because nothing controls Chuck Norris.
-
-***
-
-#### Question: Why do programmers and coders hate nature?
-
-Answer: It has too many bugs.
-
-***
-
-#### What would you call a web developer who enjoys finding bugs?
-Answer: spider
-
-***
-
-#### Why is shipping code a lie?
-
-Answer: Because every deploy has "ploy" in it.
-
-***
-
-Autocorrect can go straight to he’ll. —Constance Normandeau
-
-***
-
-
-
-
-#### What did the Java code say to the C code?
-
-Answer: You've got no class.
-
-***
-
-Did you hear about the monkeys who shared an Amazon account? They were Prime mates.
-
-***
-
-
-Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
-
-* * *
-Q: Why do kayakaers make bad programmers?
-A: Because they are afraid of waterfall.
-
-
-***
-One thing I know is that a computer science major didn't name the original pokemon.
-Otherwise, charmander would evolve into stringmander.
-
-
-***
-
-
-
-Me: Alexa, I would like to hear a TCP joke.
-
-Alexa: Hi, would you like to hear a TCP joke?
-
-Me: Yes, I would like to hear a TCP joke.
-
-Alexa: I'm about to tell you a TCP joke. It will last 10 seconds. It has a beginning and a solid punchline in the end.
-
-Me: Ok. Hit it. I'm excited to hear a TCP joke.
-
-Alexa: Sorry, your connection has timed out.
-
-...
-
-Alexa: Hi, would you like to hear a TCP joke? kkkk
-
-***
-
-Girl: What is your idea of perfect date?
-Boy: DD/MM/YYYY because other formats can be confusing 
-
-In order to understand recursion, one must first understand recursion.
-
-***
 ![DEVExcuses](./images/96159609_699388344131798_2782988831844990976_o.jpg)
 
 ***
@@ -1432,17 +1459,6 @@ Code is like humor. When you have to explain it, it’s bad.
 
 * * *
 
-
-#### What is a developer's favorite country song?
-
-Answer: Hello World - by Lady Antebellum
-
-***
-What do cupboards and Java have in common?
-
-Jars.
-
-***
 ![StartupMotivation](./images/startup-motivation.jpg)
 ***
 ![Memory](./images/memory.jpg)
@@ -1452,10 +1468,7 @@ Jars.
 ![Meaningful Messages](./images/meaningful_commits.png)
 
 ***
-Son : Dad, I feel like i am a programmer now.
-Father : Talk is cheap, Show me the code.
 
-***
 ![Howto_Google](./images/howtogoogle.jpg)
 
 ***
@@ -1463,27 +1476,20 @@ Father : Talk is cheap, Show me the code.
 
 ***
 
-![sql-join](./images/sql-join.jpg)
+![Program_mess](./images/programmess.jpg)
+
 ***
 
-![Program_mess](./images/programmess.jpg)
-***
 ![python-joke](https://user-images.githubusercontent.com/42266013/136796032-c6f8b57c-fa78-482f-93cc-b2077a197a55.jpg)
 
 
-***
-A programmer's wife tells him, 
-"While you're at the grocery store, buy some eggs."
-He never comes back.
 ***
 
 ![The Weekend Is Here](./images/weekend.jpg)
 
 
 ***
-Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
 
-***
 ![PerfectDate](./images/joke.jpg)
 
 ***
