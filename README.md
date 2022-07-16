@@ -17,6 +17,10 @@ Answer: Because they have two shifts.
 
 * * *
 
+Question: Have you heard about the new Cray super computer?  
+Answer: It’s so fast, it executes an infinite loop in 6 seconds.
+
+* * *
 
 Q: Which famous rapper knows Assembly?
 
