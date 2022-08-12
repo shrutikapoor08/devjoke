@@ -5,6 +5,11 @@
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
 ***
+
+I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k.
+It was a trip down Memory Lane.
+
+***
 Question - What is the most used language in programming?
 
 Profanity.
