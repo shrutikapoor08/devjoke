@@ -6,9 +6,13 @@ Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add yo
 ***
 
 ME: I hate programming...
+
 ME: I hate programming...
+
 ME: I hate programming...
+
 ME: IT WORKS !!!
+
 ME: I love programming...
 
 ***
