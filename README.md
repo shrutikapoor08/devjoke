@@ -5,6 +5,13 @@
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
 ***
+Question - Why did the programmer quit his job?
+
+Because he didn't get arrays.
+
+![Patricia Rodrigues](./images/monkey.jpg)
+
+***
 Question - What is the most used language in programming?
 
 Profanity.
