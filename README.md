@@ -1498,3 +1498,8 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 Software and cathedrals are much the same — first we build them, then we pray.
 ***
 
+***
+Question: Why nobody likes FP Programmers?
+Answer: They don't have any class.
+***
+
