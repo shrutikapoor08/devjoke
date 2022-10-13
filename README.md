@@ -786,6 +786,12 @@ Programmer:- No comment
 
 ***
 
+A guy walks into a bar and asks for 1.014 root beers.
+The bartender says, "I'll have to charge you extra, that's a root beer float."
+So the guy says, "In that case, better make it a double."
+
+***
+
 ![Assembly](./images/assembly_pointers.png)
 
 A physicist, an engineer and a programmer were in a car driving over a steep alpine pass when the brakes failed. The car was getting faster and faster, they were struggling to get round the corners and once or twice only the feeble crash barrier saved them from crashing down the side of the mountain. They were sure they were all going to die, when suddenly they spotted an escape lane. They pulled into the escape lane, and came safely to a halt.
