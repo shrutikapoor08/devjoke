@@ -14,6 +14,9 @@ Profanity.
 Question: Why don't keyboards sleep?
 Answer: Because they have two shifts.
 
+* * *
+
+A chemist, a mechanical engineer, and a Microsoft engineer were all driving down the road.  The car stalled out.  The chemist asked “Maybe the fuel has some impurities in it, I know how to test for that”.  The mechanical engineer said “Maybe the clutch has worn down, we need to look at that”.  The Microsoft engineer said “We should open all the doors and close them again”.
 
 * * *
 
