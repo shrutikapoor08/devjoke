@@ -14,6 +14,11 @@ Profanity.
 Question: Why don't keyboards sleep?
 Answer: Because they have two shifts.
 
+* * *
+
+The should announce a sequel to Groundhog Day and then just re-release the original.
+
+* * *
 
 * * *
 
