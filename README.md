@@ -188,6 +188,9 @@ New programmer : It realy worked at first time.👍
 Experienced programmer : It realy worked at first time??🤔
 
 ***
+Q: “What’s the difference between England and a tea bag? “
+
+A: “The tea bag stays in the cup longer.”
 📄 Documentation is like sex.
 
 When it's good, it's very good.
