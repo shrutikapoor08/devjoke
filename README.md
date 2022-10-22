@@ -1345,6 +1345,14 @@ Did you hear about the monkeys who shared an Amazon account? They were Prime mat
 ***
 
 
+***
+What is programming?
+programming is a tool to solve real life problems.
+***
+
+
+
+
 Due to Coronovirus (COVID19) all TCP applications are being converted to UDP to avoid Handshakes..!!
 
 * * *
