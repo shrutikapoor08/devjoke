@@ -363,7 +363,10 @@ Broken state machine.
 Broken state machine who?
 
 Knock knock.
+* * *
 
+Q. How did the programmer die in the shower?
+A. He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 * * *
 
