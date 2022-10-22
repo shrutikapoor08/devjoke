@@ -1497,4 +1497,6 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 Software and cathedrals are much the same — first we build them, then we pray.
 ***
-
+007
+​the British Secret Service code name of James Bond in the novels by Ian Fleming and in the films based on them.
+(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/irish-actor-pierce-brosnan-as-james-bond-in-a-publicity-news-photo-138084872-1551742467.jpg?crop=1xw:1xh;center,top&resize=480:*)
