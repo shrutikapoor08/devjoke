@@ -5,6 +5,10 @@
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
 ***
+Q: Why did the Java developer teach his young kids about single quotes?
+Because they build characters.
+
+***
 Question - What is the most used language in programming?
 
 Profanity.
