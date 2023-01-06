@@ -5,6 +5,10 @@
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
 ***
+Q: What's the first step in understanding recursion?
+To understand recursion, you must first understand recursion.
+
+***
 Question - What is the most used language in programming?
 
 Profanity.
