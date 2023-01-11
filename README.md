@@ -1498,3 +1498,9 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 Software and cathedrals are much the same — first we build them, then we pray.
 ***
 
+***
+Q: Why do Websockets make the best therapists?
+
+A: They are always listening.
+***
+
