@@ -1319,6 +1319,13 @@ Answer: spider
 
 ***
 
+#### Why was JavaScript sad?
+
+Because it didn't know how to null its feelings.
+
+
+***
+
 #### Why is shipping code a lie?
 
 Answer: Because every deploy has "ploy" in it.
