@@ -948,6 +948,37 @@ But they won't give me the source code.
 
 * * *
 
+![image](https://user-images.githubusercontent.com/84919650/227746878-a9e90a6d-f700-4455-8fd5-74b26e06fd60.png)
+
+
+* * *
+
+![image](https://user-images.githubusercontent.com/84919650/227746918-74ae62a5-0aed-4f52-836d-2b1278d3921c.png)
+
+
+* * *
+
+![image](https://user-images.githubusercontent.com/84919650/227746928-77fb4371-dee4-4f6e-abbd-e41b403c5655.png)
+
+
+* * *
+
+![image](https://user-images.githubusercontent.com/84919650/227746962-2934b4fb-ac56-4a3d-a14d-44829785885c.png)
+
+* * *
+
+![image](https://user-images.githubusercontent.com/84919650/227746999-61fd2913-8735-486f-a2ba-13dff8666dde.png)
+
+
+* * *
+
+![image](https://user-images.githubusercontent.com/84919650/227747007-20cc70b7-88ca-4795-9444-a89874f601be.png)
+
+* * *
+
+![image](https://user-images.githubusercontent.com/84919650/227747035-1fda297b-8029-45a6-88af-f88edb504401.png)
+
+* * *
 
 ![titanic](./images/titanic-float-none.png)
 
