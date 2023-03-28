@@ -1498,3 +1498,6 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 Software and cathedrals are much the same — first we build them, then we pray.
 ***
 
+#### Why did the child component have such great self-esteem?
+
+Answer:  Because its parent kept giving it props!
