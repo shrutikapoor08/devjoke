@@ -5,6 +5,21 @@
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
 ***
+Q: Why do programmers prefer dark mode?
+
+A: Because light attracts bugs.
+
+
+***
+
+***
+Q: Why did the programmer get stuck in the shower??
+
+A: Because the instructions on the shampoo bottle said: "Lather, Rinse, Repeat," and he's still stuck in an infinite loop!
+
+
+***
+
 Question - What is the most used language in programming?
 
 Profanity.
