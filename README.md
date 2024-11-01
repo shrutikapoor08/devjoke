@@ -3,6 +3,8 @@
 #### Send me a PR if you know a good Dev Joke.
 
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
+Question: What did the compiler say to the user when there was a null pointer in the calculation?
+Answer: Does not compute, dat-a leak
 
 ***
 Question - What is the most used language in programming?
