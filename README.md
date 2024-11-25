@@ -4,6 +4,18 @@
 
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
+* * *
+Question - What do you call 8 hobbits?
+
+Answer: A hobbyte.
+
+
+* * *
+Question - Why do programmers avoid the sun?
+
+Answer: Because they don't want to deal with light bugs.
+
+
 ***
 Question - What is the most used language in programming?
 
