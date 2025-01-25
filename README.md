@@ -5,6 +5,12 @@
 Thank you for adding a DevJoke. At text jokes at the **TOP** of the page, add your joke followed by `***`. Add images at the **BOTTOM** with a reference to the image in the README file.
 
 ***
+Question: Why do programmers prefer dark mode? 
+
+Answer: Because light attracts bugs.
+
+***
+
 Question - What is the most used language in programming?
 
 Profanity.
